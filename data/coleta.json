@@ -1,0 +1,350 @@
+{
+ "data_da_coleta": "2026-11-12",
+ "conjuntos": {
+  "couro_africa_sul_1": {
+   "especie": "couro",
+   "id_obis": "30bc7528-925f-4df4-b89b-d204ab024294",
+   "populacao": "África do Sul (Índico sudoeste)",
+   "registros": 3630,
+   "data_da_coleta": "2026-11-12",
+   "titulo": "Leatherback Tracking in South Africa",
+   "citacao": "Luschi, P. 2012. Leatherback Tracking in South Africa. Version 1.0.0. Dataset published in OBIS-SEAMAP. https://doi.org/10.82144/e379e535.",
+   "doi": "https://doi.org/10.82144/e379e535",
+   "licenca": "CC BY 4.0",
+   "publicado": "2025-10-07"
+  },
+  "couro_africa_sul_2": {
+   "especie": "couro",
+   "id_obis": "021165f1-0a42-4ae6-a651-c8dda089475a",
+   "populacao": "África do Sul (Índico sudoeste)",
+   "registros": 1841,
+   "data_da_coleta": "2026-11-12",
+   "titulo": "Revealing migratory behaviour of South African leatherback turtles",
+   "citacao": "Robinson, N. 2020. Revealing migratory behaviour of South African leatherback turtles. Version 1.0.0. Dataset published in OBIS-SEAMAP. https://doi.org/10.82144/cf4235bc.",
+   "doi": "https://doi.org/10.82144/cf4235bc",
+   "licenca": "CC BY-NC 4.0",
+   "publicado": "2025-10-08"
+  },
+  "cabecuda_pacifico_norte": {
+   "especie": "cabecuda",
+   "id_obis": "3b71a712-ca34-4368-a029-52b5db32b140",
+   "populacao": "Pacífico Norte",
+   "registros": 44085,
+   "data_da_coleta": "2026-11-12",
+   "titulo": "NMFS Turtle Tracking",
+   "citacao": "Parker, D., G. Balazs and J. Polovina. 2015. NMFS Turtle Tracking. Version 1.0.0. Dataset published in OBIS-SEAMAP. https://doi.org/10.82144/a625ffd3.",
+   "doi": "https://doi.org/10.82144/a625ffd3",
+   "licenca": "CC BY-NC 4.0",
+   "publicado": "2025-10-07"
+  },
+  "cabecuda_pacifico_juvenis": {
+   "especie": "cabecuda",
+   "id_obis": "f0134b03-3f28-4a87-b596-f08c896fe9d5",
+   "populacao": "Pacífico Norte",
+   "registros": 6862,
+   "data_da_coleta": "2026-11-12",
+   "titulo": "SWFSC juvenile loggerhead sea turtle tracking 2002-2005",
+   "citacao": "Dutton, P. and G. Balazs. 2025. SWFSC juvenile loggerhead sea turtle tracking 2002-2005. Version 1.0.0. Dataset published in OBIS-SEAMAP. https://doi.org/10.82144/4774e438.",
+   "doi": "https://doi.org/10.82144/4774e438",
+   "licenca": "CC0",
+   "publicado": "2025-10-07"
+  },
+  "cabecuda_taiwan": {
+   "especie": "cabecuda",
+   "id_obis": "269609a8-58e6-4b58-86af-7d3b5cd44e71",
+   "populacao": "Pacífico Norte",
+   "registros": 5093,
+   "data_da_coleta": "2026-11-12",
+   "titulo": "Loggerhead turtle movement off the coast of Taiwan",
+   "citacao": "Parker, D., G. Balazs and J. Polovina. 2015. Loggerhead turtle movement off the coast of Taiwan. Version 1.0.0. Dataset published in OBIS-SEAMAP. https://doi.org/10.82144/6b228135.",
+   "doi": "https://doi.org/10.82144/6b228135",
+   "licenca": "CC BY-NC 4.0",
+   "publicado": "2025-10-08"
+  },
+  "cabecuda_japao": {
+   "especie": "cabecuda",
+   "id_obis": "08e9a21c-7acf-4b63-96dc-34e7a3611fcd",
+   "populacao": "Pacífico Norte",
+   "registros": 251,
+   "data_da_coleta": "2026-11-12",
+   "titulo": "Adult female loggerhead turtles around Japan 1999",
+   "citacao": "Hatase, H. 2017. Adult female loggerhead turtles around Japan 1999. Version 1.0.0. Dataset published in OBIS-SEAMAP. https://doi.org/10.82144/f8e64bfd.",
+   "doi": "https://doi.org/10.82144/f8e64bfd",
+   "licenca": "CC BY-NC 4.0",
+   "publicado": "2025-10-08"
+  },
+  "cabecuda_mediterraneo_oeste": {
+   "especie": "cabecuda",
+   "id_obis": "e69a5cc7-2c7d-4ef7-8662-a68a326bddad",
+   "populacao": "Mediterrâneo",
+   "registros": 24125,
+   "data_da_coleta": "2026-11-12",
+   "titulo": "Satellite-tracking of loggerhead sea turtles tracked from western Mediterranean",
+   "citacao": null,
+   "doi": null,
+   "licenca": "CC BY 4.0",
+   "publicado": "2026-10-08"
+  },
+  "cabecuda_creta": {
+   "especie": "cabecuda",
+   "id_obis": "0801a5a2-66e3-441c-83a3-25f0ef0fc0f5",
+   "populacao": "Mediterrâneo",
+   "registros": 3479,
+   "data_da_coleta": "2026-11-12",
+   "titulo": "Loggerhead satellite tracking data from Rethymno, Crete, Greece",
+   "citacao": "Patel, S. 2018. Loggerhead satellite tracking data from Rethymno, Crete, Greece. Version 1.0.0. Dataset published in OBIS-SEAMAP. https://doi.org/10.82144/74defb4c.",
+   "doi": "https://doi.org/10.82144/74defb4c",
+   "licenca": "CC BY-NC 4.0",
+   "publicado": "2025-10-08"
+  },
+  "cabecuda_reuniao": {
+   "especie": "cabecuda",
+   "id_obis": "7687b242-05b7-48d7-a316-ba6dc34e72b5",
+   "populacao": "Índico sudoeste",
+   "registros": 20139,
+   "data_da_coleta": "2026-11-12",
+   "titulo": "IFREMER/Kélonia satellite tracked late juvenile loggerhead sea turtles from Réunion Island 2008-2012",
+   "citacao": "Bourjea, J. 2014. IFREMER/Kélonia satellite tracked late juvenile loggerhead sea turtles from Réunion Island 2008-2012. Version 1.0.0. Dataset published in OBIS-SEAMAP. https://doi.org/10.82144/a6d70b9a.",
+   "doi": "https://doi.org/10.82144/a6d70b9a",
+   "licenca": "CC BY-NC 4.0",
+   "publicado": "2025-10-08"
+  },
+  "cabecuda_mocambique": {
+   "especie": "cabecuda",
+   "id_obis": "b606c4a0-d693-4a03-9086-0be6e501c0fc",
+   "populacao": "Índico sudoeste",
+   "registros": 1258,
+   "data_da_coleta": "2026-11-12",
+   "titulo": "AICM satellite tracked loggerhead sea turtles from Mozambique 2012 under SWIOFP",
+   "citacao": "Videira, E., M. Dalleau, J. Bourjea and M. Pereira. 2015. AICM satellite tracked loggerhead sea turtles from Mozambique 2012 under SWIOFP. Version 1.0.0. Dataset published in OBIS-SEAMAP. https://doi.org/10.82144/3836a080.",
+   "doi": "https://doi.org/10.82144/3836a080",
+   "licenca": "CC BY 4.0",
+   "publicado": "2025-10-08"
+  },
+  "cabecuda_bonaire": {
+   "especie": "cabecuda",
+   "id_obis": "5ab87d96-5ef6-4886-b295-4e08d01ab65a",
+   "populacao": "Caribe",
+   "registros": 695,
+   "data_da_coleta": "2026-11-12",
+   "titulo": "Sea turtle tracking in Bonaire 2003-2011",
+   "citacao": "Nava, M. 2013. Sea turtle tracking in Bonaire 2003-2011. Version 1.0.0. Dataset published in OBIS-SEAMAP. https://doi.org/10.82144/1c6f0a7e.",
+   "doi": "https://doi.org/10.82144/1c6f0a7e",
+   "licenca": "CC BY-NC 4.0",
+   "publicado": "2025-10-07"
+  },
+  "baleia_galapagos": {
+   "especie": "baleia",
+   "id_obis": "7a9532d6-bfd2-49e9-b595-c4e7daebfc72",
+   "populacao": "Galápagos (Pacífico leste)",
+   "registros": 2813,
+   "data_da_coleta": "2026-11-12",
+   "titulo": "Datos de marcaje satelital de Rhincodon typus (Tiburon ballena) en Galápagos, Ecuador",
+   "citacao": "Hearn A R (2025). Datos de marcaje satelital de Rhincodon typus (Tiburon ballena) en Galápagos, Ecuador. Version 1.0. Universidad San Francisco de Quito USFQ. Occurrence dataset. https://doi.org/10.60545/wrv1ca",
+   "doi": "https://doi.org/10.60545/wrv1ca",
+   "licenca": "CC BY 4.0",
+   "publicado": "2025-03-13"
+  },
+  "baleia_mar_de_coral": {
+   "especie": "baleia",
+   "id_obis": "538763eb-b436-414b-b353-df94b40187a1",
+   "populacao": "Mar de Coral (Pacífico oeste)",
+   "registros": 2391,
+   "data_da_coleta": "2026-11-12",
+   "titulo": "Sightings and tracking of  Whale Sharks (Rhincodon typus) in the Coral Sea (2007-2024)",
+   "citacao": "Miller, I.B., Fitzpatrick, R., Abrantes, K.G., Norman, B., Pierce, S.J., Erdmann, M.V., Hoopes, L.A., Dudgeon, C., Dunbabin, M.D., Dove, A.D.M., Beaman, R.J., Reynolds, S.D., Rohner, C., Williams, S.M., Paton, D., Lewis, S. and Barnett, A. (2025), The Needle in the Haystack: Uncovering the First Whale Shark (Rhincodon typus) Aggregation in the Coral Sea. Ecol Evol, 15: e71552. https://doi.org/10.1002/ece3.71552",
+   "doi": " https://doi.org/10.1002/ece3.71552",
+   "licenca": "CC BY 4.0",
+   "publicado": "2026-07-13"
+  },
+  "elefante_raatd": {
+   "especie": "elefante",
+   "id_obis": "48cb8624-a221-47ed-9a6d-b99b0bb394e0",
+   "populacao": "Oceano Austral",
+   "registros": 914197,
+   "data_da_coleta": "2026-11-12",
+   "titulo": "The Retrospective Analysis of Antarctic Tracking (Standardised) Data from the Scientific Committee on Antarctic Research",
+   "citacao": "Ropert-Coudert Y, Van de Putte A P, Bornemann H, Charrassin J, Costa D P, Danis B, Hückstädt L A, Jonsen I D, Lea M, Reisinger R R, Thompson D, Torres L G, Trathan P N, Wotherspoon S, Ainley D G, Alderman R, Andrews-Goff V, Arthur B, Ballard G, Bengtson J, Bester M N, Boehme L, Bost C, Boveng P, Cleeland J, Constantine R, Crawford R J M, Dalla Rosa L, de Bruyn P N, Delord K, Descamps S, Double M, Emmerson L, Fedak M, Friedlander A, Gales N, Goebel M, Goetz K T, Guinet C, Goldsworthy S D, Harcourt R, Hinke J, Jerosch K, Kato A, Kerry K R, Kirkwood R, Kooyma G L, Kovacs K M, Lawton K, Lowther A D, Lydersen C, Lyver P O, Makhado A B, Márquez M E I, McDonald B, McMahon C, Muelbert M, Nachtsheim D, Nicholls K W, Nordøy E S, Olmastroni S, Phillips R A, Pistorius P, Plötz J, Pütz K, Ratcliffe N, Ryan P G, Santos M, Schytte Blix A, Southwell C, Staniland I, Takahashi A, Tarroux A, Trivelpiece W, Wakefield E, Weimerskirch H, Wienecke B, Xavier J C, Raymond B, Hindell M A, Van de Putte A (2024). The Retrospective Analysis of Antarctic Tracking (Standardised) Data from the Scientific Committee on Antarctic Research. Version 1.5. SCAR - AntOBIS. Samplingevent dataset. https://ipt.biodiversity.aq/resource?r=scar_raatd_trackingdata&amp;v=1.5",
+   "doi": null,
+   "licenca": "CC BY 4.0",
+   "publicado": "2024-10-23"
+  },
+  "albatroz_raatd": {
+   "especie": "albatroz",
+   "id_obis": "48cb8624-a221-47ed-9a6d-b99b0bb394e0",
+   "populacao": "Oceano Austral",
+   "registros": 120821,
+   "data_da_coleta": "2026-11-12",
+   "titulo": "The Retrospective Analysis of Antarctic Tracking (Standardised) Data from the Scientific Committee on Antarctic Research",
+   "citacao": "Ropert-Coudert Y, Van de Putte A P, Bornemann H, Charrassin J, Costa D P, Danis B, Hückstädt L A, Jonsen I D, Lea M, Reisinger R R, Thompson D, Torres L G, Trathan P N, Wotherspoon S, Ainley D G, Alderman R, Andrews-Goff V, Arthur B, Ballard G, Bengtson J, Bester M N, Boehme L, Bost C, Boveng P, Cleeland J, Constantine R, Crawford R J M, Dalla Rosa L, de Bruyn P N, Delord K, Descamps S, Double M, Emmerson L, Fedak M, Friedlander A, Gales N, Goebel M, Goetz K T, Guinet C, Goldsworthy S D, Harcourt R, Hinke J, Jerosch K, Kato A, Kerry K R, Kirkwood R, Kooyma G L, Kovacs K M, Lawton K, Lowther A D, Lydersen C, Lyver P O, Makhado A B, Márquez M E I, McDonald B, McMahon C, Muelbert M, Nachtsheim D, Nicholls K W, Nordøy E S, Olmastroni S, Phillips R A, Pistorius P, Plötz J, Pütz K, Ratcliffe N, Ryan P G, Santos M, Schytte Blix A, Southwell C, Staniland I, Takahashi A, Tarroux A, Trivelpiece W, Wakefield E, Weimerskirch H, Wienecke B, Xavier J C, Raymond B, Hindell M A, Van de Putte A (2024). The Retrospective Analysis of Antarctic Tracking (Standardised) Data from the Scientific Committee on Antarctic Research. Version 1.5. SCAR - AntOBIS. Samplingevent dataset. https://ipt.biodiversity.aq/resource?r=scar_raatd_trackingdata&amp;v=1.5",
+   "doi": null,
+   "licenca": "CC BY 4.0",
+   "publicado": "2024-10-23"
+  }
+ },
+ "funil": {
+  "couro": {
+   "registros_baixados": 5471,
+   "sem_ser_telemetria": 0,
+   "sem_data_coordenada_ou_individuo": 0,
+   "individuos_brutos": 29,
+   "individuos_repetidos_entre_conjuntos": 0,
+   "posicoes_usadas": 4938,
+   "posicoes_tiradas_pelo_filtro_de_velocidade": 533,
+   "registros_dos_individuos_usados": 5471,
+   "individuos_usados": 29
+  },
+  "cabecuda": {
+   "registros_baixados": 105987,
+   "sem_ser_telemetria": 0,
+   "sem_data_coordenada_ou_individuo": 70,
+   "individuos_brutos": 302,
+   "individuos_repetidos_entre_conjuntos": 0,
+   "posicoes_usadas": 91779,
+   "posicoes_tiradas_pelo_filtro_de_velocidade": 13179,
+   "registros_dos_individuos_usados": 105853,
+   "individuos_curtos_demais": 9,
+   "individuos_usados": 293
+  },
+  "baleia": {
+   "registros_baixados": 5204,
+   "sem_ser_telemetria": 136,
+   "sem_data_coordenada_ou_individuo": 0,
+   "individuos_brutos": 76,
+   "individuos_repetidos_entre_conjuntos": 0,
+   "individuos_curtos_demais": 40,
+   "posicoes_usadas": 3052,
+   "posicoes_tiradas_pelo_filtro_de_velocidade": 11,
+   "registros_dos_individuos_usados": 4850,
+   "individuos_usados": 36
+  },
+  "elefante": {
+   "registros_baixados": 914197,
+   "sem_ser_telemetria": 437,
+   "sem_data_coordenada_ou_individuo": 0,
+   "individuos_brutos": 437,
+   "individuos_repetidos_entre_conjuntos": 0,
+   "posicoes_usadas": 913144,
+   "posicoes_tiradas_pelo_filtro_de_velocidade": 616,
+   "registros_dos_individuos_usados": 913760,
+   "individuos_usados": 437
+  },
+  "albatroz": {
+   "registros_baixados": 120821,
+   "sem_ser_telemetria": 253,
+   "sem_data_coordenada_ou_individuo": 0,
+   "individuos_brutos": 253,
+   "individuos_repetidos_entre_conjuntos": 0,
+   "posicoes_usadas": 117311,
+   "posicoes_tiradas_pelo_filtro_de_velocidade": 4,
+   "registros_dos_individuos_usados": 117315,
+   "individuos_curtos_demais": 33,
+   "individuos_usados": 220
+  }
+ },
+ "parametros": {
+  "passo_h": 6.0,
+  "falha_maxima_dias": 10.0,
+  "cortes_dias": [
+   14,
+   28,
+   56
+  ],
+  "minimo_posicoes": 10,
+  "minimo_dias": 7.0,
+  "estadia_minima_h": 24.0,
+  "caminhadas_por_individuo": 40,
+  "semente": 20261112,
+  "resolucao_da_grade_graus": 0.1,
+  "velocidade_maxima_kmh": {
+   "couro": 6.0,
+   "cabecuda": 6.0,
+   "baleia": 10.0,
+   "elefante": 12.0,
+   "albatroz": 110.0
+  },
+  "intervalo_minimo_h": 1.0
+ },
+ "arquivos_brutos": {
+  "coleta_bruta.json": {
+   "bytes": 9350,
+   "sha256": "00f71e47e2de8b90"
+  },
+  "marineregions_eez.geojson": {
+   "bytes": 11314066,
+   "sha256": "d6b5e92cea943aab"
+  },
+  "marineregions_high_seas.geojson": {
+   "bytes": 451199,
+   "sha256": "b35a2a5933c44d0a"
+  },
+  "ne_110m_coastline.geojson": {
+   "bytes": 139907,
+   "sha256": "851f581ff5ffb844"
+  },
+  "ne_50m_land.geojson": {
+   "bytes": 1636166,
+   "sha256": "e874b27a51d14645"
+  },
+  "obis_albatroz_raatd.csv.gz": {
+   "bytes": 7400064,
+   "sha256": "a57492f4fa2ddf32"
+  },
+  "obis_baleia_galapagos.csv.gz": {
+   "bytes": 111373,
+   "sha256": "22a556369ee02f00"
+  },
+  "obis_baleia_mar_de_coral.csv.gz": {
+   "bytes": 102345,
+   "sha256": "0ab4f037e2bbc352"
+  },
+  "obis_cabecuda_bonaire.csv.gz": {
+   "bytes": 28184,
+   "sha256": "246aefa786f55b7c"
+  },
+  "obis_cabecuda_creta.csv.gz": {
+   "bytes": 138999,
+   "sha256": "7d4bc7ba12231661"
+  },
+  "obis_cabecuda_japao.csv.gz": {
+   "bytes": 10012,
+   "sha256": "c1dd0c1dc0b375d1"
+  },
+  "obis_cabecuda_mediterraneo_oeste.csv.gz": {
+   "bytes": 1266785,
+   "sha256": "5f2ca8d2b8114b48"
+  },
+  "obis_cabecuda_mocambique.csv.gz": {
+   "bytes": 53041,
+   "sha256": "2228c258f3d25435"
+  },
+  "obis_cabecuda_pacifico_juvenis.csv.gz": {
+   "bytes": 282587,
+   "sha256": "22d6bd51b154aa8c"
+  },
+  "obis_cabecuda_pacifico_norte.csv.gz": {
+   "bytes": 1802186,
+   "sha256": "bb3a0062ba4943d1"
+  },
+  "obis_cabecuda_reuniao.csv.gz": {
+   "bytes": 881293,
+   "sha256": "ff7d0c9e5890bfdf"
+  },
+  "obis_cabecuda_taiwan.csv.gz": {
+   "bytes": 211771,
+   "sha256": "d15d7c314e3ab8ef"
+  },
+  "obis_couro_africa_sul_1.csv.gz": {
+   "bytes": 146653,
+   "sha256": "095fd7fc0f5d27b5"
+  },
+  "obis_couro_africa_sul_2.csv.gz": {
+   "bytes": 68970,
+   "sha256": "aa43e5697ff70b37"
+  },
+  "obis_elefante_raatd.csv.gz": {
+   "bytes": 55377531,
+   "sha256": "fd4feb2cd849e841"
+  }
+ }
+}

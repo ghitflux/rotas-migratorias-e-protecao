@@ -1,0 +1,1016 @@
+individuo,especie,conjunto,populacao,ano_inicio,registros,instantes,tirados_pelo_filtro,dias_rastreados,dias_do_primeiro_ao_ultimo,dias_em_falhas,trechos,amostras_em_terra,marcacao_lat_1grau,marcacao_lon_1grau,codigo_da_marcacao,passo_diario_mediano_km,distancia_maxima_da_marcacao_km,passos_diarios,amostras_diarias,altomar_diario,altomar_nulo_sem_memoria,altomar_nulo_persistente
+couro_0001,couro,couro_africa_sul_1,África do Sul (Índico sudoeste),1999,549,549,78,206.75,222.902,16.0291,1,0,-28.0,32.0,104,44.0951,2016.5423,205,206,0.1408,0.2453,0.3708
+couro_0002,couro,couro_africa_sul_1,África do Sul (Índico sudoeste),1999,682,682,131,241.5,241.6675,0.0,1,0,-28.0,32.0,104,43.0096,1853.7256,240,241,0.4938,0.2533,0.3515
+couro_0003,couro,couro_africa_sul_1,África do Sul (Índico sudoeste),2003,874,874,90,167.75,167.7859,0.0,1,0,-28.0,33.0,104,28.2083,2179.4275,166,167,0.1796,0.1383,0.3796
+couro_0004,couro,couro_africa_sul_1,África do Sul (Índico sudoeste),2000,104,104,10,109.5,139.2319,29.5972,1,1,-28.0,32.0,104,20.7449,1564.2491,108,109,0.0826,0.0108,0.1865
+couro_0005,couro,couro_africa_sul_1,África do Sul (Índico sudoeste),2000,187,187,36,60.25,91.5736,31.1694,2,2,-28.0,32.0,104,17.6098,262.2308,59,60,0.0,0.0021,0.0267
+couro_0006,couro,couro_africa_sul_1,África do Sul (Índico sudoeste),2001,280,280,34,61.25,96.6236,35.109,2,0,-28.0,32.0,104,22.5326,1393.3895,58,60,0.0,0.0654,0.1429
+couro_0007,couro,couro_africa_sul_1,África do Sul (Índico sudoeste),2001,382,382,55,115.75,115.7625,0.0,1,0,-28.0,32.0,104,21.5584,594.8078,114,115,0.2087,0.0211,0.2057
+couro_0008,couro,couro_africa_sul_1,África do Sul (Índico sudoeste),1996,299,299,30,111.25,123.6542,12.0285,2,4,-28.0,32.0,104,39.2301,2042.0007,108,110,0.3455,0.1927,0.362
+couro_0009,couro,couro_africa_sul_1,África do Sul (Índico sudoeste),2002,273,273,21,60.0,60.1669,0.0,1,1,-28.0,32.0,104,67.273,2026.1258,59,60,0.6,0.21,0.4383
+couro_0010,couro,couro_africa_sul_2,África do Sul (Índico sudoeste),2013,141,141,0,140.0,140.0,0.0,1,2,-28.0,32.0,104,10.9194,932.5246,139,140,0.0,0.008,0.0441
+couro_0011,couro,couro_africa_sul_2,África do Sul (Índico sudoeste),2013,84,84,16,83.0,83.0,0.0,1,21,-28.0,32.0,104,43.1955,2333.118,82,83,0.494,0.1873,0.4018
+couro_0012,couro,couro_africa_sul_2,África do Sul (Índico sudoeste),2013,21,21,0,20.0,20.0,0.0,1,10,-28.0,32.0,104,10.2091,89.4819,19,20,0.0,0.0,0.0
+couro_0013,couro,couro_africa_sul_2,África do Sul (Índico sudoeste),2011,35,35,1,34.0,34.0,0.0,1,4,-28.0,32.0,104,40.0064,336.0642,33,34,0.0,0.0221,0.0581
+couro_0014,couro,couro_africa_sul_2,África do Sul (Índico sudoeste),2012,149,149,7,148.0,148.0,0.0,1,2,-28.0,32.0,104,51.2909,2538.0513,147,148,0.8581,0.2454,0.3328
+couro_0015,couro,couro_africa_sul_2,África do Sul (Índico sudoeste),2011,47,47,4,46.0,46.0,0.0,1,3,-28.0,32.0,104,40.2638,1101.7431,45,46,0.1739,0.0462,0.3353
+couro_0016,couro,couro_africa_sul_2,África do Sul (Índico sudoeste),2011,20,20,0,19.0,19.0,0.0,1,1,-28.0,32.0,104,29.1959,180.1591,18,19,0.0,0.0,0.0105
+couro_0017,couro,couro_africa_sul_2,África do Sul (Índico sudoeste),2012,114,114,5,112.0,112.0,0.0,1,3,-28.0,32.0,104,37.8833,1625.9627,111,112,0.8125,0.0739,0.2605
+couro_0018,couro,couro_africa_sul_2,África do Sul (Índico sudoeste),2012,125,125,0,124.0,124.0,0.0,1,8,-28.0,32.0,104,12.8993,1087.4355,123,124,0.0,0.0258,0.099
+couro_0019,couro,couro_africa_sul_2,África do Sul (Índico sudoeste),2012,135,135,2,135.0,135.0,0.0,1,0,-28.0,32.0,104,35.6274,2108.0894,134,135,0.6741,0.1302,0.3543
+couro_0020,couro,couro_africa_sul_2,África do Sul (Índico sudoeste),2012,154,154,0,153.0,153.0,0.0,1,32,-28.0,32.0,104,14.905,983.6725,152,153,0.0,0.0485,0.1458
+couro_0021,couro,couro_africa_sul_2,África do Sul (Índico sudoeste),2012,118,118,0,117.0,117.0,0.0,1,5,-28.0,32.0,104,15.8333,939.2131,116,117,0.0,0.015,0.1216
+couro_0022,couro,couro_africa_sul_2,África do Sul (Índico sudoeste),2012,88,88,5,87.0,87.0,0.0,1,0,-28.0,32.0,104,55.1898,3396.4315,86,87,0.7586,0.2526,0.5865
+couro_0023,couro,couro_africa_sul_2,África do Sul (Índico sudoeste),2012,129,129,0,127.0,208.0,81.0,2,8,-28.0,32.0,104,15.5008,1002.2959,125,127,0.0,0.0402,0.0927
+couro_0024,couro,couro_africa_sul_2,África do Sul (Índico sudoeste),2013,107,107,2,107.0,107.0,0.0,1,5,-28.0,32.0,104,6.9131,893.7701,106,107,0.0,0.0439,0.0841
+couro_0025,couro,couro_africa_sul_2,África do Sul (Índico sudoeste),2013,112,112,0,111.0,111.0,0.0,1,2,-28.0,32.0,104,12.96,987.8645,110,111,0.0,0.0151,0.0779
+couro_0026,couro,couro_africa_sul_2,África do Sul (Índico sudoeste),2013,84,84,3,83.0,83.0,0.0,1,0,-28.0,32.0,104,39.7925,2573.1144,82,83,0.9277,0.2051,0.4497
+couro_0027,couro,couro_africa_sul_2,África do Sul (Índico sudoeste),2013,51,51,0,50.0,50.0,0.0,1,25,-28.0,32.0,104,15.6321,163.2245,49,50,0.0,0.0,0.003
+couro_0028,couro,couro_africa_sul_2,África do Sul (Índico sudoeste),2013,62,62,0,61.0,61.0,0.0,1,2,-28.0,32.0,104,38.3323,1875.1723,60,61,0.0,0.0463,0.2582
+couro_0029,couro,couro_africa_sul_2,África do Sul (Índico sudoeste),2013,65,65,3,64.0,64.0,0.0,1,0,-28.0,32.0,104,50.7523,2462.721,63,64,0.7812,0.1559,0.3754
+cabecuda_0001,cabecuda,cabecuda_bonaire,Caribe,2004,244,243,29,105.75,105.8942,0.0,1,1,12.0,-69.0,209,7.9759,1583.2517,104,105,0.0,0.0,0.0
+cabecuda_0002,cabecuda,cabecuda_bonaire,Caribe,2005,201,199,13,119.25,138.7752,19.4195,2,48,12.0,-69.0,209,4.1206,737.8456,117,118,0.0,0.0,0.0
+cabecuda_0003,cabecuda,cabecuda_bonaire,Caribe,2008,80,77,5,40.75,40.789,0.0,1,13,12.0,-69.0,209,40.025,1539.9085,39,40,0.0,0.0,0.0
+cabecuda_0004,cabecuda,cabecuda_bonaire,Caribe,2008,170,170,10,99.75,151.4577,51.4946,2,37,12.0,-69.0,209,7.5432,540.3345,98,99,0.0,0.0,0.0
+cabecuda_0005,cabecuda,cabecuda_creta,Mediterrâneo,2011,27,27,3,21.75,21.9814,0.0,1,3,35.0,25.0,12,21.5981,396.6567,20,21,0.0,0.0,0.0
+cabecuda_0006,cabecuda,cabecuda_creta,Mediterrâneo,2011,105,104,5,103.75,148.5012,44.1983,3,287,35.0,24.0,12,2.18,334.9891,102,103,0.0,0.0,0.0
+cabecuda_0007,cabecuda,cabecuda_creta,Mediterrâneo,2011,181,180,2,129.0,129.1616,0.0,1,8,35.0,24.0,12,0.8337,329.8055,128,129,0.0,0.0,0.0
+cabecuda_0008,cabecuda,cabecuda_creta,Mediterrâneo,2011,97,95,12,82.5,133.0857,50.4209,2,150,35.0,24.0,12,1.7972,358.2367,79,81,0.0,0.0,0.0
+cabecuda_0009,cabecuda,cabecuda_creta,Mediterrâneo,2011,237,235,30,183.25,183.4677,0.0,1,159,35.0,24.0,12,3.2295,267.3443,182,183,0.0,0.0,0.0
+cabecuda_0010,cabecuda,cabecuda_creta,Mediterrâneo,2011,383,381,42,192.75,249.5448,56.5169,3,16,35.0,25.0,12,5.2955,1398.5197,189,192,0.0,0.0,0.0
+cabecuda_0011,cabecuda,cabecuda_creta,Mediterrâneo,2011,269,266,50,125.75,125.9664,0.0,1,8,35.0,24.0,12,7.9528,1150.1122,124,125,0.0,0.0,0.0
+cabecuda_0012,cabecuda,cabecuda_creta,Mediterrâneo,2011,281,277,22,201.0,201.1655,0.0,1,3,35.0,24.0,12,2.0647,211.8839,200,201,0.0,0.0,0.0
+cabecuda_0013,cabecuda,cabecuda_creta,Mediterrâneo,2011,414,410,54,163.0,163.033,0.0,1,25,35.0,28.0,12,6.2276,1593.651,162,163,0.0,0.0,0.0
+cabecuda_0014,cabecuda,cabecuda_creta,Mediterrâneo,2011,158,158,8,69.75,69.9386,0.0,1,218,35.0,24.0,12,2.0347,331.1087,68,69,0.0,0.0,0.0
+cabecuda_0015,cabecuda,cabecuda_creta,Mediterrâneo,2011,144,140,13,109.25,250.2227,140.2718,4,5,35.0,24.0,12,1.5181,201.4734,105,108,0.0,0.0,0.0
+cabecuda_0016,cabecuda,cabecuda_creta,Mediterrâneo,2011,263,263,12,180.25,180.4982,0.0,1,2,35.0,24.0,12,2.2218,123.6555,179,180,0.0,0.0,0.0
+cabecuda_0017,cabecuda,cabecuda_creta,Mediterrâneo,2011,160,157,30,62.75,62.9735,0.0,1,1,35.0,24.0,12,12.5786,1064.6539,61,62,0.0,0.0,0.0
+cabecuda_0018,cabecuda,cabecuda_creta,Mediterrâneo,2011,116,116,2,114.75,114.9187,0.0,1,36,35.0,24.0,12,2.2213,305.0,113,114,0.0,0.0,0.0
+cabecuda_0019,cabecuda,cabecuda_creta,Mediterrâneo,2011,13,13,1,16.0,27.2231,11.0497,2,2,35.0,24.0,12,38.03,1079.8613,14,16,0.0,0.0,0.0
+cabecuda_0020,cabecuda,cabecuda_creta,Mediterrâneo,2010,81,81,3,67.25,91.4599,24.0877,2,2,32.0,21.0,83,5.8316,994.7827,64,66,0.0,0.0,0.0
+cabecuda_0021,cabecuda,cabecuda_creta,Mediterrâneo,2011,280,273,60,118.0,118.0316,0.0,1,0,35.0,24.0,12,22.8606,2029.9873,117,118,0.0,0.0,0.0
+cabecuda_0022,cabecuda,cabecuda_creta,Mediterrâneo,2010,75,75,5,94.0,155.3783,60.9414,3,3,34.0,24.0,12,2.1612,210.4854,89,92,0.0,0.0,0.0
+cabecuda_0023,cabecuda,cabecuda_creta,Mediterrâneo,2010,32,32,1,41.0,41.0103,0.0,1,75,32.0,15.0,83,3.1252,448.8176,40,41,0.0,0.0,0.0
+cabecuda_0024,cabecuda,cabecuda_creta,Mediterrâneo,2010,163,163,7,149.75,149.9797,0.0,1,0,33.0,18.0,83,5.6321,655.867,148,149,0.0,0.0,0.0
+cabecuda_0025,cabecuda,cabecuda_japao,Pacífico Norte,1999,62,62,5,67.75,104.0194,36.0431,4,0,33.0,135.0,189,34.6478,1163.4802,65,67,0.0299,0.0067,0.0892
+cabecuda_0026,cabecuda,cabecuda_japao,Pacífico Norte,1999,44,43,8,38.5,52.7806,13.9382,2,20,33.0,135.0,189,32.5523,656.8876,35,37,0.0,0.0,0.0588
+cabecuda_0027,cabecuda,cabecuda_japao,Pacífico Norte,1999,88,87,16,129.5,141.8292,12.0208,2,3,33.0,135.0,189,20.8309,2223.5667,126,128,0.9297,0.0475,0.1773
+cabecuda_0028,cabecuda,cabecuda_japao,Pacífico Norte,1999,56,56,7,66.75,167.9806,100.4278,5,0,33.0,135.0,189,9.5092,1263.0407,61,65,0.0,0.0,0.0019
+cabecuda_0029,cabecuda,cabecuda_mediterraneo_oeste,Mediterrâneo,2017,401,392,97,209.75,224.3972,14.4604,2,4,39.0,-1.0,26,21.47,614.3889,208,209,0.0,0.0,0.0
+cabecuda_0030,cabecuda,cabecuda_mediterraneo_oeste,Mediterrâneo,2017,121,121,22,58.5,106.2924,47.4563,3,5,39.0,-1.0,26,14.0982,727.1734,55,57,0.0,0.0,0.0
+cabecuda_0031,cabecuda,cabecuda_mediterraneo_oeste,Mediterrâneo,2017,435,421,152,176.25,331.4146,154.2924,5,52,39.0,-1.0,26,20.2531,1231.1726,172,175,0.0,0.0,0.0
+cabecuda_0032,cabecuda,cabecuda_mediterraneo_oeste,Mediterrâneo,2017,24,24,6,51.0,76.3028,25.0056,3,11,39.0,-1.0,26,24.7578,1153.5979,49,50,0.0,0.0,0.0
+cabecuda_0033,cabecuda,cabecuda_mediterraneo_oeste,Mediterrâneo,2017,664,655,280,143.0,170.3118,27.0104,3,21,38.0,0.0,26,18.3067,1028.956,140,142,0.0,0.0,0.0
+cabecuda_0034,cabecuda,cabecuda_mediterraneo_oeste,Mediterrâneo,2018,567,538,66,81.0,81.0826,0.0,1,1,37.0,-2.0,26,24.1468,1182.5281,80,81,0.0,0.0,0.0
+cabecuda_0035,cabecuda,cabecuda_mediterraneo_oeste,Mediterrâneo,2018,843,834,97,97.25,129.3236,31.9542,2,1,37.0,-1.0,26,14.3487,637.9487,94,96,0.0,0.0,0.0
+cabecuda_0036,cabecuda,cabecuda_mediterraneo_oeste,Mediterrâneo,2017,447,445,209,129.0,152.0285,22.7326,2,5,38.0,1.0,26,21.7412,1301.5121,126,128,0.0,0.0,0.0
+cabecuda_0037,cabecuda,cabecuda_mediterraneo_oeste,Mediterrâneo,2016,287,287,23,117.75,117.8993,0.0,1,0,36.0,-2.0,26,18.9908,311.1008,116,117,0.0,0.0,0.0
+cabecuda_0038,cabecuda,cabecuda_mediterraneo_oeste,Mediterrâneo,2017,601,597,267,277.25,277.4194,0.0,1,37,39.0,-1.0,26,25.1545,1782.0194,276,277,0.0,0.0,0.0002
+cabecuda_0039,cabecuda,cabecuda_mediterraneo_oeste,Mediterrâneo,2017,1214,1207,389,245.75,288.6139,42.3062,3,35,39.0,-1.0,26,14.3272,1496.2428,242,245,0.0,0.0,0.0
+cabecuda_0040,cabecuda,cabecuda_mediterraneo_oeste,Mediterrâneo,2016,298,295,42,80.0,80.0028,0.0,1,0,37.0,-2.0,26,21.6838,312.3391,79,80,0.0,0.0,0.0
+cabecuda_0041,cabecuda,cabecuda_mediterraneo_oeste,Mediterrâneo,2017,424,421,177,69.25,69.3833,0.0,1,6,39.0,-1.0,26,20.4949,382.0269,68,69,0.0,0.0,0.0
+cabecuda_0042,cabecuda,cabecuda_mediterraneo_oeste,Mediterrâneo,2018,591,572,87,91.75,91.8993,0.0,1,3,37.0,-2.0,26,29.1781,858.2015,90,91,0.0,0.0,0.0
+cabecuda_0043,cabecuda,cabecuda_mediterraneo_oeste,Mediterrâneo,2017,2096,2079,1061,271.25,271.4611,0.0,1,35,39.0,-1.0,26,19.082,1396.2709,270,271,0.0,0.0,0.0
+cabecuda_0044,cabecuda,cabecuda_mediterraneo_oeste,Mediterrâneo,2016,63,63,1,73.0,101.1375,27.6799,3,18,36.0,-4.0,26,14.5401,1120.8786,71,73,0.0,0.0,0.0
+cabecuda_0045,cabecuda,cabecuda_mediterraneo_oeste,Mediterrâneo,2017,1707,1694,891,290.25,290.3729,0.0,1,2,39.0,-1.0,26,21.173,1872.9442,289,290,0.0,0.0,0.0
+cabecuda_0046,cabecuda,cabecuda_mediterraneo_oeste,Mediterrâneo,2018,290,282,23,55.5,55.6549,0.0,1,44,37.0,-1.0,26,4.5534,403.4242,54,55,0.0,0.0,0.0
+cabecuda_0047,cabecuda,cabecuda_mediterraneo_oeste,Mediterrâneo,2018,504,488,60,91.75,91.7632,0.0,1,0,37.0,-1.0,26,20.3004,750.5362,90,91,0.0,0.0,0.0
+cabecuda_0048,cabecuda,cabecuda_mediterraneo_oeste,Mediterrâneo,2016,725,711,93,79.25,79.3028,0.0,1,12,41.0,2.0,26,22.2717,895.2451,78,79,0.0,0.0,0.0
+cabecuda_0049,cabecuda,cabecuda_mediterraneo_oeste,Mediterrâneo,2018,113,110,2,14.5,14.6583,0.0,1,51,40.0,0.0,26,0.495,48.9885,13,14,0.0,0.0,0.0
+cabecuda_0050,cabecuda,cabecuda_mediterraneo_oeste,Mediterrâneo,2016,53,53,27,25.0,37.0549,11.934,1,34,41.0,1.0,26,12.2624,766.5223,24,25,0.0,0.0,0.0
+cabecuda_0051,cabecuda,cabecuda_mediterraneo_oeste,Mediterrâneo,2018,286,277,10,28.5,28.7208,0.0,1,7,37.0,-1.0,26,16.2072,333.9862,27,28,0.0,0.0,0.0
+cabecuda_0052,cabecuda,cabecuda_mediterraneo_oeste,Mediterrâneo,2017,958,947,353,44.5,107.0757,62.4646,3,5,38.0,-1.0,26,28.9833,3446.6089,42,44,0.0,0.0,0.0
+cabecuda_0053,cabecuda,cabecuda_mediterraneo_oeste,Mediterrâneo,2016,168,167,29,36.75,36.9868,0.0,1,1,41.0,1.0,26,24.9397,186.4859,35,36,0.0,0.0,0.0
+cabecuda_0054,cabecuda,cabecuda_mediterraneo_oeste,Mediterrâneo,2016,360,360,67,77.0,77.0597,0.0,1,0,37.0,-2.0,26,21.4114,590.0762,76,77,0.0,0.0,0.0
+cabecuda_0055,cabecuda,cabecuda_mediterraneo_oeste,Mediterrâneo,2017,174,172,15,23.75,55.4917,31.6333,2,28,39.0,-1.0,26,13.3913,569.7454,21,23,0.0,0.0,0.0
+cabecuda_0056,cabecuda,cabecuda_mediterraneo_oeste,Mediterrâneo,2016,432,431,68,79.75,79.8972,0.0,1,6,37.0,-2.0,26,21.11,348.7016,78,79,0.0,0.0,0.0
+cabecuda_0057,cabecuda,cabecuda_mediterraneo_oeste,Mediterrâneo,2017,1606,1586,670,279.0,279.05,0.0,1,13,38.0,3.0,26,18.483,1159.5326,278,279,0.0,0.0,0.0
+cabecuda_0058,cabecuda,cabecuda_mediterraneo_oeste,Mediterrâneo,2016,773,768,214,122.0,122.0812,0.0,1,3,41.0,1.0,26,20.4388,459.8175,121,122,0.0,0.0,0.0
+cabecuda_0059,cabecuda,cabecuda_mediterraneo_oeste,Mediterrâneo,2016,368,366,42,96.75,96.866,0.0,1,0,37.0,-2.0,26,19.5574,299.9705,95,96,0.0,0.0,0.0
+cabecuda_0060,cabecuda,cabecuda_mediterraneo_oeste,Mediterrâneo,2018,1027,995,44,82.5,82.6924,0.0,1,15,39.0,-1.0,26,16.2941,664.9727,81,82,0.0,0.0,0.0
+cabecuda_0061,cabecuda,cabecuda_mediterraneo_oeste,Mediterrâneo,2016,245,245,37,102.75,102.9493,0.0,1,2,37.0,-2.0,26,19.9135,535.027,101,102,0.0,0.0,0.0
+cabecuda_0062,cabecuda,cabecuda_mediterraneo_oeste,Mediterrâneo,2017,1287,1280,595,337.75,348.316,10.2889,2,44,39.0,-1.0,26,18.4897,2631.4466,335,337,0.0,0.0,0.003
+cabecuda_0063,cabecuda,cabecuda_mediterraneo_oeste,Mediterrâneo,2016,265,265,29,103.5,103.691,0.0,1,0,37.0,-1.0,26,17.0129,1077.856,102,103,0.0,0.0,0.0
+cabecuda_0064,cabecuda,cabecuda_mediterraneo_oeste,Mediterrâneo,2017,1998,1981,922,269.25,269.3972,0.0,1,7,39.0,-1.0,26,17.2767,1174.9509,268,269,0.0,0.0,0.0
+cabecuda_0065,cabecuda,cabecuda_mediterraneo_oeste,Mediterrâneo,2017,280,272,44,66.0,98.1653,32.0257,2,0,39.0,-1.0,26,22.4536,477.4687,63,65,0.0,0.0,0.0
+cabecuda_0066,cabecuda,cabecuda_mediterraneo_oeste,Mediterrâneo,2017,260,255,17,21.5,21.5667,0.0,1,1,41.0,2.0,26,10.5412,198.1753,20,21,0.0,0.0,0.0
+cabecuda_0067,cabecuda,cabecuda_mediterraneo_oeste,Mediterrâneo,2018,1106,1078,218,117.5,188.8271,70.6986,4,18,39.0,-1.0,26,36.0704,728.6295,112,116,0.0,0.0,0.0011
+cabecuda_0068,cabecuda,cabecuda_mocambique,Índico sudoeste,2012,129,129,0,16.25,16.3089,0.0,1,4,-27.0,32.0,60,31.4645,411.4942,15,16,0.0,0.0,0.0156
+cabecuda_0069,cabecuda,cabecuda_mocambique,Índico sudoeste,2012,500,497,20,71.25,71.2959,0.0,1,6,-27.0,32.0,60,36.5768,2032.6146,70,71,0.0,0.0116,0.2919
+cabecuda_0070,cabecuda,cabecuda_mocambique,Índico sudoeste,2012,629,619,12,176.5,189.7138,13.0494,2,95,-27.0,32.0,60,3.5123,244.8204,173,175,0.0,0.0,0.0
+cabecuda_0071,cabecuda,cabecuda_pacifico_juvenis,Pacífico Norte,2003,642,641,39,660.25,671.2991,10.7013,2,0,35.0,-134.0,0,16.8455,2719.5197,657,659,0.9423,0.9816,0.8887
+cabecuda_0072,cabecuda,cabecuda_pacifico_juvenis,Pacífico Norte,2003,343,341,21,250.5,250.644,0.0,1,0,37.0,-141.0,0,18.9396,2947.38,249,250,1.0,1.0,0.9928
+cabecuda_0073,cabecuda,cabecuda_pacifico_juvenis,Pacífico Norte,2003,699,699,77,430.25,430.4247,0.0,1,0,30.0,-155.0,0,24.2132,3750.852,429,430,1.0,0.985,0.9219
+cabecuda_0074,cabecuda,cabecuda_pacifico_juvenis,Pacífico Norte,2003,855,854,30,557.0,557.0503,0.0,1,0,32.0,-151.0,0,12.6532,1085.6897,556,557,1.0,1.0,0.9852
+cabecuda_0075,cabecuda,cabecuda_pacifico_juvenis,Pacífico Norte,2003,383,383,15,209.75,223.6687,13.6395,2,0,31.0,-150.0,0,15.3088,1791.0529,207,209,1.0,1.0,0.9999
+cabecuda_0076,cabecuda,cabecuda_pacifico_juvenis,Pacífico Norte,2003,263,263,23,219.0,219.019,0.0,1,0,35.0,-133.0,0,22.9075,3967.389,218,219,0.9909,0.9914,0.8793
+cabecuda_0077,cabecuda,cabecuda_pacifico_juvenis,Pacífico Norte,2003,460,458,42,421.25,434.307,12.6555,2,0,35.0,-133.0,0,20.0799,5017.4171,418,420,1.0,0.9741,0.8935
+cabecuda_0078,cabecuda,cabecuda_pacifico_juvenis,Pacífico Norte,2003,410,410,28,226.25,226.3313,0.0,1,0,32.0,-144.0,0,16.6247,2043.9783,225,226,1.0,1.0,1.0
+cabecuda_0079,cabecuda,cabecuda_pacifico_juvenis,Pacífico Norte,2002,419,418,51,335.25,358.0185,22.3797,3,0,41.0,-141.0,0,23.6008,4452.2714,331,334,1.0,0.9891,0.9309
+cabecuda_0080,cabecuda,cabecuda_pacifico_juvenis,Pacífico Norte,2002,230,230,22,245.75,245.796,0.0,1,0,34.0,-141.0,0,18.0428,2159.9426,244,245,1.0,1.0,0.9923
+cabecuda_0081,cabecuda,cabecuda_pacifico_juvenis,Pacífico Norte,2003,530,530,56,470.25,550.8213,80.3219,3,0,29.0,-162.0,0,30.0832,4260.8067,467,469,1.0,0.8149,0.7604
+cabecuda_0082,cabecuda,cabecuda_pacifico_juvenis,Pacífico Norte,2003,465,465,24,390.0,390.0074,0.0,1,0,37.0,-151.0,0,24.8127,4123.571,389,390,1.0,1.0,0.9136
+cabecuda_0083,cabecuda,cabecuda_pacifico_juvenis,Pacífico Norte,2004,316,316,17,201.0,201.0236,0.0,1,0,32.0,-155.0,0,12.9044,1773.8528,200,201,1.0,1.0,0.9981
+cabecuda_0084,cabecuda,cabecuda_pacifico_juvenis,Pacífico Norte,2004,155,155,12,158.5,172.6464,13.9433,2,0,33.0,-156.0,0,19.3281,2057.2817,156,158,1.0,1.0,0.9674
+cabecuda_0085,cabecuda,cabecuda_pacifico_juvenis,Pacífico Norte,2004,134,134,18,212.75,224.6516,11.6733,2,0,33.0,-156.0,0,20.5964,2208.5188,210,212,1.0,1.0,0.9792
+cabecuda_0086,cabecuda,cabecuda_pacifico_juvenis,Pacífico Norte,2004,517,517,85,305.0,305.0361,0.0,1,0,33.0,-155.0,0,17.6872,2073.2024,304,305,1.0,1.0,0.9854
+cabecuda_0087,cabecuda,cabecuda_pacifico_juvenis,Pacífico Norte,2004,19,19,0,59.5,59.6394,0.0,1,0,31.0,-151.0,0,14.3783,352.5411,58,59,1.0,1.0,1.0
+cabecuda_0088,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,1997,288,288,8,112.5,112.7194,0.0,1,0,29.0,-164.0,0,21.0771,1726.6559,111,112,0.7232,0.9958,0.8487
+cabecuda_0089,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,1997,298,298,7,137.0,137.1285,0.0,1,0,30.0,-155.0,0,24.6507,2529.3816,136,137,1.0,1.0,0.9403
+cabecuda_0090,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,1997,179,179,3,88.75,88.9528,0.0,1,0,29.0,-161.0,0,11.7414,797.5297,87,88,1.0,1.0,0.9983
+cabecuda_0091,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,1997,359,359,3,179.25,179.4611,0.0,1,0,28.0,-157.0,0,28.5147,3829.7613,178,179,1.0,0.9774,0.8758
+cabecuda_0092,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,1997,20,20,1,14.0,14.0069,0.0,1,0,26.0,-169.0,156,24.4534,258.7113,13,14,0.0,0.0,0.0321
+cabecuda_0093,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,1998,365,362,36,107.5,107.5062,0.0,1,0,36.0,-164.0,0,19.7907,1070.4304,106,107,1.0,1.0,1.0
+cabecuda_0094,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,248,247,6,208.0,208.0535,0.0,1,161,36.0,136.0,189,12.5686,1326.6711,207,208,0.0,0.0,0.0
+cabecuda_0095,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,1998,249,249,18,102.5,102.7458,0.0,1,0,30.0,-155.0,0,18.1949,1413.6934,101,102,1.0,1.0,0.989
+cabecuda_0096,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,475,470,28,765.75,791.0813,24.9576,3,0,37.0,143.0,189,20.0599,3183.4433,762,765,0.9242,0.3402,0.4178
+cabecuda_0097,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,1998,553,552,72,192.0,192.0236,0.0,1,0,33.0,-144.0,0,18.2661,1957.651,191,192,1.0,1.0,1.0
+cabecuda_0098,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,1998,680,679,34,206.0,206.1944,0.0,1,0,33.0,-144.0,0,15.499,1837.1568,205,206,1.0,1.0,1.0
+cabecuda_0099,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,1998,37,36,8,40.5,40.7333,0.0,1,0,37.0,-165.0,0,23.9024,789.5088,39,40,1.0,1.0,1.0
+cabecuda_0100,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,1999,41,41,10,50.75,50.8132,0.0,1,0,24.0,-157.0,0,9.9908,767.9077,49,50,0.84,0.5375,0.4725
+cabecuda_0101,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,1998,54,54,16,50.75,50.7674,0.0,1,0,36.0,-162.0,0,7.78,429.4984,49,50,1.0,1.0,1.0
+cabecuda_0102,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,1998,41,41,7,129.25,434.4056,305.0313,4,0,23.0,-132.0,0,16.8285,1815.263,126,128,1.0,1.0,1.0
+cabecuda_0103,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,1998,613,607,66,166.0,166.0625,0.0,1,0,36.0,-163.0,0,17.4489,606.4456,165,166,1.0,1.0,1.0
+cabecuda_0104,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2000,893,885,117,598.75,598.766,0.0,1,0,31.0,-147.0,0,21.4599,4681.4659,597,598,0.9916,1.0,0.9125
+cabecuda_0105,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,380,373,33,624.25,836.7396,211.9903,6,0,36.0,142.0,189,17.4327,3154.1348,618,623,0.8876,0.2774,0.3871
+cabecuda_0106,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2000,182,182,24,146.0,158.6715,12.216,2,0,32.0,-170.0,0,27.048,1634.1132,144,146,0.8356,0.9599,0.8726
+cabecuda_0107,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2000,539,538,45,245.0,245.1417,0.0,1,0,30.0,-147.0,0,14.5898,1991.3183,244,245,1.0,1.0,1.0
+cabecuda_0108,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,553,549,35,570.0,570.0757,0.0,1,0,36.0,143.0,189,20.8891,2714.8585,569,570,0.9351,0.3223,0.3616
+cabecuda_0109,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2000,32,32,4,50.0,50.041,0.0,1,0,32.0,-139.0,0,18.8731,627.5938,49,50,1.0,1.0,1.0
+cabecuda_0110,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2000,46,46,3,60.25,72.9056,12.6042,2,0,32.0,-144.0,0,20.538,1147.0825,58,60,1.0,1.0,1.0
+cabecuda_0111,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,1999,460,459,46,270.0,270.0306,0.0,1,0,33.0,-151.0,0,17.1833,2003.1348,269,270,1.0,1.0,0.9952
+cabecuda_0112,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2010,145,145,6,132.75,132.7764,0.0,1,2,29.0,131.0,189,28.9562,3098.5526,131,132,0.6818,0.0451,0.1155
+cabecuda_0113,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,519,514,57,637.0,745.6292,108.1236,3,6,37.0,137.0,189,17.2795,4705.8972,633,636,0.7846,0.0,0.0588
+cabecuda_0114,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,118,118,10,78.5,78.659,0.0,1,9,37.0,137.0,189,21.6251,1111.0433,77,78,0.0,0.0,0.0
+cabecuda_0115,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2010,308,305,13,281.75,281.8542,0.0,1,0,29.0,131.0,189,18.9303,4662.8051,280,281,0.8968,0.0376,0.1636
+cabecuda_0116,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2010,414,409,23,321.0,321.2125,0.0,1,0,30.0,131.0,189,20.7553,4144.4662,320,321,0.8162,0.0572,0.1062
+cabecuda_0117,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2000,175,172,5,162.5,162.5681,0.0,1,0,35.0,-134.0,0,20.6328,1908.4309,161,162,1.0,1.0,0.8875
+cabecuda_0118,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,475,471,36,561.0,561.1063,0.0,1,0,36.0,143.0,189,18.145,3340.0743,560,561,0.9234,0.3037,0.5049
+cabecuda_0119,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,591,588,39,850.75,861.0917,10.0188,2,7,36.0,141.0,189,19.45,3667.7026,848,850,0.9012,0.2284,0.4019
+cabecuda_0120,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,579,572,33,564.25,579.6049,14.9528,2,0,36.0,144.0,189,20.1137,4030.0294,562,564,0.8599,0.3988,0.449
+cabecuda_0121,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,147,142,11,137.0,137.2319,0.0,1,1,37.0,135.0,189,18.2605,377.8463,136,137,0.0,0.0,0.0
+cabecuda_0122,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,360,359,26,212.5,212.6743,0.0,1,3,36.0,136.0,189,19.0341,2602.3531,211,212,0.3726,0.0,0.0007
+cabecuda_0123,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,110,105,11,114.75,114.834,0.0,1,20,36.0,136.0,189,1.8891,582.9902,113,114,0.0,0.0,0.0
+cabecuda_0124,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,1999,250,249,27,131.0,131.2403,0.0,1,0,32.0,-154.0,0,14.2269,683.6048,130,131,1.0,1.0,1.0
+cabecuda_0125,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,1997,83,82,4,53.25,53.2583,0.0,1,0,28.0,-169.0,0,25.7676,1060.3478,52,53,0.4528,0.6123,0.5292
+cabecuda_0126,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,1997,70,70,3,67.0,67.0201,0.0,1,0,37.0,-132.0,0,21.7979,771.39,66,67,1.0,0.9996,0.9164
+cabecuda_0127,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,1997,28,28,1,41.0,41.0806,0.0,1,0,29.0,-161.0,0,20.7333,464.9961,40,41,1.0,1.0,0.9652
+cabecuda_0128,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,1998,159,159,13,69.75,69.9792,0.0,1,0,30.0,-156.0,0,19.9824,532.4927,68,69,1.0,1.0,1.0
+cabecuda_0129,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2003,878,868,51,237.25,237.4701,0.0,1,0,34.0,140.0,189,25.603,3283.605,236,237,0.9789,0.1092,0.1961
+cabecuda_0130,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2010,288,284,16,217.25,217.4153,0.0,1,0,29.0,131.0,189,21.4496,3855.2666,216,217,0.765,0.0521,0.0902
+cabecuda_0131,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,16,16,0,9.0,9.0736,0.0,1,0,36.0,141.0,189,13.4782,56.9253,8,9,0.0,0.0,0.0
+cabecuda_0132,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2000,126,126,17,123.25,134.9563,11.2944,2,0,24.0,-155.0,0,32.3712,2037.4501,121,122,0.6475,0.6285,0.6348
+cabecuda_0133,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2010,485,479,23,349.0,349.0903,0.0,1,12,29.0,130.0,189,17.8046,4758.694,348,349,0.7278,0.0682,0.1178
+cabecuda_0134,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,115,114,9,108.5,128.7035,19.9701,2,0,38.0,136.0,189,24.5016,1303.8191,106,108,0.0,0.0,0.0086
+cabecuda_0135,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,1998,162,161,53,210.5,210.5681,0.0,1,0,33.0,-150.0,0,21.1322,1966.6033,209,210,1.0,1.0,0.97
+cabecuda_0136,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2010,505,504,36,448.75,461.8104,12.716,2,5,29.0,131.0,189,22.9036,4641.5581,446,448,0.8415,0.0723,0.2148
+cabecuda_0137,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,774,759,75,726.75,726.8465,0.0,1,15,37.0,136.0,189,16.4041,7021.1166,725,726,0.8306,0.0053,0.0596
+cabecuda_0138,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,59,57,4,83.75,83.9833,0.0,1,1,38.0,136.0,189,22.6861,1275.0287,82,83,0.0,0.0,0.0
+cabecuda_0139,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,177,177,13,101.0,136.5931,35.4715,2,4,36.0,136.0,189,23.5544,1202.837,98,100,0.0,0.0,0.0
+cabecuda_0140,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,438,434,28,566.0,566.1562,0.0,1,0,36.0,142.0,189,17.9398,4037.1035,565,566,0.8304,0.2227,0.4345
+cabecuda_0141,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,57,57,2,68.5,68.6049,0.0,1,2,38.0,136.0,189,22.4598,1134.9177,67,68,0.0,0.0,0.0
+cabecuda_0142,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2010,501,497,30,462.25,462.3986,0.0,1,0,29.0,131.0,189,18.076,5997.8336,461,462,0.8377,0.0374,0.1565
+cabecuda_0143,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2010,451,450,24,308.0,319.625,11.2833,2,0,29.0,130.0,189,18.1465,4505.3332,306,308,0.8961,0.0804,0.1043
+cabecuda_0144,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2010,521,520,13,324.0,324.0986,0.0,1,4,29.0,130.0,189,12.858,3763.3041,323,324,0.821,0.0478,0.0626
+cabecuda_0145,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,423,419,21,455.75,455.8181,0.0,1,0,36.0,146.0,0,15.246,4974.4771,454,455,1.0,0.7499,0.5936
+cabecuda_0146,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2006,56,56,4,63.0,63.216,0.0,1,12,25.0,-113.0,134,6.2811,139.0124,62,63,0.0,0.0,0.0
+cabecuda_0147,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2006,46,46,11,65.25,65.2556,0.0,1,0,26.0,-113.0,134,7.5778,167.308,64,65,0.0,0.0,0.0
+cabecuda_0148,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,273,270,22,465.75,476.0889,10.0153,2,0,36.0,144.0,189,17.9344,2851.4325,463,465,0.7892,0.3696,0.4752
+cabecuda_0149,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,775,767,60,431.5,431.734,0.0,1,0,36.0,136.0,189,20.7857,4569.9102,430,431,0.7842,0.0,0.0253
+cabecuda_0150,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,855,845,63,778.0,778.1667,0.0,1,0,36.0,141.0,189,17.1189,4584.6666,777,778,0.901,0.1802,0.421
+cabecuda_0151,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2010,511,505,28,379.0,379.0778,0.0,1,1,29.0,131.0,189,20.6283,5180.6845,378,379,0.8602,0.0164,0.1931
+cabecuda_0152,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2010,594,590,51,493.75,517.866,23.9319,3,0,29.0,131.0,189,17.3104,6686.0817,490,493,0.9452,0.0921,0.2352
+cabecuda_0153,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,769,756,53,516.5,724.7799,208.0326,2,7,36.0,136.0,189,20.3141,3991.6061,514,516,0.8256,0.0,0.0415
+cabecuda_0154,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2010,833,828,23,514.25,525.7201,11.1882,2,9,29.0,131.0,189,16.1412,7121.9638,511,513,0.9181,0.0473,0.1466
+cabecuda_0155,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2010,211,209,12,208.0,208.0861,0.0,1,10,29.0,131.0,189,18.7933,2607.2588,207,208,0.6442,0.0608,0.0814
+cabecuda_0156,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2010,11,11,1,7.75,7.9847,0.0,1,0,29.0,130.0,189,21.0494,206.9136,6,7,0.0,0.0,0.0
+cabecuda_0157,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2010,214,209,15,168.5,168.6729,0.0,1,0,29.0,130.0,189,17.7798,2407.8793,167,168,0.5893,0.0293,0.0735
+cabecuda_0158,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,64,64,1,92.5,92.6278,0.0,1,17,37.0,136.0,189,21.4126,1119.2562,91,92,0.0,0.0,0.0
+cabecuda_0159,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,514,507,34,706.0,706.0111,0.0,1,0,36.0,143.0,189,16.7947,3066.6413,705,706,0.9051,0.3728,0.415
+cabecuda_0160,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,99,97,4,80.5,80.641,0.0,1,8,36.0,136.0,189,24.0344,1417.1551,79,80,0.0,0.0,0.0
+cabecuda_0161,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,137,136,10,200.5,200.7021,0.0,1,0,36.0,145.0,0,19.1333,2874.8059,199,200,0.995,0.4959,0.5286
+cabecuda_0162,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2010,12,12,0,47.75,267.0875,219.1549,5,0,26.0,128.0,189,35.0603,4434.2243,44,47,1.0,1.0,0.7968
+cabecuda_0163,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2010,24,24,1,15.5,15.6611,0.0,1,0,29.0,131.0,189,35.9233,587.0968,14,15,0.0,0.0017,0.065
+cabecuda_0164,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2010,488,487,36,415.0,415.084,0.0,1,2,29.0,130.0,189,19.4995,5354.2783,414,415,0.9012,0.0478,0.1362
+cabecuda_0165,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,575,565,68,378.0,378.1951,0.0,1,0,33.0,146.0,0,20.7878,2961.0327,377,378,1.0,0.8291,0.5925
+cabecuda_0166,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,292,290,22,171.0,171.2451,0.0,1,0,36.0,141.0,189,24.3085,2261.6138,170,171,0.9532,0.1686,0.3073
+cabecuda_0167,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2009,123,119,4,105.25,105.4521,0.0,1,0,33.0,-148.0,0,12.9034,771.9642,104,105,1.0,1.0,1.0
+cabecuda_0168,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,238,235,14,158.5,158.6194,0.0,1,7,36.0,136.0,189,17.4196,1174.9966,157,158,0.0,0.0,0.0
+cabecuda_0169,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,647,638,45,441.25,441.334,0.0,1,2,36.0,141.0,189,20.455,3831.4147,440,441,0.7891,0.1454,0.3847
+cabecuda_0170,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2009,380,374,13,597.5,680.7222,82.834,8,0,33.0,144.0,0,19.9024,4156.713,587,595,0.9109,0.4537,0.4542
+cabecuda_0171,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2009,128,128,5,301.0,332.1049,31.0076,2,0,35.0,145.0,0,18.4004,3171.616,300,301,1.0,0.8051,0.5434
+cabecuda_0172,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2010,838,833,30,554.75,554.8736,0.0,1,4,30.0,131.0,189,16.3917,5407.1042,553,554,0.9278,0.0561,0.1262
+cabecuda_0173,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2009,270,267,4,453.75,477.6257,23.4847,3,0,36.0,142.0,189,21.0553,3800.3736,449,452,0.8805,0.2459,0.3733
+cabecuda_0174,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2007,61,60,6,85.0,209.1743,123.9083,4,4,34.0,140.0,189,16.909,3712.1945,82,84,0.381,0.0125,0.1196
+cabecuda_0175,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2007,257,257,12,314.25,325.1729,10.5951,2,0,34.0,140.0,189,22.2729,4259.0187,311,313,0.9042,0.0748,0.2348
+cabecuda_0176,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2007,104,104,7,99.0,220.6889,121.4514,4,2,34.0,140.0,189,16.6686,2379.6081,95,98,0.3265,0.0,0.0579
+cabecuda_0177,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2009,235,235,4,302.0,343.6201,41.4014,4,0,38.0,144.0,189,19.2771,4160.1757,299,302,1.0,0.9805,0.7803
+cabecuda_0178,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2007,328,312,11,368.75,459.1778,90.0896,3,5,34.0,140.0,189,17.63,5467.8373,365,368,0.769,0.1069,0.2232
+cabecuda_0179,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2007,157,155,7,318.25,347.209,28.6625,3,0,34.0,140.0,189,18.2408,3986.8668,315,318,0.9151,0.1212,0.317
+cabecuda_0180,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2007,128,127,8,226.5,375.1465,148.0833,4,0,34.0,140.0,189,13.4255,5217.5804,221,225,0.8578,0.008,0.1906
+cabecuda_0181,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,488,483,26,353.25,353.3493,0.0,1,0,36.0,144.0,189,25.0084,2611.3706,352,353,0.9915,0.51,0.5136
+cabecuda_0182,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2007,46,46,2,71.25,98.0125,26.5451,1,8,34.0,140.0,189,17.377,1109.5152,70,71,0.0,0.0,0.0665
+cabecuda_0183,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,370,366,15,226.25,226.3153,0.0,1,0,36.0,135.0,189,14.2361,676.855,225,226,0.0,0.0,0.0
+cabecuda_0184,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,488,482,40,326.25,326.2896,0.0,1,0,37.0,136.0,189,24.2017,2394.7999,325,326,0.684,0.0018,0.0182
+cabecuda_0185,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2007,89,89,3,119.0,317.7493,198.5063,3,0,34.0,140.0,189,15.1733,4447.221,116,118,0.4237,0.0,0.0307
+cabecuda_0186,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2007,148,148,6,241.5,253.5208,11.9424,2,0,34.0,140.0,189,27.7707,3499.1177,239,241,0.8589,0.091,0.1752
+cabecuda_0187,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2007,213,213,7,271.5,315.2056,43.4597,4,0,34.0,140.0,189,25.3191,4077.1055,267,271,0.8266,0.1408,0.2694
+cabecuda_0188,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,410,405,24,480.75,505.7042,24.9486,1,0,36.0,144.0,189,20.6205,3531.7232,479,480,0.975,0.3326,0.4064
+cabecuda_0189,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,22,20,0,22.5,22.5701,0.0,1,12,37.0,136.0,189,13.4472,263.6416,21,22,0.0,0.0,0.0
+cabecuda_0190,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,82,82,9,91.75,91.9854,0.0,1,0,37.0,136.0,189,23.2044,1444.7978,90,91,0.0,0.0,0.0
+cabecuda_0191,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,116,116,7,164.5,164.6896,0.0,1,0,37.0,136.0,189,12.6548,1396.1934,163,164,0.0671,0.0,0.0
+cabecuda_0192,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2010,570,562,17,388.25,400.425,12.0271,2,0,30.0,131.0,189,19.865,4707.3848,386,388,0.9175,0.0299,0.1106
+cabecuda_0193,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,325,324,9,375.5,375.7417,0.0,1,0,36.0,143.0,189,18.4545,3647.3944,374,375,0.7653,0.1979,0.3987
+cabecuda_0194,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,21,21,0,76.5,92.0701,15.375,2,3,38.0,137.0,189,18.9862,941.9727,74,76,0.0,0.0,0.0059
+cabecuda_0195,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,322,318,30,425.75,455.7069,29.4028,3,0,36.0,143.0,189,16.578,4788.6293,421,424,0.8137,0.1239,0.4489
+cabecuda_0196,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,43,43,0,83.25,103.4125,19.9278,2,2,37.0,136.0,189,22.9967,1171.1559,81,83,0.0,0.0,0.0
+cabecuda_0197,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2010,338,335,28,291.75,291.7764,0.0,1,0,29.0,131.0,189,23.0847,3587.8759,290,291,0.7457,0.0411,0.0724
+cabecuda_0198,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2010,338,336,23,266.75,266.9542,0.0,1,1,29.0,130.0,189,17.4347,3474.4123,265,266,0.6579,0.0401,0.0993
+cabecuda_0199,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2010,603,600,25,424.0,424.1493,0.0,1,0,29.0,131.0,189,18.5337,5943.7522,423,424,0.9363,0.0834,0.1881
+cabecuda_0200,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2009,171,170,2,344.0,355.6528,11.3896,2,0,35.0,142.0,189,20.029,4646.8347,342,344,0.968,0.1749,0.4445
+cabecuda_0201,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2010,201,200,20,213.5,213.7354,0.0,1,16,29.0,131.0,189,17.4249,2592.8892,212,213,0.554,0.0275,0.0959
+cabecuda_0202,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2010,184,184,14,168.5,212.0958,43.3444,2,28,30.0,131.0,189,17.2804,2789.9079,166,168,0.4643,0.0464,0.0622
+cabecuda_0203,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,686,680,45,625.5,645.1319,19.4833,1,0,34.0,146.0,0,19.6591,4002.7032,624,625,1.0,0.7544,0.5515
+cabecuda_0204,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2010,102,102,13,84.5,84.6465,0.0,1,71,29.0,131.0,189,6.9563,496.1799,83,84,0.0,0.0,0.0006
+cabecuda_0205,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,24,24,5,25.75,25.9799,0.0,1,0,37.0,137.0,189,35.8945,866.9444,24,25,0.0,0.0,0.0
+cabecuda_0206,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,425,421,35,277.5,277.5389,0.0,1,8,36.0,136.0,189,25.5464,3883.4844,276,277,0.5415,0.0,0.0099
+cabecuda_0207,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,328,324,22,404.25,529.5264,124.8938,4,0,36.0,144.0,189,19.0777,3439.4287,399,403,1.0,0.4797,0.4669
+cabecuda_0208,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,92,92,6,136.0,136.1174,0.0,1,15,38.0,136.0,189,12.3343,1189.6044,135,136,0.0,0.0,0.0
+cabecuda_0209,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2010,248,247,21,235.0,251.3743,16.0125,2,0,30.0,131.0,189,23.3013,2896.4324,232,234,0.4701,0.0296,0.1645
+cabecuda_0210,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2010,73,71,4,132.25,319.7194,186.5563,11,6,34.0,137.0,189,24.2635,3045.1192,122,130,0.7077,0.0342,0.1485
+cabecuda_0211,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2010,51,51,4,71.75,90.0264,18.0056,2,21,30.0,131.0,189,10.2164,651.3146,69,71,0.0,0.0,0.0123
+cabecuda_0212,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,524,516,30,609.0,609.1938,0.0,1,0,36.0,142.0,189,23.1844,3861.2379,608,609,0.8637,0.3131,0.4816
+cabecuda_0213,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2009,151,150,5,303.5,339.6354,35.9965,1,0,36.0,143.0,189,15.0688,3815.285,302,303,0.9076,0.2,0.3639
+cabecuda_0214,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,401,398,27,481.0,481.0424,0.0,1,0,36.0,142.0,189,21.4402,3792.7929,480,481,0.8399,0.2173,0.3942
+cabecuda_0215,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2009,295,295,7,463.25,487.5417,23.9313,3,0,38.0,151.0,0,17.9832,3422.5545,459,462,0.974,0.9442,0.6965
+cabecuda_0216,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,546,541,41,461.0,461.1576,0.0,1,0,36.0,142.0,189,19.3728,4325.0873,460,461,0.8395,0.1258,0.3574
+cabecuda_0217,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,650,642,43,626.0,637.6889,11.3528,2,0,36.0,142.0,189,19.7256,5116.2316,624,625,0.9168,0.2988,0.44
+cabecuda_0218,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2007,68,67,2,73.5,106.0618,32.5118,3,0,34.0,140.0,189,18.1439,2017.5294,71,73,0.5205,0.0051,0.0223
+cabecuda_0219,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2009,279,279,14,420.25,477.0896,56.4736,2,0,36.0,144.0,189,19.4853,3256.6681,418,420,0.9286,0.3243,0.3629
+cabecuda_0220,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2007,205,203,6,255.5,255.6604,0.0,1,0,34.0,140.0,189,20.3426,3227.5258,254,255,0.9137,0.0766,0.2517
+cabecuda_0221,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2007,120,120,3,239.25,374.1007,134.1708,6,0,34.0,140.0,189,18.3143,3469.5705,232,238,0.8697,0.0453,0.24
+cabecuda_0222,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2006,318,318,26,275.5,275.6042,0.0,1,0,33.0,176.0,0,18.2809,3146.8697,274,275,1.0,0.998,0.9273
+cabecuda_0223,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2007,151,151,9,265.25,335.1757,69.134,6,0,34.0,140.0,189,19.6861,4758.0928,257,263,0.8973,0.0522,0.2256
+cabecuda_0224,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2007,79,79,5,134.75,302.1458,166.8319,5,6,34.0,140.0,189,14.3994,3295.0753,129,133,0.6992,0.0,0.1555
+cabecuda_0225,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2007,178,178,8,261.0,271.5007,10.0236,2,0,34.0,140.0,189,21.6838,2638.7362,258,260,0.8385,0.0898,0.302
+cabecuda_0226,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2007,161,161,10,271.5,381.2056,108.9743,4,6,34.0,140.0,189,22.154,4462.4017,266,270,0.8926,0.0515,0.2728
+cabecuda_0227,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2007,144,142,6,306.5,328.6083,21.9729,3,0,34.0,140.0,189,23.6118,4717.6018,303,306,0.8595,0.0904,0.4191
+cabecuda_0228,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2007,158,158,5,238.75,251.5049,12.6208,2,0,34.0,140.0,189,20.5074,2824.1627,236,238,0.7689,0.0898,0.2902
+cabecuda_0229,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2007,53,53,3,83.5,304.6493,220.7292,4,9,34.0,140.0,189,19.6966,4055.5967,80,83,0.7349,0.0,0.1199
+cabecuda_0230,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2007,270,270,14,349.0,349.1757,0.0,1,0,34.0,140.0,189,27.5292,4445.1437,348,349,0.9054,0.1468,0.2763
+cabecuda_0231,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2007,157,157,13,233.5,350.1701,116.5938,4,0,35.0,139.0,189,17.3716,3553.9364,230,233,0.8627,0.0431,0.2102
+cabecuda_0232,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2007,276,274,20,298.75,403.8035,104.7049,5,13,35.0,140.0,189,18.7137,5469.0399,294,298,0.8322,0.0601,0.2294
+cabecuda_0233,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2007,99,99,3,148.25,257.1771,108.025,7,1,34.0,140.0,189,23.5226,3879.4005,140,146,0.7671,0.0692,0.2312
+cabecuda_0234,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2007,82,82,9,114.5,308.6167,193.6174,5,3,34.0,139.0,189,28.8761,4440.2425,111,114,0.7105,0.0447,0.2048
+cabecuda_0235,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,484,476,36,445.75,445.7701,0.0,1,0,35.0,146.0,0,15.3829,4529.0094,444,445,1.0,0.7479,0.6275
+cabecuda_0236,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2009,382,379,18,590.0,617.1104,26.8771,3,0,35.0,144.0,189,22.5097,3021.7957,586,589,0.8048,0.4312,0.4518
+cabecuda_0237,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2009,350,347,18,464.75,493.0958,28.0743,3,0,34.0,147.0,0,19.5805,2800.0995,462,464,1.0,0.9719,0.7918
+cabecuda_0238,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,151,150,13,118.5,118.5486,0.0,1,33,36.0,136.0,189,12.8536,1233.4283,117,118,0.0,0.0,0.0
+cabecuda_0239,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2009,253,251,14,440.0,452.1722,12.0271,2,0,36.0,142.0,189,17.0317,5158.8701,437,439,0.9818,0.2203,0.4118
+cabecuda_0240,cabecuda,cabecuda_pacifico_norte,Pacífico Norte,2011,131,131,18,254.5,264.8118,10.0271,2,0,37.0,142.0,189,22.2591,3551.6444,251,253,0.5771,0.0483,0.3187
+cabecuda_0241,cabecuda,cabecuda_reuniao,Índico sudoeste,2011,2579,2570,81,252.75,280.2821,27.2139,3,0,-22.0,55.0,53,31.31,4620.013,249,252,0.1865,0.1572,0.3894
+cabecuda_0242,cabecuda,cabecuda_reuniao,Índico sudoeste,2011,4625,4602,263,393.75,393.7978,0.0,1,0,-22.0,55.0,53,38.9505,4002.0458,392,393,0.5598,0.2966,0.3007
+cabecuda_0243,cabecuda,cabecuda_reuniao,Índico sudoeste,2011,1744,1737,142,247.5,258.6648,10.7742,2,164,-22.0,55.0,53,21.9048,3427.3323,245,247,0.1215,0.0774,0.1678
+cabecuda_0244,cabecuda,cabecuda_reuniao,Índico sudoeste,2010,983,974,66,132.5,132.6651,0.0,1,0,-22.0,55.0,53,37.3632,3651.6527,131,132,0.7803,0.1189,0.3794
+cabecuda_0245,cabecuda,cabecuda_reuniao,Índico sudoeste,2010,1174,1166,51,161.5,161.7426,0.0,1,0,-22.0,55.0,53,30.51,2201.6675,160,161,0.9006,0.0966,0.2
+cabecuda_0246,cabecuda,cabecuda_reuniao,Índico sudoeste,2010,777,768,24,184.5,184.5417,0.0,1,57,-22.0,55.0,53,6.9853,749.3001,183,184,0.0,0.0114,0.0194
+cabecuda_0247,cabecuda,cabecuda_reuniao,Índico sudoeste,2011,800,793,26,124.5,124.7439,0.0,1,0,-22.0,55.0,53,35.6661,3585.7854,123,124,0.4516,0.0173,0.2633
+cabecuda_0248,cabecuda,cabecuda_reuniao,Índico sudoeste,2011,950,937,68,139.0,139.136,0.0,1,2,-22.0,55.0,53,35.1929,3221.8323,138,139,0.0144,0.1315,0.448
+cabecuda_0249,cabecuda,cabecuda_reuniao,Índico sudoeste,2010,785,779,18,169.75,169.9648,0.0,1,0,-22.0,55.0,53,21.1902,1293.3632,168,169,0.1953,0.0811,0.1815
+cabecuda_0250,cabecuda,cabecuda_reuniao,Índico sudoeste,2010,1411,1406,288,240.5,240.661,0.0,1,1,-22.0,55.0,53,41.1936,4541.5634,239,240,0.1958,0.107,0.3769
+cabecuda_0251,cabecuda,cabecuda_reuniao,Índico sudoeste,2010,1310,1306,81,181.25,181.2895,0.0,1,0,-22.0,55.0,53,38.2289,4245.8989,180,181,0.2928,0.126,0.4634
+cabecuda_0252,cabecuda,cabecuda_reuniao,Índico sudoeste,2010,510,507,24,141.25,141.4907,0.0,1,5,-22.0,55.0,53,38.6457,3283.059,140,141,0.1348,0.1046,0.4103
+cabecuda_0253,cabecuda,cabecuda_reuniao,Índico sudoeste,2010,586,582,25,100.25,100.2598,0.0,1,2,-22.0,55.0,53,47.362,2752.4069,99,100,0.23,0.0888,0.4218
+cabecuda_0254,cabecuda,cabecuda_reuniao,Índico sudoeste,2008,416,416,6,34.5,34.5905,0.0,1,0,-22.0,55.0,53,38.9838,1138.1077,33,34,0.0,0.0,0.2426
+cabecuda_0255,cabecuda,cabecuda_reuniao,Índico sudoeste,2009,260,259,1,24.75,24.7838,0.0,1,1,-22.0,55.0,53,34.254,611.0361,23,24,0.0,0.0,0.0812
+cabecuda_0256,cabecuda,cabecuda_reuniao,Índico sudoeste,2009,543,539,23,58.25,58.2681,0.0,1,0,-22.0,55.0,53,22.929,407.0345,57,58,0.0862,0.0013,0.1181
+cabecuda_0257,cabecuda,cabecuda_reuniao,Índico sudoeste,2009,686,684,5,47.0,47.0942,0.0,1,0,-22.0,55.0,53,46.4845,1883.5204,46,47,0.7447,0.0176,0.3074
+cabecuda_0258,cabecuda,cabecuda_taiwan,Pacífico Norte,2007,179,179,14,169.5,169.6973,0.0,1,0,24.0,121.0,232,22.0715,1677.7966,168,169,0.0,0.0006,0.1195
+cabecuda_0259,cabecuda,cabecuda_taiwan,Pacífico Norte,2003,648,645,82,492.25,502.7078,10.0365,2,4,24.0,121.0,232,12.6948,799.343,490,492,0.0,0.004,0.0769
+cabecuda_0260,cabecuda,cabecuda_taiwan,Pacífico Norte,2004,377,377,68,225.0,225.0029,0.0,1,1,24.0,121.0,232,16.6338,1062.2601,224,225,0.0,0.0,0.0116
+cabecuda_0261,cabecuda,cabecuda_taiwan,Pacífico Norte,2003,215,213,15,172.25,172.2786,0.0,1,0,24.0,121.0,232,12.7282,563.7031,171,172,0.0,0.0,0.0124
+cabecuda_0262,cabecuda,cabecuda_taiwan,Pacífico Norte,2004,264,263,42,157.75,157.7632,0.0,1,0,24.0,121.0,232,42.5807,4169.7038,156,157,0.293,0.0205,0.1008
+cabecuda_0263,cabecuda,cabecuda_taiwan,Pacífico Norte,2004,145,145,16,155.0,175.0879,19.8561,2,0,24.0,121.0,232,23.8788,2594.0997,152,154,0.1623,0.0096,0.1112
+cabecuda_0264,cabecuda,cabecuda_taiwan,Pacífico Norte,2004,104,103,8,159.5,376.6883,216.7613,2,0,24.0,121.0,232,8.9473,501.996,157,159,0.0,0.0,0.0006
+cabecuda_0265,cabecuda,cabecuda_taiwan,Pacífico Norte,2004,96,96,14,67.5,67.7404,0.0,1,0,24.0,121.0,232,42.6449,3168.5805,66,67,0.1194,0.0571,0.1187
+cabecuda_0266,cabecuda,cabecuda_taiwan,Pacífico Norte,2002,61,61,4,99.75,157.5117,57.5285,4,0,24.0,121.0,232,16.3442,1125.5795,95,98,0.0,0.0,0.0143
+cabecuda_0267,cabecuda,cabecuda_taiwan,Pacífico Norte,2003,553,548,62,357.75,407.7888,49.7009,3,0,24.0,121.0,232,23.6984,3742.0023,354,357,0.619,0.0465,0.0789
+cabecuda_0268,cabecuda,cabecuda_taiwan,Pacífico Norte,2008,16,16,0,38.25,51.8786,13.5233,2,0,25.0,122.0,232,25.779,854.3763,36,38,0.0,0.0,0.0007
+cabecuda_0269,cabecuda,cabecuda_taiwan,Pacífico Norte,2007,49,49,3,47.75,209.9924,161.3166,7,1,25.0,122.0,232,22.1977,1293.8129,42,47,0.0,0.0,0.0037
+cabecuda_0270,cabecuda,cabecuda_taiwan,Pacífico Norte,2006,36,36,2,83.75,95.1264,11.1755,2,0,24.0,121.0,232,28.5689,2119.9644,81,83,0.1205,0.0087,0.1449
+cabecuda_0271,cabecuda,cabecuda_taiwan,Pacífico Norte,2007,23,23,1,50.5,168.92,117.9339,6,37,24.0,122.0,232,20.9173,2054.0853,45,49,0.0,0.0,0.0
+cabecuda_0272,cabecuda,cabecuda_taiwan,Pacífico Norte,2008,23,23,2,42.25,89.8317,47.1527,3,5,26.0,125.0,251,17.1192,544.5767,39,42,0.0,0.0,0.0119
+cabecuda_0273,cabecuda,cabecuda_taiwan,Pacífico Norte,2008,71,71,11,114.5,173.3756,58.4243,5,0,25.0,122.0,251,10.5392,440.6244,110,113,0.0,0.0,0.0
+cabecuda_0274,cabecuda,cabecuda_taiwan,Pacífico Norte,2008,123,123,5,261.25,381.2102,119.4498,7,0,25.0,123.0,251,8.2621,768.9693,257,260,0.0,0.0,0.0148
+cabecuda_0275,cabecuda,cabecuda_taiwan,Pacífico Norte,2007,58,58,5,69.25,69.4487,0.0,1,9,24.0,122.0,232,26.3481,753.0498,68,69,0.0,0.0,0.0359
+cabecuda_0276,cabecuda,cabecuda_taiwan,Pacífico Norte,2011,153,152,18,242.75,265.6572,22.6422,3,17,26.0,122.0,232,16.6905,1081.6403,238,241,0.0,0.0015,0.0232
+cabecuda_0277,cabecuda,cabecuda_taiwan,Pacífico Norte,2005,170,170,17,172.25,172.2845,0.0,1,32,25.0,123.0,251,12.7734,615.961,171,172,0.0,0.0,0.0124
+cabecuda_0278,cabecuda,cabecuda_taiwan,Pacífico Norte,2005,193,193,17,283.25,294.9699,11.3368,2,5,24.0,121.0,232,27.5223,4382.3146,281,283,0.7703,0.012,0.1083
+cabecuda_0279,cabecuda,cabecuda_taiwan,Pacífico Norte,2005,196,196,17,383.25,422.33,38.4715,4,8,24.0,121.0,232,7.5084,772.3988,379,383,0.0,0.0,0.0232
+cabecuda_0280,cabecuda,cabecuda_taiwan,Pacífico Norte,2005,39,38,4,74.75,74.7634,0.0,1,0,24.0,121.0,232,11.5504,654.0763,73,74,0.0,0.0,0.0179
+cabecuda_0281,cabecuda,cabecuda_taiwan,Pacífico Norte,2005,136,136,23,207.25,207.2823,0.0,1,0,24.0,121.0,232,14.4497,625.8916,206,207,0.0,0.0053,0.0355
+cabecuda_0282,cabecuda,cabecuda_taiwan,Pacífico Norte,2005,279,279,14,250.75,250.9442,0.0,1,0,24.0,121.0,232,15.8316,1357.1781,249,250,0.0,0.0,0.0372
+cabecuda_0283,cabecuda,cabecuda_taiwan,Pacífico Norte,2005,61,61,6,76.25,76.4839,0.0,1,30,25.0,122.0,232,15.8743,630.0478,75,76,0.0,0.0,0.0211
+cabecuda_0284,cabecuda,cabecuda_taiwan,Pacífico Norte,2005,67,67,13,73.25,86.8912,13.3958,2,0,24.0,123.0,189,19.8415,451.3241,70,72,0.0,0.0,0.0076
+cabecuda_0285,cabecuda,cabecuda_taiwan,Pacífico Norte,2005,66,66,4,106.0,117.4056,11.2616,2,0,24.0,121.0,232,31.8064,2571.0302,103,105,0.0,0.0183,0.1181
+cabecuda_0286,cabecuda,cabecuda_taiwan,Pacífico Norte,2011,307,306,36,245.5,245.7496,0.0,1,0,24.0,121.0,232,18.4521,917.1328,244,245,0.0,0.0,0.0085
+cabecuda_0287,cabecuda,cabecuda_taiwan,Pacífico Norte,2006,119,117,14,148.5,148.658,0.0,1,0,24.0,122.0,189,31.5671,2515.3824,147,148,0.3446,0.0495,0.0897
+cabecuda_0288,cabecuda,cabecuda_taiwan,Pacífico Norte,2006,25,25,0,16.5,72.0702,55.3214,2,0,22.0,118.0,232,12.8302,483.1909,15,16,0.0,0.0,0.0
+cabecuda_0289,cabecuda,cabecuda_taiwan,Pacífico Norte,2006,49,49,5,83.25,119.6717,35.9677,2,0,24.0,121.0,232,22.1429,1134.4363,81,83,0.0,0.0,0.0316
+cabecuda_0290,cabecuda,cabecuda_taiwan,Pacífico Norte,2006,54,54,6,117.75,152.6502,34.1307,4,30,24.0,121.0,232,32.1657,3073.257,112,116,0.0,0.006,0.0961
+cabecuda_0291,cabecuda,cabecuda_taiwan,Pacífico Norte,2006,42,42,2,84.75,118.0912,33.2135,3,6,24.0,121.0,232,9.9578,712.9906,80,83,0.0,0.0,0.0093
+cabecuda_0292,cabecuda,cabecuda_taiwan,Pacífico Norte,2007,13,13,0,33.75,47.36,13.3482,2,0,25.0,122.0,232,13.6848,393.3412,31,33,0.0,0.0,0.0
+cabecuda_0293,cabecuda,cabecuda_taiwan,Pacífico Norte,2009,49,49,4,125.25,150.5553,24.7785,3,0,25.0,122.0,232,25.7239,1230.9467,121,124,0.0,0.0008,0.0286
+baleia_0001,baleia,baleia_galapagos,Galápagos (Pacífico leste),2011,48,31,0,62.0,1469.0,1407.0,6,0,-5.0,-87.0,0,38.6699,976.2453,58,62,0.4194,0.1081,0.3653
+baleia_0002,baleia,baleia_galapagos,Galápagos (Pacífico leste),2013,51,11,0,11.0,11.0,0.0,1,0,1.0,-92.0,110,40.2069,381.9405,10,11,0.0,0.0,0.0409
+baleia_0003,baleia,baleia_galapagos,Galápagos (Pacífico leste),2015,82,33,0,75.0,112.0,37.0,2,0,1.0,-92.0,110,22.699,1738.5449,73,75,0.0,0.0497,0.409
+baleia_0004,baleia,baleia_galapagos,Galápagos (Pacífico leste),2014,91,45,0,55.0,79.0,24.0,2,0,1.0,-92.0,110,51.2082,3116.7649,53,55,0.8909,0.2045,0.4314
+baleia_0005,baleia,baleia_galapagos,Galápagos (Pacífico leste),2014,121,57,0,88.0,143.0,55.0,2,0,1.0,-92.0,110,30.5191,2055.2437,86,88,0.8523,0.0719,0.3497
+baleia_0006,baleia,baleia_galapagos,Galápagos (Pacífico leste),2012,255,48,0,83.0,1497.0,1414.0,2,0,1.0,-90.0,110,56.2502,969.186,81,83,0.1566,0.1663,0.3807
+baleia_0007,baleia,baleia_galapagos,Galápagos (Pacífico leste),2012,130,33,0,31.0,1484.0,1453.0,2,0,2.0,-94.0,110,71.7755,1621.6759,30,31,0.6129,0.121,0.4597
+baleia_0008,baleia,baleia_galapagos,Galápagos (Pacífico leste),2015,72,21,2,20.0,20.0,0.0,1,0,1.0,-92.0,110,119.3246,2238.294,19,20,0.8,0.235,0.475
+baleia_0009,baleia,baleia_galapagos,Galápagos (Pacífico leste),2011,22,11,0,27.0,1514.0,1487.0,4,0,1.0,-92.0,110,33.8609,755.8835,25,27,0.3333,0.0194,0.2574
+baleia_0010,baleia,baleia_galapagos,Galápagos (Pacífico leste),2011,106,57,2,125.0,1529.0,1404.0,5,0,1.0,-86.0,0,13.6506,769.3032,122,125,0.664,0.0586,0.253
+baleia_0011,baleia,baleia_galapagos,Galápagos (Pacífico leste),2011,73,40,1,67.0,1622.0,1555.0,7,0,2.0,-98.0,0,51.9868,1984.8832,62,67,0.5821,0.1795,0.4246
+baleia_0012,baleia,baleia_galapagos,Galápagos (Pacífico leste),2011,67,38,1,49.0,1516.0,1467.0,7,0,2.0,-116.0,0,39.5481,2645.7817,45,49,0.9184,0.1163,0.3969
+baleia_0013,baleia,baleia_galapagos,Galápagos (Pacífico leste),2011,525,139,0,191.0,1623.0,1432.0,4,0,1.0,-88.0,110,27.4945,1117.9185,189,191,0.1728,0.4872,0.4508
+baleia_0014,baleia,baleia_galapagos,Galápagos (Pacífico leste),2012,328,79,0,83.0,1519.0,1436.0,4,0,3.0,-89.0,129,23.2095,961.786,81,83,0.0,0.0286,0.1708
+baleia_0015,baleia,baleia_galapagos,Galápagos (Pacífico leste),2011,232,42,0,52.0,1495.0,1443.0,3,0,2.0,-96.0,0,67.6982,1624.6441,50,52,1.0,0.7447,0.7197
+baleia_0016,baleia,baleia_galapagos,Galápagos (Pacífico leste),2015,57,28,0,38.0,38.0,0.0,1,0,1.0,-92.0,110,38.5454,573.4623,37,38,0.0,0.0559,0.2388
+baleia_0017,baleia,baleia_galapagos,Galápagos (Pacífico leste),2016,97,31,0,45.0,45.0,0.0,1,0,1.0,-92.0,110,37.5397,1521.7847,44,45,0.8,0.0644,0.3494
+baleia_0018,baleia,baleia_galapagos,Galápagos (Pacífico leste),2013,92,17,0,13.0,1463.0,1450.0,4,0,-13.0,-83.0,0,9.5029,1911.7714,12,13,1.0,0.9365,0.7615
+baleia_0019,baleia,baleia_galapagos,Galápagos (Pacífico leste),2012,133,56,1,55.0,1508.0,1453.0,4,0,0.0,-97.0,0,73.8407,2293.9306,54,55,0.8545,0.2264,0.4459
+baleia_0020,baleia,baleia_galapagos,Galápagos (Pacífico leste),2011,25,15,0,30.0,1539.0,1509.0,4,0,1.0,-92.0,110,45.6883,1579.372,28,30,0.2333,0.025,0.2467
+baleia_0021,baleia,baleia_galapagos,Galápagos (Pacífico leste),2015,25,13,0,22.0,113.0,91.0,3,0,1.0,-92.0,110,41.4181,2027.7468,19,22,0.7727,0.0364,0.2682
+baleia_0022,baleia,baleia_mar_de_coral,Mar de Coral (Pacífico oeste),2018,177,177,0,145.75,145.9447,0.0,1,1,-15.0,145.0,42,23.2592,1190.6058,144,145,0.0,0.0,0.0
+baleia_0023,baleia,baleia_mar_de_coral,Mar de Coral (Pacífico oeste),2023,204,204,0,110.75,131.7628,20.5294,2,0,-17.0,146.0,42,13.5872,1281.8244,108,110,0.0,0.0,0.0
+baleia_0024,baleia,baleia_mar_de_coral,Mar de Coral (Pacífico oeste),2024,24,24,3,7.25,7.281,0.0,1,0,-15.0,145.0,42,25.4481,193.2396,6,7,0.0,0.0,0.0
+baleia_0025,baleia,baleia_mar_de_coral,Mar de Coral (Pacífico oeste),2019,69,69,0,72.75,87.5317,14.4856,2,0,-13.0,143.0,42,30.4418,962.5404,70,72,0.0,0.0,0.0
+baleia_0026,baleia,baleia_mar_de_coral,Mar de Coral (Pacífico oeste),2019,63,63,0,39.25,39.3363,0.0,1,0,-13.0,143.0,42,2.6944,64.0525,38,39,0.0,0.0,0.0
+baleia_0027,baleia,baleia_mar_de_coral,Mar de Coral (Pacífico oeste),2021,24,24,0,37.75,37.9269,0.0,1,0,-13.0,143.0,42,21.9012,325.31,36,37,0.0,0.0,0.0
+baleia_0028,baleia,baleia_mar_de_coral,Mar de Coral (Pacífico oeste),2021,357,357,0,145.25,158.4733,12.9643,2,0,-12.0,144.0,42,19.3154,1381.8747,142,144,0.0,0.0,0.0
+baleia_0029,baleia,baleia_mar_de_coral,Mar de Coral (Pacífico oeste),2021,273,273,1,289.75,769.9281,477.9505,22,1,-13.0,143.0,42,12.7137,1198.7712,271,285,0.0,0.0,0.0
+baleia_0030,baleia,baleia_mar_de_coral,Mar de Coral (Pacífico oeste),2021,73,73,0,49.75,525.8908,475.8612,3,0,-13.0,143.0,42,3.3563,503.1758,46,49,0.0,0.0,0.0
+baleia_0031,baleia,baleia_mar_de_coral,Mar de Coral (Pacífico oeste),2023,53,53,0,7.0,7.1091,0.0,1,0,-13.0,143.0,42,15.5203,55.6653,6,7,0.0,0.0,0.0
+baleia_0032,baleia,baleia_mar_de_coral,Mar de Coral (Pacífico oeste),2023,98,98,0,56.75,67.5313,10.551,2,0,-13.0,143.0,42,17.8352,783.1753,54,56,0.0,0.0,0.0
+baleia_0033,baleia,baleia_mar_de_coral,Mar de Coral (Pacífico oeste),2023,66,66,0,51.25,73.2124,21.7941,3,0,-13.0,143.0,42,5.6352,297.4122,48,51,0.0,0.0,0.0
+baleia_0034,baleia,baleia_mar_de_coral,Mar de Coral (Pacífico oeste),2023,53,53,0,39.0,39.1712,0.0,1,0,-13.0,143.0,42,8.2695,418.2145,38,39,0.0,0.0,0.0
+baleia_0035,baleia,baleia_mar_de_coral,Mar de Coral (Pacífico oeste),2023,423,423,0,187.0,397.2053,208.8534,8,0,-13.0,143.0,42,13.9934,530.2717,177,185,0.0,0.0,0.0
+baleia_0036,baleia,baleia_mar_de_coral,Mar de Coral (Pacífico oeste),2023,261,261,0,96.5,96.7481,0.0,1,0,-13.0,143.0,42,13.4764,155.2187,95,96,0.0,0.0,0.0
+elefante_0001,elefante,elefante_raatd,Oceano Austral,2013,629,629,0,52.25,52.3333,0.0,1,0,-63.0,-59.0,0,22.9455,883.7982,51,52,0.9423,0.9894,0.9673
+elefante_0002,elefante,elefante_raatd,Oceano Austral,2013,1271,1271,0,105.75,105.8333,0.0,1,0,-63.0,-59.0,0,6.5985,169.9752,104,105,1.0,1.0,1.0
+elefante_0003,elefante,elefante_raatd,Oceano Austral,2013,1561,1561,0,130.0,130.0,0.0,1,0,-63.0,-59.0,0,4.6805,1389.3977,129,130,1.0,0.9831,0.9388
+elefante_0004,elefante,elefante_raatd,Oceano Austral,2013,806,806,0,67.0,67.0833,0.0,1,0,-63.0,-59.0,0,37.9981,2523.2255,66,67,1.0,0.9668,0.9698
+elefante_0005,elefante,elefante_raatd,Oceano Austral,2013,1111,1111,0,92.5,92.5,0.0,1,8,-63.0,-59.0,0,33.6426,1646.7267,91,92,1.0,0.9764,0.9505
+elefante_0006,elefante,elefante_raatd,Oceano Austral,2013,219,219,0,18.0,18.1667,0.0,1,0,-63.0,-59.0,0,90.0544,1438.4819,17,18,1.0,0.9903,0.8208
+elefante_0007,elefante,elefante_raatd,Oceano Austral,2013,1569,1569,1,130.5,130.6667,0.0,1,1,-63.0,-59.0,0,6.4299,752.1537,129,130,1.0,0.9896,0.9985
+elefante_0008,elefante,elefante_raatd,Oceano Austral,2013,957,957,0,79.5,79.6667,0.0,1,2,-63.0,-59.0,0,5.0402,206.0415,78,79,1.0,1.0,1.0
+elefante_0009,elefante,elefante_raatd,Oceano Austral,2013,1550,1550,0,129.0,129.0833,0.0,1,0,-63.0,-59.0,0,21.1508,2650.6095,128,129,1.0,0.9756,0.9105
+elefante_0010,elefante,elefante_raatd,Oceano Austral,2013,1180,1180,0,98.25,98.25,0.0,1,0,-63.0,-59.0,0,1.5743,81.5557,97,98,1.0,1.0,1.0
+elefante_0011,elefante,elefante_raatd,Oceano Austral,2013,1430,1430,0,119.0,119.0833,0.0,1,2,-63.0,-59.0,0,12.3793,1377.807,118,119,1.0,0.9727,0.9746
+elefante_0012,elefante,elefante_raatd,Oceano Austral,2013,1452,1452,0,120.75,120.9167,0.0,1,0,-63.0,-59.0,0,10.6287,1835.1264,119,120,1.0,0.9833,0.9404
+elefante_0013,elefante,elefante_raatd,Oceano Austral,2013,1012,1012,0,84.25,84.25,0.0,1,0,-63.0,-59.0,0,40.4305,2526.4775,83,84,1.0,0.9634,0.9449
+elefante_0014,elefante,elefante_raatd,Oceano Austral,2013,894,894,0,74.25,74.4167,0.0,1,0,-63.0,-59.0,0,5.9186,244.4404,73,74,1.0,1.0,1.0
+elefante_0015,elefante,elefante_raatd,Oceano Austral,2013,1081,1081,0,90.0,90.0,0.0,1,0,-63.0,-59.0,0,23.9428,1613.7819,89,90,1.0,0.9714,0.9589
+elefante_0016,elefante,elefante_raatd,Oceano Austral,2013,1432,1432,0,119.25,119.25,0.0,1,0,-63.0,-59.0,0,31.2966,1581.7991,118,119,1.0,0.9477,0.9622
+elefante_0017,elefante,elefante_raatd,Oceano Austral,2013,1954,1954,0,162.75,162.75,0.0,1,41,-63.0,-59.0,0,20.5799,1379.6592,161,162,1.0,0.9856,0.9944
+elefante_0018,elefante,elefante_raatd,Oceano Austral,1996,2305,2305,0,192.0,192.0,0.0,1,3,-63.0,-59.0,0,31.288,2358.3011,191,192,1.0,0.9926,0.8548
+elefante_0019,elefante,elefante_raatd,Oceano Austral,1997,2346,2346,0,195.25,195.4167,0.0,1,0,-63.0,-59.0,0,10.1946,490.3048,194,195,1.0,1.0,0.9697
+elefante_0020,elefante,elefante_raatd,Oceano Austral,1997,4896,4896,0,407.75,407.9167,0.0,1,5,-63.0,-59.0,0,17.2291,1559.2479,406,407,0.9042,0.934,0.9373
+elefante_0021,elefante,elefante_raatd,Oceano Austral,1997,735,735,0,61.0,61.1667,0.0,1,0,-63.0,-59.0,0,13.8534,278.3815,60,61,1.0,1.0,0.9955
+elefante_0022,elefante,elefante_raatd,Oceano Austral,1997,1377,1377,0,114.5,114.6667,0.0,1,2,-63.0,-59.0,0,22.2732,1608.5498,113,114,1.0,0.9739,0.9544
+elefante_0023,elefante,elefante_raatd,Oceano Austral,1997,4008,4008,0,333.75,333.9167,0.0,1,8,-63.0,-59.0,0,18.4831,1629.7738,332,333,1.0,0.9139,0.8525
+elefante_0024,elefante,elefante_raatd,Oceano Austral,1997,4316,4316,0,359.5,359.5833,0.0,1,2,-63.0,-59.0,0,11.139,1655.2317,358,359,0.9136,0.8783,0.917
+elefante_0025,elefante,elefante_raatd,Oceano Austral,1997,866,866,0,72.0,72.0833,0.0,1,0,-63.0,-59.0,0,17.6033,1456.3554,71,72,1.0,0.9993,0.992
+elefante_0026,elefante,elefante_raatd,Oceano Austral,2000,1682,1682,0,140.0,140.0833,0.0,1,0,-63.0,-59.0,0,2.5847,149.797,139,140,1.0,1.0,1.0
+elefante_0027,elefante,elefante_raatd,Oceano Austral,2000,1433,1433,0,119.25,119.3333,0.0,1,0,-63.0,-59.0,0,6.8828,381.7826,118,119,1.0,1.0,1.0
+elefante_0028,elefante,elefante_raatd,Oceano Austral,2000,1832,1832,0,152.5,152.5833,0.0,1,1,-63.0,-59.0,0,16.4597,1588.6416,151,152,0.9803,0.9597,0.9576
+elefante_0029,elefante,elefante_raatd,Oceano Austral,2000,3452,3452,0,287.5,287.5833,0.0,1,0,-63.0,-59.0,0,5.4856,506.2955,286,287,1.0,0.983,0.9747
+elefante_0030,elefante,elefante_raatd,Oceano Austral,2000,1056,1056,0,87.75,87.9167,0.0,1,0,-63.0,-59.0,0,10.405,307.636,86,87,1.0,1.0,1.0
+elefante_0031,elefante,elefante_raatd,Oceano Austral,2000,4058,4058,0,338.0,338.0833,0.0,1,8,-63.0,-59.0,0,12.5537,1798.7412,337,338,1.0,0.9272,0.82
+elefante_0032,elefante,elefante_raatd,Oceano Austral,2010,2050,2050,0,170.75,170.75,0.0,1,0,-63.0,-59.0,0,7.2581,1517.9072,169,170,0.9647,0.9978,0.969
+elefante_0033,elefante,elefante_raatd,Oceano Austral,2010,2035,2035,0,169.5,169.5,0.0,1,0,-63.0,-59.0,0,9.5477,638.6718,168,169,1.0,1.0,0.9843
+elefante_0034,elefante,elefante_raatd,Oceano Austral,2010,3107,3107,0,258.75,258.8333,0.0,1,8,-63.0,-59.0,0,4.9464,1538.1864,257,258,0.6395,0.966,0.9872
+elefante_0035,elefante,elefante_raatd,Oceano Austral,2010,1858,1858,0,154.75,154.75,0.0,1,1,-63.0,-59.0,0,10.1638,1607.512,153,154,0.961,0.9773,0.9795
+elefante_0036,elefante,elefante_raatd,Oceano Austral,2010,2218,2218,0,184.75,184.75,0.0,1,18,-63.0,-59.0,0,5.6572,1529.7995,183,184,0.9674,0.9773,1.0
+elefante_0037,elefante,elefante_raatd,Oceano Austral,2010,884,884,0,73.5,73.5833,0.0,1,0,-63.0,-59.0,0,3.9739,146.0806,72,73,1.0,1.0,1.0
+elefante_0038,elefante,elefante_raatd,Oceano Austral,2010,3243,3243,0,270.0,270.1667,0.0,1,1,-63.0,-59.0,0,13.388,1833.6992,269,270,0.7074,0.9328,0.8759
+elefante_0039,elefante,elefante_raatd,Oceano Austral,2010,1579,1579,0,131.5,131.5,0.0,1,0,-63.0,-59.0,0,8.3632,857.4633,130,131,1.0,0.9975,0.9989
+elefante_0040,elefante,elefante_raatd,Oceano Austral,2010,1562,1562,0,130.0,130.0833,0.0,1,0,-63.0,-59.0,0,10.0437,842.1742,129,130,1.0,1.0,0.9958
+elefante_0041,elefante,elefante_raatd,Oceano Austral,2010,1773,1773,0,147.5,147.6667,0.0,1,5,-63.0,-59.0,0,16.2642,1290.5462,146,147,0.6395,0.9507,0.9587
+elefante_0042,elefante,elefante_raatd,Oceano Austral,2010,4189,4189,0,349.0,349.0,0.0,1,48,-63.0,-59.0,0,3.6278,1561.5951,348,349,0.7937,0.9344,0.992
+elefante_0043,elefante,elefante_raatd,Oceano Austral,2010,164,164,0,13.5,13.5833,0.0,1,3,-63.0,-59.0,0,60.3393,420.0397,12,13,1.0,1.0,1.0
+elefante_0044,elefante,elefante_raatd,Oceano Austral,2004,1174,1174,0,97.75,97.75,0.0,1,1,-47.0,37.0,93,33.4279,2568.1549,96,97,0.9381,0.2294,0.6407
+elefante_0045,elefante,elefante_raatd,Oceano Austral,2004,1170,1170,0,97.25,97.4167,0.0,1,1,-47.0,37.0,93,49.0286,2401.8577,96,97,0.9485,0.3296,0.6923
+elefante_0046,elefante,elefante_raatd,Oceano Austral,2004,361,361,0,30.0,30.0,0.0,1,0,-47.0,37.0,93,75.7499,1979.0364,29,30,0.8,0.1558,0.7483
+elefante_0047,elefante,elefante_raatd,Oceano Austral,2007,1741,1741,0,145.0,145.0,0.0,1,7,-47.0,37.0,93,4.6005,984.2408,144,145,0.1241,0.0452,0.0826
+elefante_0048,elefante,elefante_raatd,Oceano Austral,2004,729,729,0,60.5,60.6667,0.0,1,0,-47.0,37.0,93,50.7263,2041.2276,59,60,0.8833,0.255,0.7342
+elefante_0049,elefante,elefante_raatd,Oceano Austral,2008,2877,2877,0,239.5,239.6667,0.0,1,0,-47.0,37.0,93,18.7541,486.7636,238,239,0.1046,0.2794,0.3382
+elefante_0050,elefante,elefante_raatd,Oceano Austral,2005,1606,1606,0,133.75,133.75,0.0,1,0,-47.0,37.0,93,47.0859,1612.5659,132,133,0.8872,0.322,0.7079
+elefante_0051,elefante,elefante_raatd,Oceano Austral,2008,1227,1227,0,102.0,102.1667,0.0,1,1,-47.0,37.0,93,31.2213,1166.1505,101,102,0.951,0.1931,0.5105
+elefante_0052,elefante,elefante_raatd,Oceano Austral,2004,869,869,0,72.25,72.3333,0.0,1,1,-47.0,37.0,93,61.7456,3569.3447,71,72,0.9306,0.3094,0.8052
+elefante_0053,elefante,elefante_raatd,Oceano Austral,2008,876,876,0,72.75,72.9167,0.0,1,0,-47.0,37.0,93,55.4023,1026.4165,71,72,0.5,0.3285,0.6233
+elefante_0054,elefante,elefante_raatd,Oceano Austral,2009,2743,2743,0,228.5,228.5,0.0,1,0,-47.0,37.0,93,38.655,3034.485,227,228,0.7939,0.4577,0.7672
+elefante_0055,elefante,elefante_raatd,Oceano Austral,2005,1014,1014,0,84.25,84.4167,0.0,1,0,-47.0,37.0,93,50.7429,1387.3174,83,84,0.9405,0.2482,0.7521
+elefante_0056,elefante,elefante_raatd,Oceano Austral,2006,1767,1767,0,147.0,147.1667,0.0,1,3,-47.0,37.0,93,37.7553,1296.2437,146,147,0.7755,0.3418,0.6306
+elefante_0057,elefante,elefante_raatd,Oceano Austral,2004,2743,2743,0,228.5,228.5,0.0,1,6,-47.0,37.0,93,42.0398,1572.1896,227,228,0.7939,0.5235,0.732
+elefante_0058,elefante,elefante_raatd,Oceano Austral,2009,2707,2707,0,225.5,225.5,0.0,1,6,-47.0,37.0,93,32.3946,2891.806,224,225,0.9467,0.4598,0.6209
+elefante_0059,elefante,elefante_raatd,Oceano Austral,2012,345,345,0,28.5,28.6667,0.0,1,0,-48.0,37.0,93,61.9961,1437.2177,27,28,0.8571,0.0616,0.4786
+elefante_0060,elefante,elefante_raatd,Oceano Austral,2001,2476,2476,0,206.25,206.25,0.0,1,5,-47.0,37.0,93,33.6541,1357.8667,205,206,0.7718,0.409,0.6778
+elefante_0061,elefante,elefante_raatd,Oceano Austral,2011,3643,3643,0,303.5,303.5,0.0,1,0,-47.0,37.0,93,24.3087,1901.8857,302,303,0.8779,0.3978,0.695
+elefante_0062,elefante,elefante_raatd,Oceano Austral,2009,1610,1610,0,134.0,134.0833,0.0,1,0,-47.0,37.0,93,24.0941,2308.4592,133,134,0.9328,0.2591,0.4431
+elefante_0063,elefante,elefante_raatd,Oceano Austral,2007,4074,4074,0,339.25,339.4167,0.0,1,2,-47.0,37.0,93,45.7646,2855.5887,338,339,0.7375,0.5859,0.7575
+elefante_0064,elefante,elefante_raatd,Oceano Austral,2012,3872,3872,2,322.5,322.5833,0.0,1,3,-47.0,37.0,93,27.2441,2248.9429,321,322,0.8354,0.5825,0.6452
+elefante_0065,elefante,elefante_raatd,Oceano Austral,2008,3545,3545,0,295.25,295.3333,0.0,1,0,-47.0,37.0,93,24.6727,2189.3948,294,295,0.9288,0.4168,0.5378
+elefante_0066,elefante,elefante_raatd,Oceano Austral,2010,3945,3945,0,328.5,328.6667,0.0,1,0,-47.0,37.0,93,21.616,2012.7992,327,328,0.8293,0.4229,0.6111
+elefante_0067,elefante,elefante_raatd,Oceano Austral,2012,1780,1780,0,148.25,148.25,0.0,1,3,-47.0,37.0,93,40.7587,2361.0923,147,148,0.8919,0.3515,0.7076
+elefante_0068,elefante,elefante_raatd,Oceano Austral,2012,2450,2450,0,204.0,204.0833,0.0,1,0,-47.0,37.0,93,37.568,2111.1645,203,204,0.9265,0.4278,0.6694
+elefante_0069,elefante,elefante_raatd,Oceano Austral,2012,2642,2642,0,220.0,220.0833,0.0,1,3,-47.0,37.0,93,25.736,958.1322,219,220,0.8318,0.2665,0.5586
+elefante_0070,elefante,elefante_raatd,Oceano Austral,2012,2259,2259,0,188.0,188.1667,0.0,1,1,-47.0,37.0,93,25.3404,2028.9151,187,188,0.883,0.2964,0.6269
+elefante_0071,elefante,elefante_raatd,Oceano Austral,2012,2437,2437,0,203.0,203.0,0.0,1,1,-47.0,37.0,93,24.7601,1887.0136,202,203,0.9163,0.3049,0.623
+elefante_0072,elefante,elefante_raatd,Oceano Austral,2001,578,578,0,48.0,48.0833,0.0,1,0,-47.0,37.0,93,34.7541,1096.9863,47,48,0.7917,0.0719,0.4901
+elefante_0073,elefante,elefante_raatd,Oceano Austral,2012,2344,2344,0,195.25,195.25,0.0,1,0,-47.0,37.0,93,49.1476,2449.8383,194,195,0.8821,0.4836,0.8045
+elefante_0074,elefante,elefante_raatd,Oceano Austral,2002,1084,1084,0,90.25,90.25,0.0,1,1,-47.0,37.0,93,23.6806,1090.5308,89,90,0.6778,0.0069,0.3672
+elefante_0075,elefante,elefante_raatd,Oceano Austral,1999,2594,2594,0,216.0,216.0833,0.0,1,0,-47.0,37.0,93,28.6548,1557.3789,215,216,0.7454,0.3302,0.7829
+elefante_0076,elefante,elefante_raatd,Oceano Austral,1999,3905,3905,319,325.0,325.1667,0.0,1,18,-47.0,37.0,93,26.4888,2378.67,324,325,0.4646,0.6145,0.6482
+elefante_0077,elefante,elefante_raatd,Oceano Austral,1999,2583,2583,0,215.0,215.1667,0.0,1,1,-47.0,37.0,93,32.3587,1586.8659,214,215,0.707,0.5055,0.7088
+elefante_0078,elefante,elefante_raatd,Oceano Austral,2012,1863,1863,0,155.0,155.1667,0.0,1,4,-47.0,37.0,93,36.7076,1869.354,154,155,0.9032,0.3616,0.5089
+elefante_0079,elefante,elefante_raatd,Oceano Austral,2012,2020,2020,0,168.25,168.25,0.0,1,1,-47.0,37.0,93,43.1368,3222.7933,167,168,0.8988,0.407,0.732
+elefante_0080,elefante,elefante_raatd,Oceano Austral,2012,2713,2713,0,226.0,226.0,0.0,1,2,-47.0,37.0,93,34.7967,2045.2307,225,226,0.6947,0.3916,0.5895
+elefante_0081,elefante,elefante_raatd,Oceano Austral,2012,127,127,0,10.5,10.5,0.0,1,0,-47.0,37.0,93,81.1672,641.4766,9,10,0.5,0.0225,0.445
+elefante_0082,elefante,elefante_raatd,Oceano Austral,2012,836,836,0,69.5,69.5833,0.0,1,0,-47.0,37.0,93,30.0216,879.907,68,69,0.7826,0.121,0.3572
+elefante_0083,elefante,elefante_raatd,Oceano Austral,2012,996,996,0,82.75,82.9167,0.0,1,0,-47.0,37.0,93,40.6773,2036.7431,81,82,0.9268,0.1845,0.6619
+elefante_0084,elefante,elefante_raatd,Oceano Austral,2007,3880,3880,0,323.25,323.25,0.0,1,85,-47.0,37.0,93,27.089,1891.5844,322,323,0.7988,0.3803,0.679
+elefante_0085,elefante,elefante_raatd,Oceano Austral,2009,2285,2285,0,190.25,190.3333,0.0,1,0,-47.0,37.0,93,23.029,2919.3277,189,190,0.9684,0.2288,0.6022
+elefante_0086,elefante,elefante_raatd,Oceano Austral,2008,2716,2716,0,226.25,226.25,0.0,1,0,-47.0,37.0,93,32.223,2915.964,225,226,0.9425,0.2735,0.7343
+elefante_0087,elefante,elefante_raatd,Oceano Austral,2008,3296,3296,0,274.5,274.5833,0.0,1,47,-47.0,37.0,93,2.7648,129.9202,273,274,0.0,0.0,0.0005
+elefante_0088,elefante,elefante_raatd,Oceano Austral,2005,2235,2235,0,186.0,186.1667,0.0,1,0,-47.0,38.0,93,34.0164,1837.0667,185,186,0.8172,0.4023,0.6281
+elefante_0089,elefante,elefante_raatd,Oceano Austral,2004,475,475,0,39.5,39.5,0.0,1,0,-47.0,37.0,93,57.7432,2119.1275,38,39,0.8462,0.1686,0.7128
+elefante_0090,elefante,elefante_raatd,Oceano Austral,2004,2336,2336,0,194.5,194.5833,0.0,1,0,-47.0,37.0,93,41.2271,2709.8458,193,194,0.933,0.4367,0.6809
+elefante_0091,elefante,elefante_raatd,Oceano Austral,2007,3099,3099,0,258.0,258.1667,0.0,1,0,-47.0,37.0,93,26.0032,2994.4025,257,258,0.9264,0.4391,0.6804
+elefante_0092,elefante,elefante_raatd,Oceano Austral,2008,1180,1180,0,98.25,98.25,0.0,1,0,-47.0,37.0,93,60.0104,3584.1682,97,98,0.9388,0.338,0.7926
+elefante_0093,elefante,elefante_raatd,Oceano Austral,2005,789,789,0,65.5,65.6667,0.0,1,0,-47.0,37.0,93,44.2265,850.8465,64,65,0.5538,0.1081,0.5904
+elefante_0094,elefante,elefante_raatd,Oceano Austral,2007,1709,1709,0,142.25,142.3333,0.0,1,0,-47.0,38.0,93,26.7334,507.7873,141,142,0.0423,0.2083,0.3762
+elefante_0095,elefante,elefante_raatd,Oceano Austral,2007,725,725,0,60.25,60.3333,0.0,1,0,-47.0,37.0,93,64.3519,1853.2258,59,60,0.9167,0.2421,0.6604
+elefante_0096,elefante,elefante_raatd,Oceano Austral,2009,3899,3899,0,324.75,324.8333,0.0,1,0,-47.0,37.0,93,29.5254,1328.4742,323,324,0.7716,0.4205,0.6797
+elefante_0097,elefante,elefante_raatd,Oceano Austral,2008,2762,2762,0,230.0,230.0833,0.0,1,0,-47.0,37.0,93,33.9642,1869.2731,229,230,0.9217,0.4137,0.6891
+elefante_0098,elefante,elefante_raatd,Oceano Austral,2001,2524,2524,0,210.25,210.25,0.0,1,0,-47.0,37.0,93,45.7741,3246.6087,209,210,0.9048,0.4756,0.7846
+elefante_0099,elefante,elefante_raatd,Oceano Austral,2007,2032,2032,0,169.25,169.25,0.0,1,8,-47.0,37.0,93,21.257,1524.526,168,169,0.9408,0.3895,0.4812
+elefante_0100,elefante,elefante_raatd,Oceano Austral,2008,931,931,0,77.5,77.5,0.0,1,0,-48.0,37.0,93,23.7465,1253.0471,76,77,0.9481,0.1792,0.3984
+elefante_0101,elefante,elefante_raatd,Oceano Austral,2011,1896,1896,0,157.75,157.9167,0.0,1,4,-47.0,37.0,93,34.0226,1450.467,156,157,0.7834,0.4806,0.5721
+elefante_0102,elefante,elefante_raatd,Oceano Austral,2003,940,940,0,78.25,78.25,0.0,1,0,-47.0,36.0,93,45.9049,821.2639,77,78,0.7949,0.2263,0.6753
+elefante_0103,elefante,elefante_raatd,Oceano Austral,2008,790,790,0,65.75,65.75,0.0,1,0,-47.0,37.0,93,71.1188,3236.0255,64,65,0.9077,0.3392,0.7242
+elefante_0104,elefante,elefante_raatd,Oceano Austral,2006,2656,2656,0,221.25,221.25,0.0,1,0,-47.0,37.0,93,36.4544,1495.2844,220,221,0.6063,0.325,0.7265
+elefante_0105,elefante,elefante_raatd,Oceano Austral,2009,2357,2357,0,196.25,196.3333,0.0,1,0,-47.0,37.0,93,25.3204,1761.592,195,196,0.9745,0.2823,0.4773
+elefante_0106,elefante,elefante_raatd,Oceano Austral,2009,2979,2979,0,248.0,248.1667,0.0,1,0,-47.0,37.0,93,23.8887,2072.1541,247,248,0.8226,0.293,0.5684
+elefante_0107,elefante,elefante_raatd,Oceano Austral,2007,763,763,0,63.5,63.5,0.0,1,0,-47.0,37.0,93,36.0949,1016.7214,62,63,0.7778,0.1341,0.5865
+elefante_0108,elefante,elefante_raatd,Oceano Austral,2001,2141,2141,0,178.25,178.3333,0.0,1,3,-47.0,37.0,93,19.7944,1084.5767,177,178,0.8258,0.1583,0.3919
+elefante_0109,elefante,elefante_raatd,Oceano Austral,2004,2277,2277,0,189.5,189.6667,0.0,1,1,-47.0,37.0,93,42.4646,2034.5688,188,189,0.7884,0.3971,0.6718
+elefante_0110,elefante,elefante_raatd,Oceano Austral,2002,2572,2572,0,214.25,214.25,0.0,1,0,-47.0,37.0,93,22.1281,800.689,213,214,0.5561,0.2381,0.5849
+elefante_0111,elefante,elefante_raatd,Oceano Austral,2008,1015,1015,0,84.5,84.5,0.0,1,2,-47.0,37.0,93,28.5979,1486.9593,83,84,0.9167,0.3173,0.497
+elefante_0112,elefante,elefante_raatd,Oceano Austral,2008,773,773,0,64.25,64.3333,0.0,1,1,-47.0,37.0,93,37.9755,1026.9443,63,64,0.75,0.1332,0.357
+elefante_0113,elefante,elefante_raatd,Oceano Austral,2007,744,744,0,61.75,61.9167,0.0,1,4,-47.0,37.0,93,57.1874,1624.441,60,61,0.7869,0.2553,0.7303
+elefante_0114,elefante,elefante_raatd,Oceano Austral,2008,945,945,0,78.5,78.6667,0.0,1,1,-47.0,37.0,93,46.8979,1740.8112,77,78,0.9103,0.3548,0.6109
+elefante_0115,elefante,elefante_raatd,Oceano Austral,2008,2822,2822,0,235.0,235.0833,0.0,1,0,-47.0,37.0,93,45.8236,2570.9913,234,235,0.9745,0.5632,0.7999
+elefante_0116,elefante,elefante_raatd,Oceano Austral,2012,2991,2991,0,249.0,249.1667,0.0,1,2,-47.0,37.0,93,24.1926,2194.0936,248,249,0.9197,0.3193,0.5821
+elefante_0117,elefante,elefante_raatd,Oceano Austral,2008,2842,2842,0,236.75,236.75,0.0,1,1,-47.0,37.0,93,36.7228,3235.3155,235,236,0.9449,0.3954,0.749
+elefante_0118,elefante,elefante_raatd,Oceano Austral,2011,3412,3412,0,284.25,284.25,0.0,1,0,-47.0,37.0,93,26.243,2157.5438,283,284,0.8662,0.4261,0.7402
+elefante_0119,elefante,elefante_raatd,Oceano Austral,2008,2054,2054,0,171.0,171.0833,0.0,1,1,-47.0,37.0,93,31.3649,1597.9269,170,171,0.9474,0.2987,0.5662
+elefante_0120,elefante,elefante_raatd,Oceano Austral,2011,2799,2799,0,233.0,233.1667,0.0,1,6,-47.0,37.0,93,18.4274,1565.5975,232,233,0.8155,0.1511,0.7105
+elefante_0121,elefante,elefante_raatd,Oceano Austral,2007,648,648,0,53.75,53.9167,0.0,1,2,-47.0,37.0,93,66.0734,1608.3668,52,53,0.8302,0.309,0.7906
+elefante_0122,elefante,elefante_raatd,Oceano Austral,2007,779,779,0,64.75,64.8333,0.0,1,1,-47.0,37.0,93,60.9994,1796.8321,63,64,0.8125,0.3605,0.6988
+elefante_0123,elefante,elefante_raatd,Oceano Austral,2007,3940,3940,0,328.25,328.25,0.0,1,0,-47.0,37.0,93,59.1235,2963.6863,327,328,0.7744,0.6037,0.7491
+elefante_0124,elefante,elefante_raatd,Oceano Austral,2007,2739,2739,0,228.0,228.1667,0.0,1,0,-47.0,37.0,93,36.3807,2983.0471,227,228,0.943,0.3613,0.7271
+elefante_0125,elefante,elefante_raatd,Oceano Austral,2006,1921,1921,0,160.0,160.0,0.0,1,0,-47.0,37.0,93,30.0061,1360.7451,159,160,0.8938,0.2062,0.5556
+elefante_0126,elefante,elefante_raatd,Oceano Austral,2010,949,949,0,79.0,79.0,0.0,1,0,-47.0,37.0,93,21.0279,1255.1155,78,79,0.8354,0.0851,0.3222
+elefante_0127,elefante,elefante_raatd,Oceano Austral,2009,3883,3883,0,323.5,323.5,0.0,1,102,-47.0,37.0,93,24.2244,1998.0751,322,323,0.805,0.4119,0.6178
+elefante_0128,elefante,elefante_raatd,Oceano Austral,2012,1935,1935,0,161.0,161.1667,0.0,1,0,-47.0,37.0,93,25.7452,1435.5055,160,161,0.9565,0.1553,0.3714
+elefante_0129,elefante,elefante_raatd,Oceano Austral,2008,3990,3990,0,332.25,332.4167,0.0,1,78,-47.0,37.0,93,23.3498,1543.202,331,332,0.7711,0.3933,0.6013
+elefante_0130,elefante,elefante_raatd,Oceano Austral,2011,677,677,0,56.25,56.3333,0.0,1,1,-47.0,37.0,93,51.2753,779.0386,55,56,0.8036,0.1911,0.5625
+elefante_0131,elefante,elefante_raatd,Oceano Austral,2004,2653,2653,0,221.0,221.0,0.0,1,8,-47.0,37.0,93,23.1751,951.7974,220,221,0.6968,0.3327,0.5928
+elefante_0132,elefante,elefante_raatd,Oceano Austral,2008,2197,2197,0,183.0,183.0,0.0,1,0,-47.0,37.0,93,35.5741,3872.6695,182,183,0.9672,0.3814,0.6549
+elefante_0133,elefante,elefante_raatd,Oceano Austral,2004,2754,2754,0,229.25,229.4167,0.0,1,0,-47.0,37.0,93,26.7363,1466.8026,228,229,0.5153,0.411,0.565
+elefante_0134,elefante,elefante_raatd,Oceano Austral,2007,769,769,0,64.0,64.0,0.0,1,1,-47.0,37.0,93,54.6833,1297.2048,63,64,0.75,0.2238,0.7273
+elefante_0135,elefante,elefante_raatd,Oceano Austral,2007,3202,3202,0,266.75,266.75,0.0,1,0,-47.0,37.0,93,43.8613,3422.6628,265,266,0.7669,0.5133,0.793
+elefante_0136,elefante,elefante_raatd,Oceano Austral,2004,2462,2462,0,205.0,205.0833,0.0,1,2,-47.0,37.0,93,22.3787,854.1731,204,205,0.6488,0.2674,0.6043
+elefante_0137,elefante,elefante_raatd,Oceano Austral,2007,2253,2253,0,187.5,187.6667,0.0,1,0,-47.0,37.0,93,31.9973,1076.7202,186,187,0.7219,0.337,0.7074
+elefante_0138,elefante,elefante_raatd,Oceano Austral,2004,2469,2469,0,205.5,205.6667,0.0,1,11,-47.0,37.0,93,30.6031,1407.6784,204,205,0.8439,0.319,0.6188
+elefante_0139,elefante,elefante_raatd,Oceano Austral,2002,2027,2027,181,168.75,168.8333,0.0,1,5,-47.0,37.0,93,16.027,2831.6391,167,168,0.8631,0.5518,0.6001
+elefante_0140,elefante,elefante_raatd,Oceano Austral,2002,1004,1004,68,83.5,83.5833,0.0,1,0,-48.0,38.0,93,15.0838,2172.2645,82,83,0.9398,0.3211,0.284
+elefante_0141,elefante,elefante_raatd,Oceano Austral,2002,864,864,45,71.75,71.9167,0.0,1,0,-47.0,37.0,93,21.5381,404.2253,70,71,0.0,0.1204,0.0475
+elefante_0142,elefante,elefante_raatd,Oceano Austral,2002,2296,2296,0,191.25,191.25,0.0,1,2,-47.0,37.0,93,28.2676,2326.2178,190,191,0.1728,0.4681,0.5823
+elefante_0143,elefante,elefante_raatd,Oceano Austral,2002,1497,1497,0,124.5,124.6667,0.0,1,0,-47.0,38.0,93,36.815,2604.6357,123,124,0.2661,0.247,0.6591
+elefante_0144,elefante,elefante_raatd,Oceano Austral,2005,563,563,0,46.75,46.8333,0.0,1,0,-50.0,70.0,96,50.8562,1517.2188,45,46,0.8913,0.0864,0.5212
+elefante_0145,elefante,elefante_raatd,Oceano Austral,2005,677,677,0,56.25,56.3333,0.0,1,0,-50.0,70.0,96,55.7768,1252.8452,55,56,0.7679,0.1179,0.467
+elefante_0146,elefante,elefante_raatd,Oceano Austral,2005,460,460,0,38.25,38.25,0.0,1,0,-50.0,70.0,96,40.7194,1042.5694,37,38,0.8684,0.0507,0.2046
+elefante_0147,elefante,elefante_raatd,Oceano Austral,2005,762,762,0,63.25,63.4167,0.0,1,0,-50.0,70.0,96,32.2411,821.0503,62,63,0.3492,0.0206,0.2302
+elefante_0148,elefante,elefante_raatd,Oceano Austral,2006,1194,1194,0,99.25,99.4167,0.0,1,0,-63.0,-61.0,0,20.4313,1567.2091,98,99,1.0,0.9657,0.9212
+elefante_0149,elefante,elefante_raatd,Oceano Austral,2006,1066,1066,0,88.75,88.75,0.0,1,0,-63.0,-61.0,0,18.2327,1422.8909,87,88,1.0,0.9807,0.9619
+elefante_0150,elefante,elefante_raatd,Oceano Austral,2006,961,961,0,80.0,80.0,0.0,1,0,-63.0,-62.0,0,15.8457,1446.5643,79,80,1.0,0.9909,0.9659
+elefante_0151,elefante,elefante_raatd,Oceano Austral,2006,1050,1050,0,87.25,87.4167,0.0,1,0,-63.0,-61.0,0,38.9016,2631.7575,86,87,1.0,0.9675,0.7948
+elefante_0152,elefante,elefante_raatd,Oceano Austral,2006,1254,1254,0,104.25,104.4167,0.0,1,0,-63.0,-61.0,0,67.3717,4523.054,103,104,1.0,0.9123,0.8014
+elefante_0153,elefante,elefante_raatd,Oceano Austral,2006,1299,1299,0,108.0,108.1667,0.0,1,0,-63.0,-61.0,0,44.7762,2916.1312,107,108,1.0,0.9731,0.8498
+elefante_0154,elefante,elefante_raatd,Oceano Austral,2006,1132,1132,0,94.25,94.25,0.0,1,0,-63.0,-61.0,0,4.0117,549.422,93,94,0.0745,1.0,1.0
+elefante_0155,elefante,elefante_raatd,Oceano Austral,2006,1160,1160,0,96.5,96.5833,0.0,1,0,-63.0,-61.0,0,79.0804,5463.1471,95,96,1.0,0.887,0.7977
+elefante_0156,elefante,elefante_raatd,Oceano Austral,2006,1252,1252,0,104.25,104.25,0.0,1,0,-63.0,-61.0,0,13.3613,1515.9315,103,104,1.0,0.9851,0.9666
+elefante_0157,elefante,elefante_raatd,Oceano Austral,2006,1178,1178,0,98.0,98.0833,0.0,1,7,-63.0,-61.0,0,28.8277,1100.4074,97,98,0.5408,0.963,0.9747
+elefante_0158,elefante,elefante_raatd,Oceano Austral,2006,1143,1143,0,95.0,95.1667,0.0,1,0,-63.0,-61.0,0,16.2511,1282.8865,94,95,1.0,0.9897,0.9539
+elefante_0159,elefante,elefante_raatd,Oceano Austral,2006,1264,1264,0,105.25,105.25,0.0,1,0,-50.0,70.0,96,8.3084,463.0939,104,105,0.0,0.0112,0.0114
+elefante_0160,elefante,elefante_raatd,Oceano Austral,2006,961,961,0,80.0,80.0,0.0,1,0,-50.0,70.0,96,43.0047,2415.6434,79,80,0.8375,0.1172,0.4119
+elefante_0161,elefante,elefante_raatd,Oceano Austral,2006,1545,1545,0,128.5,128.6667,0.0,1,0,-50.0,70.0,96,47.6853,4020.2165,127,128,0.9531,0.2732,0.6863
+elefante_0162,elefante,elefante_raatd,Oceano Austral,2006,1104,1104,0,91.75,91.9167,0.0,1,102,-50.0,70.0,96,7.9285,429.5769,90,91,0.0,0.0,0.0027
+elefante_0163,elefante,elefante_raatd,Oceano Austral,2004,1097,1097,0,91.25,91.3333,0.0,1,0,-55.0,-37.0,235,50.8364,3172.0604,90,91,0.9451,0.2255,0.7168
+elefante_0164,elefante,elefante_raatd,Oceano Austral,2004,1261,1261,0,105.0,105.0,0.0,1,0,-55.0,-37.0,235,30.9966,3361.4303,104,105,0.9619,0.2943,0.6812
+elefante_0165,elefante,elefante_raatd,Oceano Austral,2004,2285,2285,0,190.25,190.3333,0.0,1,1,-55.0,-37.0,235,26.4544,1225.3972,189,190,0.5842,0.2268,0.3961
+elefante_0166,elefante,elefante_raatd,Oceano Austral,2004,1748,1748,0,145.5,145.5833,0.0,1,0,-55.0,-37.0,235,35.3532,1275.1374,144,145,0.9103,0.2426,0.5678
+elefante_0167,elefante,elefante_raatd,Oceano Austral,2004,2302,2302,0,191.75,191.75,0.0,1,3,-55.0,-37.0,235,24.2804,925.2123,190,191,0.4503,0.1792,0.3808
+elefante_0168,elefante,elefante_raatd,Oceano Austral,2008,833,833,0,69.25,69.3333,0.0,1,0,-62.0,-57.0,0,10.7347,110.2335,68,69,1.0,1.0,1.0
+elefante_0169,elefante,elefante_raatd,Oceano Austral,2008,652,652,0,54.25,54.25,0.0,1,0,-62.0,-57.0,0,5.8035,98.9213,53,54,1.0,1.0,1.0
+elefante_0170,elefante,elefante_raatd,Oceano Austral,2006,1807,1807,0,150.5,150.5,0.0,1,4,-50.0,70.0,96,24.3023,1825.6802,149,150,0.16,0.2707,0.4052
+elefante_0171,elefante,elefante_raatd,Oceano Austral,2006,966,966,0,80.25,80.4167,0.0,1,0,-50.0,70.0,96,10.5776,513.572,79,80,0.0,0.0,0.0
+elefante_0172,elefante,elefante_raatd,Oceano Austral,2006,2214,2214,0,184.25,184.4167,0.0,1,3,-50.0,70.0,96,37.0834,2243.9623,183,184,0.6033,0.3367,0.4455
+elefante_0173,elefante,elefante_raatd,Oceano Austral,2007,960,960,0,79.75,79.9167,0.0,1,0,-50.0,70.0,96,9.8724,326.8631,78,79,0.0,0.0,0.0016
+elefante_0174,elefante,elefante_raatd,Oceano Austral,2007,2293,2293,0,191.0,191.0,0.0,1,0,-50.0,70.0,96,40.1865,2701.4719,190,191,0.9529,0.3648,0.7254
+elefante_0175,elefante,elefante_raatd,Oceano Austral,2007,2184,2184,0,181.75,181.9167,0.0,1,1,-49.0,70.0,96,39.6331,3220.2374,180,181,0.9337,0.2797,0.7985
+elefante_0176,elefante,elefante_raatd,Oceano Austral,2007,401,401,0,33.25,33.3333,0.0,1,0,-50.0,70.0,96,65.1869,2083.3048,32,33,0.8182,0.0583,0.6811
+elefante_0177,elefante,elefante_raatd,Oceano Austral,2007,1558,1558,0,129.75,129.75,0.0,1,0,-50.0,71.0,96,27.7768,1689.173,128,129,0.9225,0.1671,0.5461
+elefante_0178,elefante,elefante_raatd,Oceano Austral,2007,2326,2326,0,193.75,193.75,0.0,1,0,-50.0,70.0,96,34.6576,2493.2816,192,193,0.943,0.3145,0.7499
+elefante_0179,elefante,elefante_raatd,Oceano Austral,2009,1358,1358,0,113.0,113.0833,0.0,1,0,-50.0,70.0,96,22.5963,3398.5485,112,113,0.9558,0.3436,0.5027
+elefante_0180,elefante,elefante_raatd,Oceano Austral,2009,2455,2455,0,204.5,204.5,0.0,1,0,-50.0,70.0,96,30.6239,1983.2119,203,204,0.9804,0.2097,0.5332
+elefante_0181,elefante,elefante_raatd,Oceano Austral,2009,1604,1604,0,133.5,133.5833,0.0,1,9,-50.0,70.0,96,18.2003,2201.9579,132,133,0.2556,0.0938,0.1803
+elefante_0182,elefante,elefante_raatd,Oceano Austral,2007,1251,1251,0,104.0,104.1667,0.0,1,0,-63.0,-61.0,0,12.8436,978.2579,103,104,1.0,1.0,0.9993
+elefante_0183,elefante,elefante_raatd,Oceano Austral,2007,2829,2829,0,235.5,235.6667,0.0,1,0,-64.0,-62.0,0,17.9088,1701.4827,234,235,0.983,0.9617,0.8829
+elefante_0184,elefante,elefante_raatd,Oceano Austral,2007,769,769,0,64.0,64.0,0.0,1,0,-63.0,-61.0,0,18.6448,352.0285,63,64,1.0,0.998,1.0
+elefante_0185,elefante,elefante_raatd,Oceano Austral,2007,2947,2947,0,245.5,245.5,0.0,1,0,-63.0,-62.0,0,39.631,1685.4978,244,245,0.9551,0.8863,0.8606
+elefante_0186,elefante,elefante_raatd,Oceano Austral,2007,2851,2851,0,237.5,237.5,0.0,1,1,-63.0,-62.0,0,10.2924,1646.2847,236,237,0.9789,0.9691,0.9479
+elefante_0187,elefante,elefante_raatd,Oceano Austral,2007,2932,2932,0,244.25,244.25,0.0,1,0,-63.0,-61.0,0,16.0799,1709.5917,243,244,0.9877,0.9525,0.9488
+elefante_0188,elefante,elefante_raatd,Oceano Austral,2007,1055,1055,0,87.75,87.8333,0.0,1,0,-63.0,-61.0,0,17.3955,1037.8732,86,87,1.0,0.9839,0.9575
+elefante_0189,elefante,elefante_raatd,Oceano Austral,2007,3576,3576,0,297.75,297.9167,0.0,1,4,-63.0,-61.0,0,10.7331,857.7092,296,297,1.0,0.9728,0.9891
+elefante_0190,elefante,elefante_raatd,Oceano Austral,2007,2174,2174,0,181.0,181.0833,0.0,1,0,-63.0,-61.0,0,10.4084,834.6921,180,181,1.0,0.9764,0.9689
+elefante_0191,elefante,elefante_raatd,Oceano Austral,2007,3809,3809,0,317.25,317.3333,0.0,1,9,-63.0,-61.0,0,5.4209,551.8722,316,317,1.0,1.0,0.9933
+elefante_0192,elefante,elefante_raatd,Oceano Austral,2007,2822,2822,0,235.0,235.0833,0.0,1,0,-63.0,-61.0,0,7.8625,1146.2365,234,235,0.9787,0.9985,0.981
+elefante_0193,elefante,elefante_raatd,Oceano Austral,2007,2476,2476,0,206.25,206.25,0.0,1,0,-50.0,70.0,96,48.4054,3695.0726,205,206,0.9417,0.34,0.7925
+elefante_0194,elefante,elefante_raatd,Oceano Austral,2007,2292,2292,0,190.75,190.9167,0.0,1,0,-50.0,70.0,96,33.2481,2708.822,189,190,0.8947,0.1926,0.5697
+elefante_0195,elefante,elefante_raatd,Oceano Austral,2007,1435,1435,0,119.5,119.5,0.0,1,0,-50.0,70.0,96,34.0066,2606.1594,118,119,0.916,0.1408,0.6561
+elefante_0196,elefante,elefante_raatd,Oceano Austral,2004,1850,1850,0,154.0,154.0833,0.0,1,0,-55.0,158.0,33,14.5747,2127.8415,153,154,0.9675,0.1474,0.1851
+elefante_0197,elefante,elefante_raatd,Oceano Austral,2004,1878,1878,0,156.25,156.4167,0.0,1,0,-55.0,158.0,33,21.9749,2230.836,155,156,0.9679,0.1827,0.3973
+elefante_0198,elefante,elefante_raatd,Oceano Austral,2004,1829,1829,0,152.25,152.3333,0.0,1,0,-55.0,158.0,33,22.2908,2397.937,151,152,0.9539,0.2521,0.3834
+elefante_0199,elefante,elefante_raatd,Oceano Austral,2004,2180,2180,0,181.5,181.5833,0.0,1,0,-55.0,158.0,33,28.6029,2782.9681,180,181,0.9503,0.258,0.5923
+elefante_0200,elefante,elefante_raatd,Oceano Austral,2008,1829,1829,0,152.25,152.3333,0.0,1,1,-55.0,3.0,92,33.725,2432.7151,151,152,0.9868,0.974,0.9812
+elefante_0201,elefante,elefante_raatd,Oceano Austral,2008,2848,2848,0,237.25,237.25,0.0,1,0,-55.0,3.0,92,37.0664,2322.8803,236,237,0.9916,0.9803,0.9774
+elefante_0202,elefante,elefante_raatd,Oceano Austral,2008,3192,3192,0,265.75,265.9167,0.0,1,0,-55.0,2.0,92,26.9952,1759.7194,264,265,0.883,0.9831,0.9841
+elefante_0203,elefante,elefante_raatd,Oceano Austral,2008,3459,3459,0,288.0,288.1667,0.0,1,0,-55.0,3.0,92,35.5304,1751.9378,287,288,0.8819,0.9738,0.9851
+elefante_0204,elefante,elefante_raatd,Oceano Austral,2008,3373,3373,0,281.0,281.0,0.0,1,1,-55.0,3.0,92,9.9304,2251.2315,280,281,0.9929,0.949,0.9421
+elefante_0205,elefante,elefante_raatd,Oceano Austral,2008,3392,3392,0,282.5,282.5833,0.0,1,0,-55.0,3.0,92,22.2626,2832.4638,281,282,0.8794,0.9684,0.9751
+elefante_0206,elefante,elefante_raatd,Oceano Austral,2008,3077,3077,0,256.25,256.3333,0.0,1,0,-55.0,3.0,92,55.4452,1993.863,255,256,0.8672,0.9758,0.9809
+elefante_0207,elefante,elefante_raatd,Oceano Austral,2008,3434,3434,0,286.0,286.0833,0.0,1,0,-55.0,3.0,92,27.2682,1445.134,285,286,0.8741,0.9697,0.9824
+elefante_0208,elefante,elefante_raatd,Oceano Austral,2008,2797,2797,0,233.0,233.0,0.0,1,0,-55.0,3.0,92,26.0217,1149.9209,232,233,0.9871,0.9641,0.9835
+elefante_0209,elefante,elefante_raatd,Oceano Austral,2008,477,477,0,39.5,39.6667,0.0,1,0,-55.0,3.0,92,51.5276,501.1499,38,39,0.9744,0.9353,0.9737
+elefante_0210,elefante,elefante_raatd,Oceano Austral,2008,3138,3138,0,261.25,261.4167,0.0,1,0,-55.0,3.0,92,27.4799,1514.0635,260,261,0.9732,0.9703,0.9785
+elefante_0211,elefante,elefante_raatd,Oceano Austral,2008,2898,2898,0,241.25,241.4167,0.0,1,0,-55.0,3.0,92,22.3778,965.3942,240,241,0.9502,0.9667,0.9807
+elefante_0212,elefante,elefante_raatd,Oceano Austral,2008,2527,2527,0,210.5,210.5,0.0,1,0,-55.0,3.0,92,30.4731,1548.0874,209,210,0.9952,0.9648,0.9715
+elefante_0213,elefante,elefante_raatd,Oceano Austral,2008,2555,2555,0,212.75,212.8333,0.0,1,0,-55.0,3.0,92,46.8735,1225.076,211,212,0.9953,0.9795,0.9586
+elefante_0214,elefante,elefante_raatd,Oceano Austral,2008,2798,2798,0,233.0,233.0833,0.0,1,0,-55.0,3.0,92,44.3412,1918.3217,232,233,0.9742,0.9865,0.9799
+elefante_0215,elefante,elefante_raatd,Oceano Austral,2008,3253,3253,0,271.0,271.0,0.0,1,0,-55.0,3.0,92,34.0494,1348.8772,270,271,0.8598,0.9786,0.9793
+elefante_0216,elefante,elefante_raatd,Oceano Austral,2008,3240,3240,0,269.75,269.9167,0.0,1,102,-55.0,3.0,92,41.5728,2527.7086,268,269,0.8662,0.9842,0.9589
+elefante_0217,elefante,elefante_raatd,Oceano Austral,2008,3485,3485,0,290.25,290.3333,0.0,1,0,-55.0,3.0,92,7.8003,761.3733,289,290,0.1586,0.9545,0.922
+elefante_0218,elefante,elefante_raatd,Oceano Austral,2009,1305,1305,0,108.5,108.6667,0.0,1,13,-50.0,70.0,96,25.7575,2328.3107,107,108,0.9444,0.2292,0.2736
+elefante_0219,elefante,elefante_raatd,Oceano Austral,2009,2932,2932,0,244.25,244.25,0.0,1,10,-50.0,70.0,96,26.4326,4398.9355,243,244,0.582,0.2654,0.5152
+elefante_0220,elefante,elefante_raatd,Oceano Austral,2009,1569,1569,0,130.5,130.6667,0.0,1,1,-50.0,70.0,96,5.7814,472.4852,129,130,0.0,0.0058,0.0125
+elefante_0221,elefante,elefante_raatd,Oceano Austral,2009,698,698,0,58.0,58.0833,0.0,1,0,-50.0,70.0,96,53.5553,2920.9809,57,58,0.8966,0.2754,0.3345
+elefante_0222,elefante,elefante_raatd,Oceano Austral,2009,2915,2915,0,242.75,242.8333,0.0,1,0,-50.0,70.0,96,13.7583,2169.2834,241,242,0.7975,0.4081,0.4667
+elefante_0223,elefante,elefante_raatd,Oceano Austral,2009,1427,1427,0,118.75,118.8333,0.0,1,0,-50.0,70.0,96,18.9273,2064.4168,117,118,0.8644,0.2487,0.3239
+elefante_0224,elefante,elefante_raatd,Oceano Austral,2008,2756,2756,0,229.5,229.5833,0.0,1,0,-63.0,-61.0,0,50.2884,4330.4473,228,229,0.9869,0.8824,0.8183
+elefante_0225,elefante,elefante_raatd,Oceano Austral,2008,2873,2873,0,239.25,239.3333,0.0,1,0,-63.0,-61.0,0,15.5087,1636.9094,238,239,0.9833,0.9266,0.8913
+elefante_0226,elefante,elefante_raatd,Oceano Austral,2008,3403,3403,0,283.5,283.5,0.0,1,98,-63.0,-61.0,0,20.8637,1990.5923,282,283,0.8869,0.8353,0.8278
+elefante_0227,elefante,elefante_raatd,Oceano Austral,2008,3348,3348,0,278.75,278.9167,0.0,1,135,-63.0,-61.0,0,8.1805,1341.9426,277,278,0.9892,0.9597,0.9738
+elefante_0228,elefante,elefante_raatd,Oceano Austral,2008,3321,3321,0,276.5,276.6667,0.0,1,107,-63.0,-61.0,0,10.6565,1641.219,275,276,0.8768,0.9372,0.9357
+elefante_0229,elefante,elefante_raatd,Oceano Austral,2008,2979,2979,0,248.0,248.1667,0.0,1,6,-63.0,-61.0,0,25.1737,1909.3252,247,248,0.9798,0.9188,0.9215
+elefante_0230,elefante,elefante_raatd,Oceano Austral,2008,2427,2427,0,202.0,202.1667,0.0,1,4,-63.0,-61.0,0,26.3138,2031.0749,201,202,0.2079,0.9578,0.835
+elefante_0231,elefante,elefante_raatd,Oceano Austral,2008,3362,3362,0,280.0,280.0833,0.0,1,17,-63.0,-61.0,0,8.835,352.1753,279,280,1.0,0.9921,0.9899
+elefante_0232,elefante,elefante_raatd,Oceano Austral,2008,3355,3355,0,279.5,279.5,0.0,1,1,-63.0,-61.0,0,20.5097,2527.3899,278,279,0.8781,0.9314,0.8945
+elefante_0233,elefante,elefante_raatd,Oceano Austral,2008,2927,2927,0,243.75,243.8333,0.0,1,0,-63.0,-61.0,0,14.6094,1657.1635,242,243,0.9794,0.9738,0.9235
+elefante_0234,elefante,elefante_raatd,Oceano Austral,2008,3502,3502,0,291.75,291.75,0.0,1,4,-63.0,-61.0,0,17.3632,1632.4324,290,291,0.8729,0.9353,0.9231
+elefante_0235,elefante,elefante_raatd,Oceano Austral,2008,2825,2825,0,235.25,235.3333,0.0,1,10,-63.0,-61.0,0,12.5591,667.404,234,235,1.0,0.9967,0.9871
+elefante_0236,elefante,elefante_raatd,Oceano Austral,2008,2368,2368,0,197.25,197.25,0.0,1,1,-50.0,70.0,96,45.1969,3229.8684,196,197,0.9695,0.4418,0.7482
+elefante_0237,elefante,elefante_raatd,Oceano Austral,2007,3377,3377,0,281.25,281.3333,0.0,1,21,-50.0,70.0,96,11.1981,481.6322,280,281,0.0,0.1106,0.1601
+elefante_0238,elefante,elefante_raatd,Oceano Austral,2008,3031,3031,0,252.5,252.5,0.0,1,8,-50.0,70.0,96,31.9312,3116.4833,251,252,0.7897,0.3609,0.5353
+elefante_0239,elefante,elefante_raatd,Oceano Austral,2008,3368,3368,0,280.5,280.5833,0.0,1,125,-62.0,-56.0,0,7.6544,1328.5555,279,280,0.8286,0.9512,0.9396
+elefante_0240,elefante,elefante_raatd,Oceano Austral,2008,3502,3502,0,291.75,291.75,0.0,1,1,-62.0,-56.0,0,31.732,2317.9062,290,291,1.0,0.8899,0.8327
+elefante_0241,elefante,elefante_raatd,Oceano Austral,2008,2767,2767,0,230.5,230.5,0.0,1,4,-62.0,-56.0,0,32.1011,1359.2004,229,230,0.9696,0.9546,0.8937
+elefante_0242,elefante,elefante_raatd,Oceano Austral,2008,2913,2913,0,242.5,242.6667,0.0,1,0,-62.0,-56.0,0,18.9271,2224.2076,241,242,0.9835,0.9501,0.8479
+elefante_0243,elefante,elefante_raatd,Oceano Austral,2008,2768,2768,0,230.5,230.5833,0.0,1,2,-62.0,-56.0,0,12.117,1318.0824,229,230,0.9783,0.999,0.9417
+elefante_0244,elefante,elefante_raatd,Oceano Austral,2008,3395,3395,0,282.75,282.8333,0.0,1,91,-62.0,-56.0,0,19.7201,1631.409,281,282,0.8901,0.8728,0.838
+elefante_0245,elefante,elefante_raatd,Oceano Austral,2008,3421,3421,0,285.0,285.0,0.0,1,6,-62.0,-57.0,0,16.1993,877.4392,284,285,1.0,0.9625,0.9452
+elefante_0246,elefante,elefante_raatd,Oceano Austral,2008,2935,2935,0,244.5,244.5,0.0,1,3,-62.0,-56.0,0,18.5683,1743.4298,243,244,0.9795,0.9618,0.8366
+elefante_0247,elefante,elefante_raatd,Oceano Austral,2008,1913,1913,0,159.25,159.3333,0.0,1,17,-62.0,-56.0,0,8.4154,1409.7308,158,159,1.0,0.9907,0.9697
+elefante_0248,elefante,elefante_raatd,Oceano Austral,2008,3369,3369,0,280.5,280.6667,0.0,1,135,-62.0,-56.0,0,6.6176,1332.7619,279,280,0.85,1.0,0.9883
+elefante_0249,elefante,elefante_raatd,Oceano Austral,2004,1615,1615,0,134.5,134.5,0.0,1,0,-50.0,70.0,96,25.8408,3596.1474,133,134,0.9403,0.2741,0.2847
+elefante_0250,elefante,elefante_raatd,Oceano Austral,2004,1696,1696,0,141.25,141.25,0.0,1,3,-50.0,70.0,96,30.7167,2987.8382,140,141,0.9574,0.1569,0.4293
+elefante_0251,elefante,elefante_raatd,Oceano Austral,2004,1932,1932,0,160.75,160.9167,0.0,1,0,-50.0,70.0,96,12.5516,3026.7585,159,160,0.9375,0.1994,0.207
+elefante_0252,elefante,elefante_raatd,Oceano Austral,2004,1860,1860,0,154.75,154.9167,0.0,1,0,-50.0,70.0,96,28.9915,1801.6849,153,154,0.9481,0.1558,0.4852
+elefante_0253,elefante,elefante_raatd,Oceano Austral,2004,1806,1806,0,150.25,150.4167,0.0,1,1,-50.0,70.0,96,42.7224,3102.0232,149,150,0.9533,0.2657,0.5285
+elefante_0254,elefante,elefante_raatd,Oceano Austral,2004,2604,2604,0,216.75,216.9167,0.0,1,22,-50.0,70.0,96,22.3272,2092.0365,215,216,0.7963,0.2883,0.4009
+elefante_0255,elefante,elefante_raatd,Oceano Austral,2004,1745,1745,0,145.25,145.3333,0.0,1,1,-50.0,70.0,96,30.2665,2981.355,144,145,0.9448,0.1436,0.5905
+elefante_0256,elefante,elefante_raatd,Oceano Austral,2004,2015,2015,0,167.75,167.8333,0.0,1,0,-50.0,70.0,96,30.8114,2729.1394,166,167,0.9641,0.291,0.5272
+elefante_0257,elefante,elefante_raatd,Oceano Austral,2008,3397,3397,0,283.0,283.0,0.0,1,4,-55.0,-37.0,235,49.4083,3226.7795,282,283,0.8127,0.5101,0.7289
+elefante_0258,elefante,elefante_raatd,Oceano Austral,2008,3492,3492,0,290.75,290.9167,0.0,1,55,-55.0,-37.0,235,29.1834,3303.9597,289,290,0.7379,0.3338,0.624
+elefante_0259,elefante,elefante_raatd,Oceano Austral,2008,1942,1942,0,161.75,161.75,0.0,1,1,-55.0,-37.0,235,7.3258,2354.2716,160,161,0.6584,0.1582,0.2262
+elefante_0260,elefante,elefante_raatd,Oceano Austral,2008,3052,3052,0,254.25,254.25,0.0,1,17,-55.0,-37.0,235,32.483,2597.4735,253,254,0.8228,0.4463,0.6594
+elefante_0261,elefante,elefante_raatd,Oceano Austral,2008,3142,3142,0,261.75,261.75,0.0,1,0,-54.0,-37.0,235,9.5724,963.0806,260,261,0.0,0.0729,0.0597
+elefante_0262,elefante,elefante_raatd,Oceano Austral,2008,3446,3446,0,287.0,287.0833,0.0,1,0,-55.0,-37.0,235,6.1445,986.7844,286,287,0.2334,0.1084,0.1408
+elefante_0263,elefante,elefante_raatd,Oceano Austral,2008,2692,2692,0,224.25,224.25,0.0,1,3,-55.0,-37.0,235,27.8251,2451.2144,223,224,0.6116,0.2403,0.5662
+elefante_0264,elefante,elefante_raatd,Oceano Austral,2008,2271,2271,0,189.0,189.1667,0.0,1,64,-55.0,-37.0,235,7.3729,143.605,188,189,0.0,0.0354,0.0188
+elefante_0265,elefante,elefante_raatd,Oceano Austral,2008,2980,2980,0,248.25,248.25,0.0,1,7,-55.0,-37.0,235,24.2222,1082.9255,247,248,0.9476,0.1793,0.507
+elefante_0266,elefante,elefante_raatd,Oceano Austral,2008,1188,1188,0,98.75,98.9167,0.0,1,0,-55.0,-37.0,235,69.7107,2789.4797,97,98,0.8061,0.3258,0.7457
+elefante_0267,elefante,elefante_raatd,Oceano Austral,2008,924,924,0,76.75,76.9167,0.0,1,0,-54.0,-37.0,235,53.0077,1647.0381,75,76,0.8553,0.199,0.6368
+elefante_0268,elefante,elefante_raatd,Oceano Austral,2008,919,919,0,76.5,76.5,0.0,1,1,-54.0,-37.0,235,37.62,1435.6791,75,76,0.8684,0.2224,0.5809
+elefante_0269,elefante,elefante_raatd,Oceano Austral,2008,1081,1081,0,90.0,90.0,0.0,1,2,-55.0,-37.0,235,47.1017,1488.4093,89,90,0.7444,0.2089,0.5144
+elefante_0270,elefante,elefante_raatd,Oceano Austral,2008,1007,1007,0,83.75,83.8333,0.0,1,1,-55.0,-37.0,235,39.4142,1110.3828,82,83,0.6627,0.2117,0.5283
+elefante_0271,elefante,elefante_raatd,Oceano Austral,2008,897,897,0,74.5,74.6667,0.0,1,0,-55.0,-37.0,235,54.5104,1452.9084,73,74,0.8108,0.1155,0.6679
+elefante_0272,elefante,elefante_raatd,Oceano Austral,2008,910,910,0,75.75,75.75,0.0,1,1,-55.0,-37.0,235,50.7919,1335.5573,74,75,0.8533,0.2447,0.622
+elefante_0273,elefante,elefante_raatd,Oceano Austral,2009,1362,1362,0,113.25,113.4167,0.0,1,0,-62.0,-56.0,0,7.3272,236.6237,112,113,1.0,1.0,1.0
+elefante_0274,elefante,elefante_raatd,Oceano Austral,2009,2712,2712,0,225.75,225.9167,0.0,1,0,-62.0,-57.0,0,19.2492,1938.2788,224,225,1.0,0.974,0.9323
+elefante_0275,elefante,elefante_raatd,Oceano Austral,2009,2753,2753,0,229.25,229.3333,0.0,1,1,-62.0,-56.0,0,17.9197,1790.7599,228,229,1.0,0.9503,0.8995
+elefante_0276,elefante,elefante_raatd,Oceano Austral,2009,1096,1096,0,91.25,91.25,0.0,1,0,-62.0,-56.0,0,5.752,306.3958,90,91,1.0,1.0,1.0
+elefante_0277,elefante,elefante_raatd,Oceano Austral,2009,3370,3370,0,280.75,280.75,0.0,1,5,-62.0,-56.0,0,12.8688,1500.5648,279,280,0.8643,0.9544,0.9307
+elefante_0278,elefante,elefante_raatd,Oceano Austral,2009,929,929,0,77.25,77.3333,0.0,1,0,-62.0,-56.0,0,5.7164,313.5663,76,77,1.0,1.0,1.0
+elefante_0279,elefante,elefante_raatd,Oceano Austral,2009,2915,2915,0,242.75,242.8333,0.0,1,0,-62.0,-56.0,0,29.1633,1928.5051,241,242,0.9876,0.9542,0.8845
+elefante_0280,elefante,elefante_raatd,Oceano Austral,2009,1110,1110,0,92.25,92.4167,0.0,1,1,-62.0,-56.0,0,14.0361,1003.6309,91,92,0.2391,0.9861,0.9701
+elefante_0281,elefante,elefante_raatd,Oceano Austral,2009,3430,3430,0,285.75,285.75,0.0,1,0,-62.0,-56.0,0,9.0749,384.8286,284,285,1.0,0.994,0.9873
+elefante_0282,elefante,elefante_raatd,Oceano Austral,2009,2840,2840,0,236.5,236.5833,0.0,1,1,-62.0,-56.0,0,13.2866,1372.3969,235,236,0.9746,0.9607,0.868
+elefante_0283,elefante,elefante_raatd,Oceano Austral,2009,2951,2951,0,245.75,245.8333,0.0,1,7,-63.0,-62.0,0,14.22,1684.2799,244,245,0.9796,0.9523,0.922
+elefante_0284,elefante,elefante_raatd,Oceano Austral,2009,2869,2869,0,239.0,239.0,0.0,1,0,-63.0,-61.0,0,17.8519,1675.9287,238,239,0.9791,0.8773,0.8924
+elefante_0285,elefante,elefante_raatd,Oceano Austral,2009,2811,2811,0,234.0,234.1667,0.0,1,1,-63.0,-62.0,0,11.9593,1658.1154,233,234,0.9786,0.9337,0.91
+elefante_0286,elefante,elefante_raatd,Oceano Austral,2009,2397,2397,0,199.5,199.6667,0.0,1,0,-63.0,-61.0,0,16.1443,2152.845,198,199,1.0,0.975,0.9357
+elefante_0287,elefante,elefante_raatd,Oceano Austral,2009,2781,2781,0,231.5,231.6667,0.0,1,0,-63.0,-62.0,0,13.5652,1376.9915,230,231,1.0,0.9932,0.9561
+elefante_0288,elefante,elefante_raatd,Oceano Austral,2009,447,447,0,37.0,37.1667,0.0,1,0,-63.0,-62.0,0,7.8526,323.2717,36,37,1.0,1.0,1.0
+elefante_0289,elefante,elefante_raatd,Oceano Austral,2009,2870,2870,0,239.0,239.0833,0.0,1,2,-63.0,-62.0,0,12.8391,1668.7819,238,239,0.9749,0.9704,0.9383
+elefante_0290,elefante,elefante_raatd,Oceano Austral,2009,2970,2970,0,247.25,247.4167,0.0,1,0,-63.0,-62.0,0,10.1149,1103.3132,246,247,1.0,0.9763,0.9703
+elefante_0291,elefante,elefante_raatd,Oceano Austral,2009,1783,1783,0,148.5,148.5,0.0,1,0,-63.0,-62.0,0,44.1587,4740.0856,147,148,1.0,0.9328,0.8429
+elefante_0292,elefante,elefante_raatd,Oceano Austral,2009,1433,1433,0,119.25,119.3333,0.0,1,0,-63.0,-61.0,0,18.4449,1682.2568,118,119,1.0,0.9851,0.9693
+elefante_0293,elefante,elefante_raatd,Oceano Austral,2009,3653,3653,0,304.25,304.3333,0.0,1,1,-63.0,-61.0,0,9.3806,1130.3123,303,304,0.8783,0.9766,0.9615
+elefante_0294,elefante,elefante_raatd,Oceano Austral,2009,3023,3023,0,251.75,251.8333,0.0,1,0,-63.0,-62.0,0,21.3598,1655.8608,250,251,0.9801,0.9265,0.9211
+elefante_0295,elefante,elefante_raatd,Oceano Austral,2009,2847,2847,0,237.0,237.1667,0.0,1,4,-63.0,-61.0,0,7.9869,1641.334,236,237,0.9662,0.9278,0.9458
+elefante_0296,elefante,elefante_raatd,Oceano Austral,2009,2937,2937,0,244.5,244.6667,0.0,1,1,-63.0,-62.0,0,6.1141,886.8041,243,244,1.0,0.9853,0.9939
+elefante_0297,elefante,elefante_raatd,Oceano Austral,2009,1610,1610,0,134.0,134.0833,0.0,1,0,-55.0,-37.0,235,47.0783,2732.2196,133,134,0.9478,0.247,0.5953
+elefante_0298,elefante,elefante_raatd,Oceano Austral,2009,2789,2789,0,232.25,232.3333,0.0,1,0,-54.0,-37.0,235,39.0121,2577.8308,231,232,0.9741,0.3413,0.7297
+elefante_0299,elefante,elefante_raatd,Oceano Austral,2009,3856,3856,0,321.25,321.25,0.0,1,5,-55.0,-37.0,235,38.199,3226.8763,320,321,0.838,0.4819,0.7086
+elefante_0300,elefante,elefante_raatd,Oceano Austral,2009,3584,3584,0,298.5,298.5833,0.0,1,1,-54.0,-37.0,235,7.8308,1303.4827,297,298,0.1174,0.3054,0.3029
+elefante_0301,elefante,elefante_raatd,Oceano Austral,2009,3997,3997,0,333.0,333.0,0.0,1,122,-55.0,-37.0,235,28.4345,2776.702,332,333,0.8438,0.3871,0.6606
+elefante_0302,elefante,elefante_raatd,Oceano Austral,2009,1898,1898,0,158.0,158.0833,0.0,1,1,-55.0,-37.0,235,27.5787,3298.5544,157,158,0.9494,0.1799,0.5972
+elefante_0303,elefante,elefante_raatd,Oceano Austral,2009,508,508,0,42.25,42.25,0.0,1,0,-54.0,-37.0,235,82.8029,2642.7047,41,42,0.8095,0.1929,0.7143
+elefante_0304,elefante,elefante_raatd,Oceano Austral,2009,2684,2684,0,223.5,223.5833,0.0,1,0,-55.0,-37.0,235,30.3836,2956.8964,222,223,0.9058,0.3707,0.7877
+elefante_0305,elefante,elefante_raatd,Oceano Austral,2009,2617,2617,0,218.0,218.0,0.0,1,0,-55.0,-36.0,235,23.2403,2271.251,217,218,0.922,0.1741,0.5053
+elefante_0306,elefante,elefante_raatd,Oceano Austral,2009,1426,1426,0,118.75,118.75,0.0,1,0,-55.0,-36.0,235,24.0386,3365.9174,117,118,0.9153,0.1862,0.568
+elefante_0307,elefante,elefante_raatd,Oceano Austral,2009,3758,3758,0,313.0,313.0833,0.0,1,3,-55.0,-37.0,235,20.6896,1271.2463,312,313,0.6997,0.2317,0.424
+elefante_0308,elefante,elefante_raatd,Oceano Austral,2009,3488,3488,0,290.5,290.5833,0.0,1,118,-55.0,-37.0,235,9.3288,843.0177,289,290,0.2793,0.2909,0.3125
+elefante_0309,elefante,elefante_raatd,Oceano Austral,2009,771,771,0,64.0,64.1667,0.0,1,0,-62.0,-56.0,0,16.644,1307.9269,63,64,1.0,1.0,0.932
+elefante_0310,elefante,elefante_raatd,Oceano Austral,2010,2535,2535,0,211.0,211.1667,0.0,1,0,-62.0,-56.0,0,41.2361,3842.5019,210,211,1.0,0.9043,0.8487
+elefante_0311,elefante,elefante_raatd,Oceano Austral,2010,2511,2511,0,209.0,209.1667,0.0,1,0,-62.0,-56.0,0,39.4273,4297.857,208,209,1.0,0.9404,0.8398
+elefante_0312,elefante,elefante_raatd,Oceano Austral,2010,904,904,0,75.25,75.25,0.0,1,0,-62.0,-55.0,0,59.1828,1544.9391,74,75,0.8533,0.997,0.893
+elefante_0313,elefante,elefante_raatd,Oceano Austral,2010,3257,3257,0,271.25,271.3333,0.0,1,0,-62.0,-58.0,0,20.1737,1883.1748,270,271,0.8672,0.9163,0.9279
+elefante_0314,elefante,elefante_raatd,Oceano Austral,2010,3401,3401,0,283.25,283.3333,0.0,1,11,-63.0,-57.0,0,16.444,1692.8519,282,283,0.8622,0.9436,0.8969
+elefante_0315,elefante,elefante_raatd,Oceano Austral,2009,857,857,0,71.25,71.3333,0.0,1,0,-55.0,-37.0,235,51.119,1942.7015,70,71,0.9296,0.1542,0.6778
+elefante_0316,elefante,elefante_raatd,Oceano Austral,2009,886,886,0,73.75,73.75,0.0,1,1,-55.0,-37.0,235,39.4422,901.4327,72,73,0.5205,0.1072,0.3113
+elefante_0317,elefante,elefante_raatd,Oceano Austral,2009,807,807,0,67.0,67.1667,0.0,1,4,-54.0,-37.0,235,30.3677,1241.2139,66,67,0.806,0.1433,0.3862
+elefante_0318,elefante,elefante_raatd,Oceano Austral,2009,999,999,0,83.0,83.1667,0.0,1,4,-55.0,-37.0,235,46.4104,1611.8427,82,83,0.8193,0.219,0.7491
+elefante_0319,elefante,elefante_raatd,Oceano Austral,2009,790,790,0,65.75,65.75,0.0,1,0,-55.0,-37.0,235,61.8542,2924.7019,64,65,0.9385,0.2385,0.5777
+elefante_0320,elefante,elefante_raatd,Oceano Austral,2009,921,921,0,76.5,76.6667,0.0,1,3,-55.0,-37.0,235,39.74,644.795,75,76,0.6579,0.0938,0.3345
+elefante_0321,elefante,elefante_raatd,Oceano Austral,2009,993,993,0,82.5,82.6667,0.0,1,1,-55.0,-37.0,235,21.3427,1295.5529,81,82,0.878,0.1863,0.2957
+elefante_0322,elefante,elefante_raatd,Oceano Austral,2009,791,791,0,65.75,65.8333,0.0,1,0,-55.0,-37.0,235,11.8321,1631.2684,64,65,0.9231,0.1723,0.11
+elefante_0323,elefante,elefante_raatd,Oceano Austral,2009,860,860,0,71.5,71.5833,0.0,1,9,-55.0,-37.0,235,13.7136,1567.6924,70,71,0.9155,0.088,0.1211
+elefante_0324,elefante,elefante_raatd,Oceano Austral,2009,914,914,0,76.0,76.0833,0.0,1,0,-55.0,-37.0,235,63.0348,1713.6583,75,76,0.7895,0.2322,0.5704
+elefante_0325,elefante,elefante_raatd,Oceano Austral,2009,911,911,0,75.75,75.8333,0.0,1,1,-55.0,-37.0,235,34.2478,1397.8833,74,75,0.8667,0.1907,0.4083
+elefante_0326,elefante,elefante_raatd,Oceano Austral,2009,1025,1025,0,85.25,85.3333,0.0,1,1,-55.0,-37.0,235,87.404,3534.2388,84,85,0.9412,0.4418,0.6574
+elefante_0327,elefante,elefante_raatd,Oceano Austral,2010,2937,2937,0,244.5,244.6667,0.0,1,0,-55.0,159.0,33,33.5938,1285.4972,243,244,0.8934,0.2879,0.5298
+elefante_0328,elefante,elefante_raatd,Oceano Austral,2010,2897,2897,0,241.25,241.3333,0.0,1,0,-55.0,158.0,33,16.7781,1280.1052,240,241,0.9378,0.1817,0.3093
+elefante_0329,elefante,elefante_raatd,Oceano Austral,2010,2932,2932,0,244.25,244.25,0.0,1,0,-55.0,158.0,33,27.943,2792.5017,243,244,0.7213,0.2513,0.6136
+elefante_0330,elefante,elefante_raatd,Oceano Austral,2010,2206,2206,0,183.75,183.75,0.0,1,0,-55.0,158.0,33,26.3951,2488.2228,182,183,0.9563,0.2915,0.4552
+elefante_0331,elefante,elefante_raatd,Oceano Austral,2010,3232,3232,0,269.25,269.25,0.0,1,0,-55.0,159.0,33,23.1273,2312.8317,268,269,0.7175,0.2635,0.5846
+elefante_0332,elefante,elefante_raatd,Oceano Austral,2010,2873,2873,0,239.25,239.3333,0.0,1,0,-55.0,159.0,33,20.3916,1987.7803,238,239,0.954,0.3194,0.4645
+elefante_0333,elefante,elefante_raatd,Oceano Austral,2010,2090,2090,0,174.0,174.0833,0.0,1,0,-55.0,159.0,33,33.0283,2188.4626,173,174,0.9713,0.3342,0.4517
+elefante_0334,elefante,elefante_raatd,Oceano Austral,2010,2842,2842,0,236.75,236.75,0.0,1,0,-55.0,159.0,33,27.9618,2529.1681,235,236,0.9492,0.3073,0.4245
+elefante_0335,elefante,elefante_raatd,Oceano Austral,2010,2769,2769,0,230.5,230.6667,0.0,1,0,-55.0,158.0,33,28.693,1772.0638,229,230,0.9261,0.3386,0.5228
+elefante_0336,elefante,elefante_raatd,Oceano Austral,2010,831,831,0,69.0,69.1667,0.0,1,0,-55.0,159.0,33,46.1221,2292.229,68,69,0.9275,0.1685,0.4659
+elefante_0337,elefante,elefante_raatd,Oceano Austral,2010,2745,2745,0,228.5,228.6667,0.0,1,0,-55.0,159.0,33,25.4618,2356.7712,227,228,0.9474,0.2792,0.6082
+elefante_0338,elefante,elefante_raatd,Oceano Austral,2010,2808,2808,0,233.75,233.9167,0.0,1,0,-55.0,158.0,33,37.0591,3391.0091,232,233,0.9657,0.3989,0.6428
+elefante_0339,elefante,elefante_raatd,Oceano Austral,2010,2772,2772,0,230.75,230.9167,0.0,1,0,-55.0,159.0,33,28.3071,2451.9341,229,230,0.9609,0.274,0.4025
+elefante_0340,elefante,elefante_raatd,Oceano Austral,2010,2921,2921,0,243.25,243.3333,0.0,1,0,-55.0,158.0,33,21.0131,1331.0865,242,243,0.9588,0.2095,0.3836
+elefante_0341,elefante,elefante_raatd,Oceano Austral,2010,2999,2999,0,249.75,249.8333,0.0,1,0,-55.0,158.0,33,36.3941,3628.9561,248,249,0.9317,0.3396,0.6724
+elefante_0342,elefante,elefante_raatd,Oceano Austral,2010,2628,2628,0,218.75,218.9167,0.0,1,0,-52.0,-61.0,236,4.7982,406.0462,217,218,0.0,0.0,0.0
+elefante_0343,elefante,elefante_raatd,Oceano Austral,2010,2535,2535,0,211.0,211.1667,0.0,1,0,-51.0,-62.0,236,33.3916,2938.524,210,211,0.5829,0.1999,0.4403
+elefante_0344,elefante,elefante_raatd,Oceano Austral,2010,2742,2742,0,228.25,228.4167,0.0,1,0,-52.0,-61.0,236,33.9364,2444.4811,227,228,0.9342,0.1296,0.3481
+elefante_0345,elefante,elefante_raatd,Oceano Austral,2005,989,989,0,82.25,82.3333,0.0,1,0,-55.0,158.0,33,25.8354,2104.4008,81,82,0.9268,0.1207,0.2573
+elefante_0346,elefante,elefante_raatd,Oceano Austral,2005,841,841,0,70.0,70.0,0.0,1,0,-55.0,160.0,33,19.7726,1650.4225,69,70,0.9286,0.1107,0.2657
+elefante_0347,elefante,elefante_raatd,Oceano Austral,2005,2635,2635,0,219.5,219.5,0.0,1,0,-55.0,158.0,33,10.3015,2442.9193,218,219,0.9726,0.1318,0.3881
+elefante_0348,elefante,elefante_raatd,Oceano Austral,2005,2719,2719,0,226.5,226.5,0.0,1,0,-55.0,158.0,33,24.7078,2272.9257,225,226,0.9469,0.3142,0.5395
+elefante_0349,elefante,elefante_raatd,Oceano Austral,2005,311,311,0,25.75,25.8333,0.0,1,0,-55.0,158.0,33,97.1153,2208.167,24,25,0.8,0.273,0.666
+elefante_0350,elefante,elefante_raatd,Oceano Austral,2005,2550,2550,0,212.25,212.4167,0.0,1,0,-55.0,158.0,33,20.9538,2491.9211,211,212,0.9764,0.2882,0.3791
+elefante_0351,elefante,elefante_raatd,Oceano Austral,2005,2624,2624,0,218.5,218.5833,0.0,1,0,-55.0,158.0,33,20.2689,1891.5032,217,218,0.3807,0.2136,0.4959
+elefante_0352,elefante,elefante_raatd,Oceano Austral,2005,2811,2811,0,234.0,234.1667,0.0,1,0,-55.0,158.0,33,15.6671,1848.4178,233,234,0.9402,0.2528,0.3392
+elefante_0353,elefante,elefante_raatd,Oceano Austral,2005,2628,2628,0,218.75,218.9167,0.0,1,0,-55.0,158.0,33,26.7273,1918.7462,217,218,0.8624,0.3157,0.4899
+elefante_0354,elefante,elefante_raatd,Oceano Austral,2005,654,654,0,54.25,54.4167,0.0,1,0,-55.0,159.0,33,42.0693,2274.1097,53,54,0.9074,0.1269,0.5417
+elefante_0355,elefante,elefante_raatd,Oceano Austral,2005,2240,2240,0,186.5,186.5833,0.0,1,0,-55.0,158.0,33,41.7859,3620.8572,185,186,0.9731,0.3513,0.5575
+elefante_0356,elefante,elefante_raatd,Oceano Austral,2012,2507,2507,0,208.75,208.8333,0.0,1,0,-69.0,77.0,0,37.3622,2180.9058,207,208,0.5192,1.0,0.9645
+elefante_0357,elefante,elefante_raatd,Oceano Austral,2012,2693,2693,0,224.25,224.3333,0.0,1,6,-69.0,77.0,0,18.5728,2870.3897,223,224,0.4554,1.0,1.0
+elefante_0358,elefante,elefante_raatd,Oceano Austral,2012,2293,2293,0,191.0,191.0,0.0,1,0,-69.0,77.0,0,19.9922,2828.5268,190,191,0.5026,1.0,1.0
+elefante_0359,elefante,elefante_raatd,Oceano Austral,2012,1904,1904,0,158.5,158.5833,0.0,1,0,-69.0,77.0,0,8.8007,1731.9515,157,158,0.7405,1.0,1.0
+elefante_0360,elefante,elefante_raatd,Oceano Austral,2012,1004,1004,0,83.5,83.5833,0.0,1,1,-69.0,77.0,0,16.5356,1745.7888,82,83,0.9518,1.0,1.0
+elefante_0361,elefante,elefante_raatd,Oceano Austral,2012,1598,1598,0,133.0,133.0833,0.0,1,0,-69.0,77.0,0,15.7989,1109.3264,132,133,1.0,1.0,1.0
+elefante_0362,elefante,elefante_raatd,Oceano Austral,2012,2454,2454,0,204.25,204.4167,0.0,1,4,-69.0,77.0,0,12.8571,2191.2002,203,204,0.2549,1.0,1.0
+elefante_0363,elefante,elefante_raatd,Oceano Austral,2012,2535,2535,0,211.0,211.1667,0.0,1,0,-69.0,77.0,0,16.3268,323.3283,210,211,1.0,1.0,1.0
+elefante_0364,elefante,elefante_raatd,Oceano Austral,2012,1297,1297,0,108.0,108.0,0.0,1,4,-69.0,77.0,0,70.0291,2888.8279,107,108,0.6204,1.0,0.9975
+elefante_0365,elefante,elefante_raatd,Oceano Austral,2012,237,237,0,19.5,19.6667,0.0,1,0,-69.0,77.0,0,32.5215,389.2802,18,19,1.0,1.0,1.0
+elefante_0366,elefante,elefante_raatd,Oceano Austral,2012,3236,3236,0,269.5,269.5833,0.0,1,0,-69.0,77.0,0,19.1397,2188.9471,268,269,0.7807,1.0,1.0
+elefante_0367,elefante,elefante_raatd,Oceano Austral,2012,1301,1301,0,108.25,108.3333,0.0,1,1,-69.0,77.0,0,29.9726,2164.5845,107,108,0.8889,1.0,1.0
+elefante_0368,elefante,elefante_raatd,Oceano Austral,2012,3033,3033,0,252.5,252.6667,0.0,1,1,-69.0,78.0,0,43.6809,3108.6731,251,252,0.9563,1.0,0.9694
+elefante_0369,elefante,elefante_raatd,Oceano Austral,2012,3271,3271,0,272.5,272.5,0.0,1,1,-69.0,77.0,0,24.938,1731.6969,271,272,0.8529,1.0,0.9878
+elefante_0370,elefante,elefante_raatd,Oceano Austral,2012,3421,3421,0,285.0,285.0,0.0,1,47,-69.0,77.0,0,33.2978,2985.0484,284,285,0.9088,1.0,0.9982
+elefante_0371,elefante,elefante_raatd,Oceano Austral,2012,519,519,0,43.0,43.1667,0.0,1,0,-69.0,77.0,0,12.6852,397.9407,42,43,1.0,1.0,1.0
+elefante_0372,elefante,elefante_raatd,Oceano Austral,2012,1418,1418,0,118.0,118.0833,0.0,1,0,-69.0,77.0,0,64.3534,3086.3,117,118,0.7458,1.0,0.9941
+elefante_0373,elefante,elefante_raatd,Oceano Austral,2012,2671,2671,0,222.5,222.5,0.0,1,0,-69.0,78.0,0,10.5331,1826.5046,221,222,0.982,1.0,1.0
+elefante_0374,elefante,elefante_raatd,Oceano Austral,2012,1121,1121,0,93.25,93.3333,0.0,1,0,-69.0,77.0,0,15.3989,1732.9784,92,93,0.9355,1.0,1.0
+elefante_0375,elefante,elefante_raatd,Oceano Austral,2012,2808,2808,0,233.75,233.9167,0.0,1,0,-69.0,77.0,0,16.1403,1712.6384,232,233,0.9828,1.0,1.0
+elefante_0376,elefante,elefante_raatd,Oceano Austral,2012,1031,1031,0,85.75,85.8333,0.0,1,0,-69.0,77.0,0,20.7672,897.2555,84,85,1.0,1.0,1.0
+elefante_0377,elefante,elefante_raatd,Oceano Austral,2012,659,659,0,54.75,54.8333,0.0,1,0,-69.0,77.0,0,18.7768,218.3617,53,54,1.0,1.0,1.0
+elefante_0378,elefante,elefante_raatd,Oceano Austral,2011,1147,1147,0,95.5,95.5,0.0,1,0,-69.0,77.0,0,20.4087,2168.1999,94,95,0.9053,1.0,1.0
+elefante_0379,elefante,elefante_raatd,Oceano Austral,2011,1240,1240,0,103.25,103.25,0.0,1,0,-69.0,77.0,0,13.5187,480.9237,102,103,1.0,1.0,1.0
+elefante_0380,elefante,elefante_raatd,Oceano Austral,2011,2308,2308,0,192.25,192.25,0.0,1,0,-69.0,77.0,0,21.3364,1134.8297,191,192,1.0,1.0,1.0
+elefante_0381,elefante,elefante_raatd,Oceano Austral,2011,2400,2400,0,199.75,199.9167,0.0,1,0,-69.0,77.0,0,21.9016,2213.2109,198,199,0.4774,1.0,0.9976
+elefante_0382,elefante,elefante_raatd,Oceano Austral,2011,1526,1526,0,127.0,127.0833,0.0,1,0,-69.0,78.0,0,13.9616,1738.0509,126,127,0.7244,1.0,1.0
+elefante_0383,elefante,elefante_raatd,Oceano Austral,2011,2544,2544,0,211.75,211.9167,0.0,1,0,-69.0,77.0,0,17.1926,1731.678,210,211,0.8341,1.0,1.0
+elefante_0384,elefante,elefante_raatd,Oceano Austral,2011,2591,2591,0,215.75,215.8333,0.0,1,78,-69.0,77.0,0,15.8904,1847.0414,214,215,0.8512,1.0,1.0
+elefante_0385,elefante,elefante_raatd,Oceano Austral,2011,2068,2068,0,172.25,172.25,0.0,1,18,-69.0,77.0,0,24.1952,1977.2015,171,172,0.75,1.0,0.9945
+elefante_0386,elefante,elefante_raatd,Oceano Austral,2011,1442,1442,0,120.0,120.0833,0.0,1,0,-69.0,77.0,0,37.0062,2165.4227,119,120,0.9417,1.0,1.0
+elefante_0387,elefante,elefante_raatd,Oceano Austral,2011,2946,2946,0,245.25,245.4167,0.0,1,3,-69.0,77.0,0,11.6046,2183.9097,244,245,0.3837,1.0,1.0
+elefante_0388,elefante,elefante_raatd,Oceano Austral,2011,91,91,0,7.5,7.5,0.0,1,0,-69.0,77.0,0,27.5583,102.9081,6,7,1.0,1.0,1.0
+elefante_0389,elefante,elefante_raatd,Oceano Austral,2011,3075,3075,0,256.0,256.1667,0.0,1,42,-69.0,77.0,0,17.8711,2159.461,255,256,0.793,1.0,0.9988
+elefante_0390,elefante,elefante_raatd,Oceano Austral,2011,3378,3378,0,281.25,281.4167,0.0,1,0,-69.0,77.0,0,36.347,2504.7946,280,281,0.8612,0.9968,0.9902
+elefante_0391,elefante,elefante_raatd,Oceano Austral,2011,1513,1513,0,126.0,126.0,0.0,1,0,-69.0,77.0,0,13.2599,1744.0646,125,126,0.4921,1.0,1.0
+elefante_0392,elefante,elefante_raatd,Oceano Austral,2011,1278,1278,0,106.25,106.4167,0.0,1,0,-69.0,77.0,0,15.9608,1753.071,105,106,0.9623,1.0,1.0
+elefante_0393,elefante,elefante_raatd,Oceano Austral,2011,3223,3223,0,268.5,268.5,0.0,1,0,-69.0,77.0,0,35.785,2440.2041,267,268,0.6978,0.9996,0.9802
+elefante_0394,elefante,elefante_raatd,Oceano Austral,2011,1222,1222,0,101.75,101.75,0.0,1,0,-69.0,78.0,0,10.3504,1783.3269,100,101,0.9505,1.0,1.0
+elefante_0395,elefante,elefante_raatd,Oceano Austral,2011,3154,3154,0,262.75,262.75,0.0,1,48,-69.0,77.0,0,16.2787,2772.1904,261,262,0.3092,1.0,1.0
+elefante_0396,elefante,elefante_raatd,Oceano Austral,2011,1164,1164,0,96.75,96.9167,0.0,1,0,-69.0,77.0,0,14.9154,1824.4189,95,96,0.9479,1.0,1.0
+elefante_0397,elefante,elefante_raatd,Oceano Austral,2011,656,656,0,54.5,54.5833,0.0,1,0,-69.0,77.0,0,38.218,2165.7053,53,54,0.8519,1.0,1.0
+elefante_0398,elefante,elefante_raatd,Oceano Austral,2005,2646,2646,0,220.25,220.4167,0.0,1,3,-50.0,70.0,96,26.4041,1917.8504,219,220,0.7364,0.2244,0.4548
+elefante_0399,elefante,elefante_raatd,Oceano Austral,2005,1750,1750,0,145.75,145.75,0.0,1,2,-50.0,70.0,96,20.2829,2061.1892,144,145,0.9586,0.2255,0.2526
+elefante_0400,elefante,elefante_raatd,Oceano Austral,2005,1282,1282,0,106.75,106.75,0.0,1,2,-50.0,70.0,96,58.4171,4508.6816,105,106,0.9245,0.3785,0.525
+elefante_0401,elefante,elefante_raatd,Oceano Austral,2005,2797,2797,0,233.0,233.0,0.0,1,17,-50.0,70.0,96,22.5546,1846.968,232,233,0.8927,0.3339,0.5077
+elefante_0402,elefante,elefante_raatd,Oceano Austral,2005,2672,2672,0,222.5,222.5833,0.0,1,29,-50.0,70.0,96,29.6063,2451.8886,221,222,0.8919,0.2606,0.5245
+elefante_0403,elefante,elefante_raatd,Oceano Austral,2005,857,857,0,71.25,71.3333,0.0,1,2,-50.0,70.0,96,39.5731,2139.4636,70,71,0.8451,0.1359,0.3989
+elefante_0404,elefante,elefante_raatd,Oceano Austral,2005,2606,2606,0,217.0,217.0833,0.0,1,5,-50.0,70.0,96,33.1875,1683.3916,216,217,0.7742,0.2315,0.6106
+elefante_0405,elefante,elefante_raatd,Oceano Austral,2005,2480,2480,0,206.5,206.5833,0.0,1,0,-54.0,-37.0,235,35.2372,2658.067,205,206,0.7621,0.2352,0.5983
+elefante_0406,elefante,elefante_raatd,Oceano Austral,2005,2913,2913,0,242.5,242.6667,0.0,1,56,-55.0,-37.0,235,25.6721,1240.834,241,242,0.7851,0.2864,0.5822
+elefante_0407,elefante,elefante_raatd,Oceano Austral,2005,3892,3892,0,324.25,324.25,0.0,1,62,-55.0,-37.0,235,22.2754,2352.8609,323,324,0.7593,0.2351,0.4709
+elefante_0408,elefante,elefante_raatd,Oceano Austral,2005,2634,2634,0,219.25,219.4167,0.0,1,0,-55.0,-37.0,235,48.2666,3534.7132,218,219,0.9041,0.3863,0.6405
+elefante_0409,elefante,elefante_raatd,Oceano Austral,2005,2797,2797,0,233.0,233.0,0.0,1,0,-55.0,-37.0,235,40.6602,2291.3682,232,233,0.8841,0.426,0.5862
+elefante_0410,elefante,elefante_raatd,Oceano Austral,2005,1974,1974,0,164.25,164.4167,0.0,1,3,-54.0,-37.0,235,55.2473,2398.8043,163,164,0.811,0.4259,0.6311
+elefante_0411,elefante,elefante_raatd,Oceano Austral,2005,3425,3425,0,285.25,285.3333,0.0,1,0,-55.0,-37.0,235,25.579,1800.3083,284,285,0.6246,0.2895,0.4562
+elefante_0412,elefante,elefante_raatd,Oceano Austral,2005,3242,3242,0,270.0,270.0833,0.0,1,11,-54.0,-38.0,235,9.532,1348.4428,269,270,0.2333,0.3306,0.2639
+elefante_0413,elefante,elefante_raatd,Oceano Austral,2005,1527,1527,0,127.0,127.1667,0.0,1,0,-54.0,-37.0,235,25.5445,812.1444,126,127,0.9528,0.1435,0.3222
+elefante_0414,elefante,elefante_raatd,Oceano Austral,2005,1445,1445,0,120.25,120.3333,0.0,1,0,-55.0,-37.0,235,17.2283,3127.7163,119,120,0.95,0.2635,0.4467
+elefante_0415,elefante,elefante_raatd,Oceano Austral,2005,3087,3087,0,257.0,257.1667,0.0,1,8,-55.0,-37.0,235,30.0947,3116.3297,256,257,0.8599,0.5644,0.6119
+elefante_0416,elefante,elefante_raatd,Oceano Austral,2005,2679,2679,0,223.0,223.1667,0.0,1,3,-55.0,-37.0,235,25.0115,1410.822,222,223,0.287,0.1647,0.5448
+elefante_0417,elefante,elefante_raatd,Oceano Austral,2005,2777,2777,0,231.25,231.3333,0.0,1,0,-63.0,-61.0,0,15.3401,1643.9677,230,231,0.9784,0.9521,0.9019
+elefante_0418,elefante,elefante_raatd,Oceano Austral,2005,2567,2567,0,213.75,213.8333,0.0,1,0,-63.0,-62.0,0,58.4361,4768.6567,212,213,1.0,0.8249,0.8412
+elefante_0419,elefante,elefante_raatd,Oceano Austral,2005,2774,2774,0,231.0,231.0833,0.0,1,0,-63.0,-62.0,0,14.2485,1267.0338,230,231,1.0,0.9275,0.9123
+elefante_0420,elefante,elefante_raatd,Oceano Austral,2005,3377,3377,0,281.25,281.3333,0.0,1,84,-63.0,-62.0,0,14.8538,1672.7057,280,281,0.8719,0.9448,0.9621
+elefante_0421,elefante,elefante_raatd,Oceano Austral,2005,2726,2726,0,227.0,227.0833,0.0,1,2,-63.0,-61.0,0,16.1219,1678.6788,226,227,0.9736,0.9024,0.9261
+elefante_0422,elefante,elefante_raatd,Oceano Austral,2005,3401,3401,0,283.25,283.3333,0.0,1,98,-63.0,-61.0,0,17.835,1662.7815,282,283,0.8869,0.9054,0.8976
+elefante_0423,elefante,elefante_raatd,Oceano Austral,2007,1873,1873,0,156.0,156.0,0.0,1,0,-50.0,70.0,96,51.1685,3260.2656,155,156,0.641,0.2325,0.676
+elefante_0424,elefante,elefante_raatd,Oceano Austral,2008,1948,1948,0,162.25,162.25,0.0,1,0,-50.0,70.0,96,48.1919,3508.8933,161,162,0.9568,0.3344,0.6144
+elefante_0425,elefante,elefante_raatd,Oceano Austral,2009,2196,2196,0,182.75,182.9167,0.0,1,0,-50.0,70.0,96,32.563,2544.8832,181,182,0.9835,0.3706,0.6463
+elefante_0426,elefante,elefante_raatd,Oceano Austral,2009,1720,1720,0,143.25,143.25,0.0,1,0,-50.0,70.0,96,27.0566,2107.6541,142,143,0.8741,0.2566,0.4448
+elefante_0427,elefante,elefante_raatd,Oceano Austral,2009,303,303,0,25.0,25.1667,0.0,1,0,-50.0,70.0,96,90.251,1632.9538,24,25,0.84,0.131,0.505
+elefante_0428,elefante,elefante_raatd,Oceano Austral,2008,1952,1952,0,162.5,162.5833,0.0,1,1,-50.0,70.0,96,7.5453,356.7993,161,162,0.0,0.0458,0.0423
+elefante_0429,elefante,elefante_raatd,Oceano Austral,2009,2828,2828,0,235.5,235.5833,0.0,1,1,-50.0,71.0,96,26.2614,3517.9351,234,235,0.7064,0.2445,0.708
+elefante_0430,elefante,elefante_raatd,Oceano Austral,2009,592,592,0,49.25,49.25,0.0,1,0,-50.0,70.0,96,68.1702,1791.103,48,49,0.898,0.0995,0.5459
+elefante_0431,elefante,elefante_raatd,Oceano Austral,2009,2061,2061,0,171.5,171.6667,0.0,1,1,-50.0,70.0,96,31.4505,3417.9546,170,171,0.9532,0.2213,0.6155
+elefante_0432,elefante,elefante_raatd,Oceano Austral,2009,987,987,0,82.0,82.1667,0.0,1,0,-50.0,70.0,96,49.2246,1646.0861,81,82,0.7317,0.2655,0.661
+elefante_0433,elefante,elefante_raatd,Oceano Austral,2009,876,876,0,72.75,72.9167,0.0,1,0,-50.0,70.0,96,41.0434,1186.3123,71,72,0.8194,0.0892,0.3017
+elefante_0434,elefante,elefante_raatd,Oceano Austral,2009,1098,1098,0,91.25,91.4167,0.0,1,6,-50.0,70.0,96,45.5666,1505.5671,90,91,0.6923,0.1179,0.5206
+elefante_0435,elefante,elefante_raatd,Oceano Austral,2009,957,957,0,79.5,79.6667,0.0,1,0,-50.0,70.0,96,48.3867,1840.0664,78,79,0.7848,0.1028,0.6358
+elefante_0436,elefante,elefante_raatd,Oceano Austral,2009,1015,1015,0,84.5,84.5,0.0,1,1,-50.0,70.0,96,56.5036,1838.4922,83,84,0.8452,0.2568,0.6655
+elefante_0437,elefante,elefante_raatd,Oceano Austral,2009,926,926,0,77.0,77.0833,0.0,1,0,-50.0,70.0,96,39.3287,1553.2016,76,77,0.1948,0.1562,0.3685
+albatroz_0001,albatroz,albatroz_raatd,Oceano Austral,2006,2153,2153,0,1076.0,1076.0,0.0,1,31,-55.0,157.0,33,190.2851,3825.4078,1075,1076,0.4647,0.6985,0.7122
+albatroz_0002,albatroz,albatroz_raatd,Oceano Austral,2004,497,497,0,41.25,41.3333,0.0,1,0,-55.0,158.0,33,132.6973,1539.1472,40,41,0.3415,0.6701,0.636
+albatroz_0003,albatroz,albatroz_raatd,Oceano Austral,2004,179,179,0,14.75,14.8333,0.0,1,0,-55.0,158.0,33,210.3022,1746.0841,13,14,0.3571,0.5286,0.6429
+albatroz_0004,albatroz,albatroz_raatd,Oceano Austral,2006,738,738,0,61.25,61.4167,0.0,1,0,-55.0,158.0,33,41.4573,2034.9334,60,61,0.4426,0.7418,0.6561
+albatroz_0005,albatroz,albatroz_raatd,Oceano Austral,2006,722,722,0,360.5,360.5,0.0,1,2,-55.0,158.0,33,262.2449,9794.5276,359,360,0.6444,0.71,0.7476
+albatroz_0006,albatroz,albatroz_raatd,Oceano Austral,2006,1630,1630,0,135.75,135.75,0.0,1,0,-55.0,158.0,33,108.8058,2954.0907,134,135,0.0889,0.7157,0.6181
+albatroz_0007,albatroz,albatroz_raatd,Oceano Austral,2004,1165,1165,0,97.0,97.0,0.0,1,0,-55.0,158.0,33,161.148,2603.0237,96,97,0.6598,0.6765,0.7776
+albatroz_0008,albatroz,albatroz_raatd,Oceano Austral,2006,1287,1287,0,107.0,107.1667,0.0,1,2,-55.0,158.0,33,280.7419,6051.7528,106,107,0.4486,0.7495,0.7629
+albatroz_0009,albatroz,albatroz_raatd,Oceano Austral,2004,709,709,0,59.0,59.0,0.0,1,0,-55.0,159.0,33,168.808,2429.3066,58,59,0.339,0.5949,0.6521
+albatroz_0010,albatroz,albatroz_raatd,Oceano Austral,2006,644,644,0,53.5,53.5833,0.0,1,0,-55.0,158.0,33,276.8755,3347.0456,52,53,0.5472,0.7476,0.717
+albatroz_0011,albatroz,albatroz_raatd,Oceano Austral,2006,2804,2804,0,1401.5,1401.5,0.0,1,20,-55.0,157.0,33,202.6194,5097.9691,1400,1401,0.5931,0.6832,0.7368
+albatroz_0012,albatroz,albatroz_raatd,Oceano Austral,1997,338,338,0,28.0,28.0833,0.0,1,0,-47.0,39.0,93,104.331,1067.9052,27,28,0.2857,0.7045,0.6562
+albatroz_0013,albatroz,albatroz_raatd,Oceano Austral,1997,247,247,0,20.5,20.5,0.0,1,0,-47.0,38.0,93,206.9833,579.6832,19,20,0.15,0.7725,0.8062
+albatroz_0014,albatroz,albatroz_raatd,Oceano Austral,1997,124,124,0,10.25,10.25,0.0,1,0,-45.0,40.0,93,330.8847,1291.8002,9,10,1.0,0.795,0.8375
+albatroz_0015,albatroz,albatroz_raatd,Oceano Austral,1997,105,105,0,8.5,8.6667,0.0,1,0,-46.0,39.0,93,65.9752,1234.6501,7,8,1.0,0.8188,0.8469
+albatroz_0016,albatroz,albatroz_raatd,Oceano Austral,1997,142,142,0,11.75,11.75,0.0,1,1,-47.0,36.0,93,138.5054,415.8302,10,11,0.0909,0.6023,0.5727
+albatroz_0017,albatroz,albatroz_raatd,Oceano Austral,1997,103,103,0,8.5,8.5,0.0,1,0,-46.0,38.0,93,415.7693,999.823,7,8,0.75,0.7219,0.7875
+albatroz_0018,albatroz,albatroz_raatd,Oceano Austral,1997,460,460,0,38.25,38.25,0.0,1,0,-47.0,38.0,93,426.6647,5840.327,37,38,0.7895,0.8072,0.8553
+albatroz_0019,albatroz,albatroz_raatd,Oceano Austral,1998,145,145,0,12.0,12.0,0.0,1,0,-46.0,38.0,93,89.1357,369.479,11,12,0.3333,0.2438,0.1979
+albatroz_0020,albatroz,albatroz_raatd,Oceano Austral,1998,397,397,0,33.0,33.0,0.0,1,0,-46.0,38.0,93,527.9927,2280.7889,32,33,0.7879,0.7856,0.8
+albatroz_0021,albatroz,albatroz_raatd,Oceano Austral,1997,170,170,0,14.0,14.0833,0.0,1,0,-47.0,37.0,93,421.006,5332.8089,13,14,0.7857,0.7804,0.8054
+albatroz_0022,albatroz,albatroz_raatd,Oceano Austral,1997,153,153,0,12.5,12.6667,0.0,1,0,-46.0,34.0,93,124.3875,676.239,11,12,0.1667,0.6979,0.6458
+albatroz_0023,albatroz,albatroz_raatd,Oceano Austral,1997,164,164,0,13.5,13.5833,0.0,1,0,-46.0,37.0,93,232.9567,521.9659,12,13,0.3077,0.5442,0.6327
+albatroz_0024,albatroz,albatroz_raatd,Oceano Austral,1997,201,201,0,16.5,16.6667,0.0,1,0,-47.0,38.0,93,191.6751,1785.9872,15,16,0.4375,0.7281,0.7188
+albatroz_0025,albatroz,albatroz_raatd,Oceano Austral,1997,129,129,0,10.5,10.6667,0.0,1,0,-47.0,39.0,93,282.389,482.2404,9,10,0.1,0.5325,0.53
+albatroz_0026,albatroz,albatroz_raatd,Oceano Austral,1997,212,212,0,17.5,17.5833,0.0,1,0,-47.0,38.0,93,123.302,430.9349,16,17,0.1176,0.5338,0.5368
+albatroz_0027,albatroz,albatroz_raatd,Oceano Austral,1997,213,213,0,17.5,17.6667,0.0,1,0,-49.0,43.0,0,195.185,1077.0408,16,17,0.5882,0.6647,0.7485
+albatroz_0028,albatroz,albatroz_raatd,Oceano Austral,1998,190,190,0,15.75,15.75,0.0,1,0,-47.0,39.0,93,56.911,334.7218,14,15,0.2,0.2183,0.1917
+albatroz_0029,albatroz,albatroz_raatd,Oceano Austral,1997,236,236,0,19.5,19.5833,0.0,1,1,-47.0,38.0,93,193.3472,945.4413,18,19,0.6316,0.6934,0.6645
+albatroz_0030,albatroz,albatroz_raatd,Oceano Austral,2013,426,426,0,17.5,17.7083,0.0,1,0,-47.0,37.0,93,110.2888,675.6675,16,17,0.2353,0.5853,0.5265
+albatroz_0031,albatroz,albatroz_raatd,Oceano Austral,2013,232,232,0,9.5,9.625,0.0,1,0,-47.0,37.0,93,340.2008,1531.9303,8,9,0.4444,0.6917,0.7611
+albatroz_0032,albatroz,albatroz_raatd,Oceano Austral,2013,383,383,0,15.75,15.9167,0.0,1,0,-47.0,37.0,93,407.2987,1515.0705,14,15,0.4667,0.7867,0.73
+albatroz_0033,albatroz,albatroz_raatd,Oceano Austral,2013,363,363,0,15.0,15.0833,0.0,1,0,-47.0,37.0,93,350.8622,1121.7111,14,15,0.2667,0.7467,0.66
+albatroz_0034,albatroz,albatroz_raatd,Oceano Austral,2013,441,441,0,18.25,18.3333,0.0,1,0,-47.0,37.0,93,256.7393,772.1435,17,18,0.2778,0.7486,0.675
+albatroz_0035,albatroz,albatroz_raatd,Oceano Austral,2013,330,330,0,13.5,13.7083,0.0,1,1,-47.0,37.0,93,129.9833,798.9041,12,13,0.1538,0.8231,0.9327
+albatroz_0036,albatroz,albatroz_raatd,Oceano Austral,2013,387,387,0,16.0,16.0833,0.0,1,0,-47.0,37.0,93,212.0073,965.7946,15,16,0.3125,0.65,0.7109
+albatroz_0037,albatroz,albatroz_raatd,Oceano Austral,2013,302,302,0,12.5,12.5417,0.0,1,0,-47.0,37.0,93,0.0136,581.5611,11,12,0.1667,0.5438,0.4521
+albatroz_0038,albatroz,albatroz_raatd,Oceano Austral,2013,349,349,0,14.5,14.5,0.0,1,0,-47.0,37.0,93,64.788,598.5489,13,14,0.2857,0.4518,0.3911
+albatroz_0039,albatroz,albatroz_raatd,Oceano Austral,2013,500,500,0,20.75,20.7917,0.0,1,0,-47.0,37.0,93,270.6435,1287.7397,19,20,0.55,0.8038,0.8275
+albatroz_0040,albatroz,albatroz_raatd,Oceano Austral,2013,367,367,0,15.25,15.25,0.0,1,1,-47.0,37.0,93,149.5061,741.0116,14,15,0.1333,0.6067,0.6083
+albatroz_0041,albatroz,albatroz_raatd,Oceano Austral,2009,652,652,0,325.5,325.5,0.0,1,1,-48.0,48.0,94,231.2116,2254.8999,324,325,0.7538,0.7929,0.7477
+albatroz_0042,albatroz,albatroz_raatd,Oceano Austral,2010,713,713,0,356.0,356.0,0.0,1,0,-47.0,55.0,94,287.6506,3389.6232,355,356,0.7528,0.7711,0.7623
+albatroz_0043,albatroz,albatroz_raatd,Oceano Austral,2010,682,682,0,340.5,340.5,0.0,1,10,-42.0,22.0,0,230.1793,4003.1322,339,340,0.8824,0.8045,0.8177
+albatroz_0044,albatroz,albatroz_raatd,Oceano Austral,2012,661,661,0,330.0,330.0,0.0,1,5,-44.0,54.0,94,289.1303,8188.8042,329,330,0.9091,0.8346,0.7555
+albatroz_0045,albatroz,albatroz_raatd,Oceano Austral,2009,515,515,0,257.0,257.0,0.0,1,1,-54.0,53.0,0,208.9836,7974.1809,256,257,0.8327,0.8565,0.8301
+albatroz_0046,albatroz,albatroz_raatd,Oceano Austral,2010,658,658,0,328.5,328.5,0.0,1,28,-47.0,80.0,0,271.384,6859.2084,327,328,0.5732,0.7323,0.7303
+albatroz_0047,albatroz,albatroz_raatd,Oceano Austral,2009,667,667,0,333.0,333.0,0.0,1,1,-46.0,52.0,94,226.0491,5333.9662,332,333,0.7357,0.7812,0.7676
+albatroz_0048,albatroz,albatroz_raatd,Oceano Austral,2007,489,489,0,244.0,244.0,0.0,1,0,-54.0,71.0,97,239.0254,6367.6732,243,244,0.8443,0.8261,0.8042
+albatroz_0049,albatroz,albatroz_raatd,Oceano Austral,2007,733,733,0,366.0,366.0,0.0,1,1,-40.0,55.0,0,235.8732,4679.8849,365,366,0.765,0.7714,0.7468
+albatroz_0050,albatroz,albatroz_raatd,Oceano Austral,2008,683,683,0,341.0,341.0,0.0,1,4,-42.0,47.0,0,387.1623,7424.2228,340,341,0.8328,0.7293,0.7295
+albatroz_0051,albatroz,albatroz_raatd,Oceano Austral,2007,516,516,0,257.5,257.5,0.0,1,0,-51.0,68.0,96,166.31,6831.0697,256,257,0.786,0.835,0.7963
+albatroz_0052,albatroz,albatroz_raatd,Oceano Austral,2007,748,748,0,373.5,373.5,0.0,1,0,-40.0,53.0,0,312.7306,2964.0852,372,373,0.689,0.7536,0.7382
+albatroz_0053,albatroz,albatroz_raatd,Oceano Austral,2010,672,672,0,335.5,335.5,0.0,1,0,-46.0,51.0,94,312.7415,4640.387,334,335,0.7672,0.7619,0.7526
+albatroz_0054,albatroz,albatroz_raatd,Oceano Austral,2008,680,680,0,339.5,339.5,0.0,1,0,-45.0,50.0,94,296.9765,2488.889,338,339,0.7493,0.7746,0.7675
+albatroz_0055,albatroz,albatroz_raatd,Oceano Austral,2010,713,713,0,356.0,356.0,0.0,1,11,-45.0,51.0,94,292.1288,2822.3506,355,356,0.7416,0.7617,0.7229
+albatroz_0056,albatroz,albatroz_raatd,Oceano Austral,2009,748,748,0,373.5,373.5,0.0,1,39,-45.0,47.0,94,237.8641,8813.4282,372,373,0.6917,0.7795,0.7517
+albatroz_0057,albatroz,albatroz_raatd,Oceano Austral,2006,513,513,0,256.0,256.0,0.0,1,2,-38.0,32.0,0,302.765,5661.5508,255,256,0.793,0.7854,0.7895
+albatroz_0058,albatroz,albatroz_raatd,Oceano Austral,2009,740,740,0,369.5,369.5,0.0,1,0,-37.0,51.0,0,228.5612,3115.954,368,369,0.7588,0.7864,0.7509
+albatroz_0059,albatroz,albatroz_raatd,Oceano Austral,2012,496,496,0,247.5,247.5,0.0,1,0,-56.0,62.0,0,201.4552,4683.6123,246,247,0.7692,0.8219,0.8313
+albatroz_0060,albatroz,albatroz_raatd,Oceano Austral,2009,720,720,0,359.5,359.5,0.0,1,24,-46.0,54.0,94,269.4923,5691.7897,358,359,0.7994,0.7517,0.763
+albatroz_0061,albatroz,albatroz_raatd,Oceano Austral,2007,566,566,0,282.5,282.5,0.0,1,0,-55.0,124.0,0,282.4124,7614.1057,281,282,0.844,0.7618,0.7715
+albatroz_0062,albatroz,albatroz_raatd,Oceano Austral,2008,506,506,0,252.5,252.5,0.0,1,0,-56.0,51.0,0,271.5245,3149.9017,251,252,0.8968,0.8284,0.7936
+albatroz_0063,albatroz,albatroz_raatd,Oceano Austral,2010,655,655,0,327.0,327.0,0.0,1,0,-40.0,61.0,0,300.1468,6699.1574,326,327,0.8838,0.7767,0.7619
+albatroz_0064,albatroz,albatroz_raatd,Oceano Austral,2010,767,767,0,383.0,383.0,0.0,1,15,-33.0,37.0,0,193.5882,3293.2395,382,383,0.6919,0.7503,0.7351
+albatroz_0065,albatroz,albatroz_raatd,Oceano Austral,2008,714,714,0,356.5,356.5,0.0,1,13,-32.0,43.0,0,275.9971,3371.1016,355,356,0.6713,0.7619,0.7115
+albatroz_0066,albatroz,albatroz_raatd,Oceano Austral,2006,506,506,0,252.5,252.5,0.0,1,1,-52.0,68.0,96,293.2669,3640.3367,251,252,0.7421,0.7883,0.7699
+albatroz_0067,albatroz,albatroz_raatd,Oceano Austral,2008,725,725,0,362.0,362.0,0.0,1,1,-54.0,54.0,0,300.7175,4229.712,361,362,0.8177,0.7965,0.7957
+albatroz_0068,albatroz,albatroz_raatd,Oceano Austral,2008,732,732,0,365.5,365.5,0.0,1,47,-49.0,67.0,96,267.8338,7877.9297,364,365,0.6164,0.7812,0.7303
+albatroz_0069,albatroz,albatroz_raatd,Oceano Austral,2011,493,493,0,246.0,246.0,0.0,1,4,-61.0,51.0,0,290.1392,8450.5321,245,246,0.7317,0.8269,0.8044
+albatroz_0070,albatroz,albatroz_raatd,Oceano Austral,2011,485,485,0,242.0,242.0,0.0,1,0,-57.0,60.0,0,204.4191,2705.9546,241,242,0.8636,0.8396,0.8018
+albatroz_0071,albatroz,albatroz_raatd,Oceano Austral,2010,502,502,0,250.5,250.5,0.0,1,1,-58.0,65.0,0,198.8238,4607.3269,249,250,0.792,0.8537,0.8344
+albatroz_0072,albatroz,albatroz_raatd,Oceano Austral,2006,472,472,0,235.5,235.5,0.0,1,0,-52.0,-87.0,0,323.3502,9448.6723,234,235,0.7702,0.8161,0.8062
+albatroz_0073,albatroz,albatroz_raatd,Oceano Austral,2008,733,733,0,366.0,366.0,0.0,1,0,-48.0,54.0,94,218.5723,4935.2017,365,366,0.8224,0.7717,0.7945
+albatroz_0074,albatroz,albatroz_raatd,Oceano Austral,2011,525,525,0,262.0,262.0,0.0,1,0,-50.0,46.0,0,259.113,3168.8683,261,262,0.7977,0.8146,0.7949
+albatroz_0075,albatroz,albatroz_raatd,Oceano Austral,2009,749,749,0,374.0,374.0,0.0,1,2,-52.0,52.0,0,289.2997,7426.67,373,374,0.7727,0.7866,0.7384
+albatroz_0076,albatroz,albatroz_raatd,Oceano Austral,2011,737,737,0,368.0,368.0,0.0,1,2,-34.0,44.0,0,301.933,4084.8071,367,368,0.7283,0.7493,0.7016
+albatroz_0077,albatroz,albatroz_raatd,Oceano Austral,2010,731,731,0,365.0,365.0,0.0,1,0,-32.0,43.0,0,286.0293,3743.1178,364,365,0.8521,0.7545,0.7235
+albatroz_0078,albatroz,albatroz_raatd,Oceano Austral,2007,779,779,0,389.0,389.0,0.0,1,6,-48.0,50.0,94,187.3852,2807.6012,388,389,0.6298,0.7694,0.7874
+albatroz_0079,albatroz,albatroz_raatd,Oceano Austral,2007,713,713,0,356.0,356.0,0.0,1,1,-46.0,48.0,94,259.426,6222.6033,355,356,0.8006,0.7574,0.7753
+albatroz_0080,albatroz,albatroz_raatd,Oceano Austral,2009,577,577,0,288.0,288.0,0.0,1,0,-46.0,51.0,94,190.0652,6265.2757,287,288,0.9479,0.7679,0.7766
+albatroz_0081,albatroz,albatroz_raatd,Oceano Austral,2010,515,515,0,257.0,257.0,0.0,1,0,-49.0,83.0,0,259.3589,5002.2431,256,257,0.7471,0.834,0.7611
+albatroz_0082,albatroz,albatroz_raatd,Oceano Austral,2008,784,784,0,391.5,391.5,0.0,1,0,-49.0,46.0,0,235.2488,2881.8739,390,391,0.7494,0.7915,0.7891
+albatroz_0083,albatroz,albatroz_raatd,Oceano Austral,2012,539,539,0,269.0,269.0,0.0,1,3,-58.0,37.0,0,245.3605,6736.5922,268,269,0.8104,0.8355,0.8391
+albatroz_0084,albatroz,albatroz_raatd,Oceano Austral,2011,742,742,0,370.5,370.5,0.0,1,0,-41.0,57.0,0,326.6002,4990.5138,369,370,0.8568,0.7663,0.742
+albatroz_0085,albatroz,albatroz_raatd,Oceano Austral,2010,678,678,0,338.5,338.5,0.0,1,4,-46.0,51.0,94,234.0562,7288.5571,337,338,0.8905,0.7784,0.7624
+albatroz_0086,albatroz,albatroz_raatd,Oceano Austral,2010,736,736,0,367.5,367.5,0.0,1,2,-32.0,51.0,0,228.5094,11282.292,366,367,0.7084,0.7796,0.7201
+albatroz_0087,albatroz,albatroz_raatd,Oceano Austral,2011,663,663,0,331.0,331.0,0.0,1,0,-38.0,40.0,0,296.7803,7064.0756,330,331,0.8036,0.7798,0.7149
+albatroz_0088,albatroz,albatroz_raatd,Oceano Austral,2011,756,756,0,377.5,377.5,0.0,1,0,-33.0,32.0,104,344.7847,3992.4351,376,377,0.7135,0.7767,0.7356
+albatroz_0089,albatroz,albatroz_raatd,Oceano Austral,2012,538,538,0,268.5,268.5,0.0,1,6,-42.0,75.0,0,370.3384,5365.3349,267,268,0.7425,0.7274,0.7385
+albatroz_0090,albatroz,albatroz_raatd,Oceano Austral,2011,492,492,0,245.5,245.5,0.0,1,10,-52.0,108.0,0,226.8953,9212.2067,244,245,0.7837,0.8698,0.7042
+albatroz_0091,albatroz,albatroz_raatd,Oceano Austral,2008,458,458,0,228.5,228.5,0.0,1,3,-55.0,64.0,0,248.5425,9079.7229,227,228,0.7939,0.8184,0.8041
+albatroz_0092,albatroz,albatroz_raatd,Oceano Austral,2008,656,656,0,327.5,327.5,0.0,1,16,-45.0,53.0,94,184.0261,10016.6837,326,327,0.7829,0.7667,0.8076
+albatroz_0093,albatroz,albatroz_raatd,Oceano Austral,2007,733,733,0,366.0,366.0,0.0,1,12,-49.0,53.0,94,167.5606,9901.0802,365,366,0.6311,0.8104,0.7809
+albatroz_0094,albatroz,albatroz_raatd,Oceano Austral,2008,698,698,0,348.5,348.5,0.0,1,9,-46.0,47.0,94,201.1091,2337.455,347,348,0.8707,0.8001,0.7728
+albatroz_0095,albatroz,albatroz_raatd,Oceano Austral,2010,482,482,0,240.5,240.5,0.0,1,1,-56.0,69.0,97,236.7508,3031.4886,239,240,0.6667,0.8285,0.8318
+albatroz_0096,albatroz,albatroz_raatd,Oceano Austral,2007,548,548,0,273.5,273.5,0.0,1,0,-55.0,51.0,0,129.7421,2469.7578,272,273,0.8718,0.8908,0.8591
+albatroz_0097,albatroz,albatroz_raatd,Oceano Austral,2009,508,508,0,253.5,253.5,0.0,1,0,-38.0,52.0,0,255.1372,3069.0086,252,253,0.8221,0.739,0.7789
+albatroz_0098,albatroz,albatroz_raatd,Oceano Austral,2011,711,711,0,355.0,355.0,0.0,1,0,-47.0,50.0,94,269.3863,2464.5313,354,355,0.769,0.7727,0.7543
+albatroz_0099,albatroz,albatroz_raatd,Oceano Austral,2010,792,792,0,395.5,395.5,0.0,1,3,-51.0,74.0,97,280.5057,4203.3578,394,395,0.6734,0.7956,0.7641
+albatroz_0100,albatroz,albatroz_raatd,Oceano Austral,2010,640,640,0,319.5,319.5,0.0,1,12,-49.0,51.0,94,347.3884,9749.1205,318,319,0.5705,0.7065,0.7241
+albatroz_0101,albatroz,albatroz_raatd,Oceano Austral,2008,684,684,0,341.5,341.5,0.0,1,0,-45.0,50.0,94,160.525,4028.3139,340,341,0.7155,0.7655,0.7911
+albatroz_0102,albatroz,albatroz_raatd,Oceano Austral,2010,731,731,0,365.0,365.0,0.0,1,0,-50.0,52.0,94,253.6475,2619.1678,364,365,0.7616,0.8031,0.7436
+albatroz_0103,albatroz,albatroz_raatd,Oceano Austral,2008,477,477,0,238.0,238.0,0.0,1,0,-40.0,54.0,0,255.953,2229.8119,237,238,0.8151,0.7809,0.7294
+albatroz_0104,albatroz,albatroz_raatd,Oceano Austral,2011,527,527,0,263.0,263.0,0.0,1,0,-50.0,-21.0,0,319.4938,9394.9198,262,263,0.9125,0.8137,0.8151
+albatroz_0105,albatroz,albatroz_raatd,Oceano Austral,2012,596,596,0,297.5,297.5,0.0,1,0,-50.0,53.0,94,291.9191,6358.3223,296,297,0.8047,0.7476,0.7921
+albatroz_0106,albatroz,albatroz_raatd,Oceano Austral,2008,778,778,0,388.5,388.5,0.0,1,0,-36.0,58.0,0,280.6534,2636.8233,387,388,0.7397,0.709,0.7285
+albatroz_0107,albatroz,albatroz_raatd,Oceano Austral,2010,662,662,0,330.5,330.5,0.0,1,17,-48.0,69.0,96,277.2917,8367.3316,329,330,0.6212,0.7605,0.7548
+albatroz_0108,albatroz,albatroz_raatd,Oceano Austral,2010,727,727,0,363.0,363.0,0.0,1,6,-52.0,68.0,96,222.6217,2575.6936,362,363,0.6391,0.8126,0.771
+albatroz_0109,albatroz,albatroz_raatd,Oceano Austral,2010,691,691,0,345.0,345.0,0.0,1,1,-51.0,98.0,0,232.5121,4328.3527,344,345,0.8058,0.8439,0.77
+albatroz_0110,albatroz,albatroz_raatd,Oceano Austral,2007,680,680,0,339.5,339.5,0.0,1,19,-38.0,61.0,0,250.0898,8586.3514,338,339,0.7198,0.7586,0.7571
+albatroz_0111,albatroz,albatroz_raatd,Oceano Austral,2011,768,768,0,383.5,383.5,0.0,1,0,-43.0,54.0,0,279.5894,7933.7611,382,383,0.718,0.6975,0.7185
+albatroz_0112,albatroz,albatroz_raatd,Oceano Austral,2006,491,491,0,245.0,245.0,0.0,1,4,-55.0,64.0,0,219.9106,3972.8489,244,245,0.7633,0.804,0.818
+albatroz_0113,albatroz,albatroz_raatd,Oceano Austral,2006,529,529,0,264.0,264.0,0.0,1,30,-45.0,123.0,0,169.7805,9998.2807,263,264,0.4167,0.8051,0.8448
+albatroz_0114,albatroz,albatroz_raatd,Oceano Austral,2007,735,735,0,367.0,367.0,0.0,1,0,-39.0,42.0,0,231.5702,2701.4521,366,367,0.7112,0.7978,0.7782
+albatroz_0115,albatroz,albatroz_raatd,Oceano Austral,2011,724,724,0,361.5,361.5,0.0,1,0,-53.0,64.0,0,247.3308,4519.6033,360,361,0.7285,0.7744,0.796
+albatroz_0116,albatroz,albatroz_raatd,Oceano Austral,2011,773,773,0,386.0,386.0,0.0,1,0,-42.0,56.0,0,328.1459,7519.2128,385,386,0.8394,0.7247,0.7372
+albatroz_0117,albatroz,albatroz_raatd,Oceano Austral,2012,633,633,0,316.0,316.0,0.0,1,4,-48.0,75.0,0,238.4325,8924.6412,315,316,0.7437,0.7588,0.7443
+albatroz_0118,albatroz,albatroz_raatd,Oceano Austral,2007,483,483,0,241.0,241.0,0.0,1,2,-39.0,62.0,0,181.5453,5659.8101,240,241,0.834,0.8225,0.8252
+albatroz_0119,albatroz,albatroz_raatd,Oceano Austral,2008,478,478,0,238.5,238.5,0.0,1,0,-50.0,55.0,0,225.5569,4708.5542,237,238,0.8529,0.8248,0.7966
+albatroz_0120,albatroz,albatroz_raatd,Oceano Austral,2009,662,662,0,330.5,330.5,0.0,1,0,-47.0,55.0,94,285.2121,2400.6888,329,330,0.7909,0.7938,0.7776
+albatroz_0121,albatroz,albatroz_raatd,Oceano Austral,2009,501,501,0,250.0,250.0,0.0,1,2,-45.0,51.0,94,232.0707,9716.1788,249,250,0.74,0.7807,0.7566
+albatroz_0122,albatroz,albatroz_raatd,Oceano Austral,2010,560,560,0,279.5,279.5,0.0,1,3,-34.0,64.0,0,228.9603,10206.9705,278,279,0.8315,0.7596,0.7831
+albatroz_0123,albatroz,albatroz_raatd,Oceano Austral,2011,532,532,0,265.5,265.5,0.0,1,3,-54.0,58.0,0,217.0918,9493.8212,264,265,0.6264,0.8105,0.8081
+albatroz_0124,albatroz,albatroz_raatd,Oceano Austral,2010,671,671,0,335.0,335.0,0.0,1,0,-48.0,50.0,94,302.1195,3144.2665,334,335,0.8209,0.8106,0.8066
+albatroz_0125,albatroz,albatroz_raatd,Oceano Austral,2007,512,512,0,255.5,255.5,0.0,1,0,-49.0,47.0,94,229.7857,3044.7454,254,255,0.7686,0.7933,0.7814
+albatroz_0126,albatroz,albatroz_raatd,Oceano Austral,2009,690,690,0,344.5,344.5,0.0,1,0,-45.0,51.0,94,253.517,6196.7594,343,344,0.7471,0.7526,0.7453
+albatroz_0127,albatroz,albatroz_raatd,Oceano Austral,2007,734,734,0,366.5,366.5,0.0,1,3,-53.0,50.0,0,151.2039,3080.2138,365,366,0.7158,0.8074,0.7914
+albatroz_0128,albatroz,albatroz_raatd,Oceano Austral,2007,690,690,0,344.5,344.5,0.0,1,3,-58.0,86.0,0,270.4513,4862.0746,343,344,0.689,0.8153,0.7796
+albatroz_0129,albatroz,albatroz_raatd,Oceano Austral,2010,238,238,0,118.5,118.5,0.0,1,0,-55.0,60.0,0,107.5519,1866.6494,117,118,1.0,0.8275,0.7894
+albatroz_0130,albatroz,albatroz_raatd,Oceano Austral,2012,669,669,0,334.0,334.0,0.0,1,0,-49.0,53.0,94,257.1856,6843.6418,333,334,0.9162,0.7963,0.7868
+albatroz_0131,albatroz,albatroz_raatd,Oceano Austral,2010,699,699,0,349.0,349.0,0.0,1,9,-48.0,54.0,94,302.1421,3819.5736,348,349,0.7163,0.7678,0.7516
+albatroz_0132,albatroz,albatroz_raatd,Oceano Austral,2011,645,645,0,322.0,322.0,0.0,1,4,-63.0,102.0,0,316.7467,5144.7571,321,322,0.8634,0.8047,0.7624
+albatroz_0133,albatroz,albatroz_raatd,Oceano Austral,2009,661,661,0,330.0,330.0,0.0,1,1,-48.0,62.0,0,231.9324,3406.669,329,330,0.8576,0.8,0.7766
+albatroz_0134,albatroz,albatroz_raatd,Oceano Austral,2010,703,703,0,351.0,351.0,0.0,1,1,-37.0,41.0,0,285.2126,4429.626,350,351,0.7208,0.7348,0.7407
+albatroz_0135,albatroz,albatroz_raatd,Oceano Austral,2007,730,730,0,364.5,364.5,0.0,1,2,-49.0,67.0,96,178.002,4153.4909,363,364,0.8544,0.8413,0.7889
+albatroz_0136,albatroz,albatroz_raatd,Oceano Austral,2011,735,735,0,367.0,367.0,0.0,1,2,-53.0,72.0,97,248.2215,9168.1302,366,367,0.7929,0.8052,0.7875
+albatroz_0137,albatroz,albatroz_raatd,Oceano Austral,2011,507,507,0,253.0,253.0,0.0,1,1,-54.0,54.0,0,218.1346,4087.2676,252,253,0.8419,0.8384,0.7968
+albatroz_0138,albatroz,albatroz_raatd,Oceano Austral,2011,496,496,0,247.5,247.5,0.0,1,5,-57.0,166.0,0,250.3152,8785.2629,246,247,0.6154,0.6944,0.7672
+albatroz_0139,albatroz,albatroz_raatd,Oceano Austral,2011,758,758,0,378.5,378.5,0.0,1,22,-36.0,121.0,42,217.8847,11971.6401,377,378,0.6508,0.7639,0.772
+albatroz_0140,albatroz,albatroz_raatd,Oceano Austral,2011,735,735,0,367.0,367.0,0.0,1,11,-33.0,57.0,0,261.5515,11537.678,366,367,0.8311,0.7176,0.7404
+albatroz_0141,albatroz,albatroz_raatd,Oceano Austral,2007,714,714,0,356.5,356.5,0.0,1,43,-51.0,71.0,96,270.759,9490.6148,355,356,0.5,0.7556,0.7355
+albatroz_0142,albatroz,albatroz_raatd,Oceano Austral,2007,691,691,0,345.0,345.0,0.0,1,38,-42.0,76.0,95,283.2671,10811.3571,344,345,0.6261,0.7288,0.7358
+albatroz_0143,albatroz,albatroz_raatd,Oceano Austral,2008,648,648,0,323.5,323.5,0.0,1,17,-61.0,104.0,0,306.636,8191.079,322,323,0.6563,0.7498,0.7337
+albatroz_0144,albatroz,albatroz_raatd,Oceano Austral,2009,670,670,0,334.5,334.5,0.0,1,23,-46.0,76.0,0,305.2937,9875.2793,333,334,0.6587,0.7644,0.7355
+albatroz_0145,albatroz,albatroz_raatd,Oceano Austral,2011,727,727,0,363.0,363.0,0.0,1,13,-47.0,73.0,0,261.6265,10948.688,362,363,0.7603,0.7335,0.7097
+albatroz_0146,albatroz,albatroz_raatd,Oceano Austral,2007,756,756,0,377.5,377.5,0.0,1,10,-51.0,66.0,96,332.3383,11223.2823,376,377,0.7374,0.7616,0.7511
+albatroz_0147,albatroz,albatroz_raatd,Oceano Austral,2007,717,717,0,358.0,358.0,0.0,1,51,-50.0,112.0,0,188.7387,10076.6026,357,358,0.5307,0.7429,0.7334
+albatroz_0148,albatroz,albatroz_raatd,Oceano Austral,2007,735,735,0,367.0,367.0,0.0,1,4,-39.0,71.0,0,182.0325,10735.3952,366,367,0.6649,0.7582,0.7448
+albatroz_0149,albatroz,albatroz_raatd,Oceano Austral,2008,665,665,0,332.0,332.0,0.0,1,32,-46.0,71.0,96,183.8235,9913.6509,331,332,0.5934,0.7665,0.7578
+albatroz_0150,albatroz,albatroz_raatd,Oceano Austral,2007,678,678,0,338.5,338.5,0.0,1,2,-48.0,77.0,0,309.3771,9613.7074,337,338,0.7811,0.7391,0.6951
+albatroz_0151,albatroz,albatroz_raatd,Oceano Austral,2007,740,740,0,369.5,369.5,0.0,1,11,-52.0,64.0,96,236.8098,9569.4371,368,369,0.6477,0.739,0.7465
+albatroz_0152,albatroz,albatroz_raatd,Oceano Austral,2011,747,747,0,373.0,373.0,0.0,1,34,-41.0,47.0,0,307.1394,10264.4977,372,373,0.5979,0.7303,0.7354
+albatroz_0153,albatroz,albatroz_raatd,Oceano Austral,2007,734,734,0,366.5,366.5,0.0,1,3,-46.0,86.0,0,177.1086,11254.583,365,366,0.877,0.841,0.7849
+albatroz_0154,albatroz,albatroz_raatd,Oceano Austral,2007,726,726,0,362.5,362.5,0.0,1,1,-42.0,87.0,0,357.7156,10193.8179,361,362,0.6851,0.7325,0.7239
+albatroz_0155,albatroz,albatroz_raatd,Oceano Austral,2011,668,668,0,333.5,333.5,0.0,1,0,-46.0,74.0,0,217.2761,5523.3658,332,333,0.8228,0.8107,0.7991
+albatroz_0156,albatroz,albatroz_raatd,Oceano Austral,2007,729,729,0,364.0,364.0,0.0,1,29,-50.0,69.0,96,272.4548,10002.1343,363,364,0.5852,0.7679,0.7441
+albatroz_0157,albatroz,albatroz_raatd,Oceano Austral,2007,692,692,0,345.5,345.5,0.0,1,6,-44.0,92.0,0,300.0291,9881.2908,344,345,0.7681,0.7334,0.6788
+albatroz_0158,albatroz,albatroz_raatd,Oceano Austral,2006,540,540,0,22.25,22.4583,0.0,1,0,-55.0,-39.0,235,291.3733,2760.6087,21,22,0.4545,0.7318,0.6875
+albatroz_0159,albatroz,albatroz_raatd,Oceano Austral,2009,334,334,0,13.75,13.875,0.0,1,0,-54.0,-39.0,235,305.9049,2313.2069,12,13,0.6154,0.8,0.8673
+albatroz_0160,albatroz,albatroz_raatd,Oceano Austral,2009,252,252,0,10.25,10.4583,0.0,1,0,-55.0,-39.0,235,265.4762,1268.302,9,10,0.5,0.525,0.67
+albatroz_0161,albatroz,albatroz_raatd,Oceano Austral,2006,516,516,0,21.25,21.4583,0.0,1,0,-55.0,-39.0,235,225.316,1364.3803,20,21,0.6667,0.7512,0.7548
+albatroz_0162,albatroz,albatroz_raatd,Oceano Austral,2006,389,389,0,16.0,16.1667,0.0,1,0,-55.0,-39.0,235,252.2256,1286.8039,15,16,0.75,0.7359,0.7281
+albatroz_0163,albatroz,albatroz_raatd,Oceano Austral,2006,612,612,0,25.25,25.4583,0.0,1,0,-55.0,-39.0,235,442.6067,2680.924,24,25,0.8,0.796,0.815
+albatroz_0164,albatroz,albatroz_raatd,Oceano Austral,2006,173,173,0,7.0,7.1667,0.0,1,0,-55.0,-39.0,235,676.5159,2389.3421,6,7,0.5714,0.6964,0.8179
+albatroz_0165,albatroz,albatroz_raatd,Oceano Austral,2006,341,341,0,14.0,14.1667,0.0,1,0,-55.0,-38.0,235,166.0847,1299.6973,13,14,0.5,0.6964,0.7268
+albatroz_0166,albatroz,albatroz_raatd,Oceano Austral,2006,187,187,0,7.75,7.75,0.0,1,0,-55.0,-39.0,235,149.7602,1607.3573,6,7,0.0,0.4821,0.575
+albatroz_0167,albatroz,albatroz_raatd,Oceano Austral,2006,396,396,0,16.25,16.4583,0.0,1,0,-55.0,-39.0,235,417.4096,2775.8605,15,16,0.75,0.7328,0.7781
+albatroz_0168,albatroz,albatroz_raatd,Oceano Austral,2006,393,393,0,16.25,16.3333,0.0,1,0,-55.0,-39.0,235,429.6088,2297.2482,15,16,0.9375,0.725,0.8203
+albatroz_0169,albatroz,albatroz_raatd,Oceano Austral,2006,394,394,0,16.25,16.375,0.0,1,1,-54.0,-39.0,235,356.038,2431.4609,15,16,0.4375,0.7422,0.8094
+albatroz_0170,albatroz,albatroz_raatd,Oceano Austral,2009,276,276,0,11.25,11.4583,0.0,1,0,-54.0,-39.0,235,35.4935,2053.1641,10,11,0.0909,0.8841,0.8727
+albatroz_0171,albatroz,albatroz_raatd,Oceano Austral,2006,470,470,0,19.5,19.5417,0.0,1,0,-54.0,-39.0,235,404.1579,2368.5579,18,19,0.8421,0.7526,0.7368
+albatroz_0172,albatroz,albatroz_raatd,Oceano Austral,2009,175,175,0,7.25,7.25,0.0,1,0,-55.0,-39.0,235,638.5867,1672.6916,6,7,0.4286,0.7,0.7179
+albatroz_0173,albatroz,albatroz_raatd,Oceano Austral,2009,390,390,0,16.0,16.2083,0.0,1,0,-54.0,-39.0,235,654.0917,2823.9949,15,16,0.8125,0.7547,0.7797
+albatroz_0174,albatroz,albatroz_raatd,Oceano Austral,2009,265,265,0,11.0,11.0,0.0,1,0,-54.0,-39.0,235,430.313,1666.5977,10,11,0.7273,0.7318,0.7477
+albatroz_0175,albatroz,albatroz_raatd,Oceano Austral,2009,318,318,0,13.0,13.2083,0.0,1,0,-55.0,-39.0,235,392.7249,2523.2256,12,13,0.6154,0.8269,0.8038
+albatroz_0176,albatroz,albatroz_raatd,Oceano Austral,2009,169,169,0,7.0,7.0,0.0,1,0,-54.0,-39.0,235,496.4527,1613.2928,6,7,0.5714,0.725,0.7393
+albatroz_0177,albatroz,albatroz_raatd,Oceano Austral,2006,319,319,0,13.25,13.25,0.0,1,0,-54.0,-39.0,235,345.3966,1644.1884,12,13,0.6923,0.7615,0.7865
+albatroz_0178,albatroz,albatroz_raatd,Oceano Austral,2006,435,435,0,18.0,18.0833,0.0,1,0,-55.0,-39.0,235,315.4543,1530.1533,17,18,0.6111,0.6431,0.6708
+albatroz_0179,albatroz,albatroz_raatd,Oceano Austral,2009,288,288,1,11.75,11.9583,0.0,1,0,-54.0,-39.0,235,206.1967,1803.4818,10,11,0.7273,0.6932,0.6682
+albatroz_0180,albatroz,albatroz_raatd,Oceano Austral,2006,316,316,0,13.0,13.125,0.0,1,0,-55.0,-39.0,235,98.0585,539.1447,12,13,0.0769,0.4308,0.4731
+albatroz_0181,albatroz,albatroz_raatd,Oceano Austral,2009,196,196,0,8.0,8.125,0.0,1,0,-55.0,-39.0,235,358.3407,1591.9178,7,8,1.0,0.7375,0.7719
+albatroz_0182,albatroz,albatroz_raatd,Oceano Austral,2006,202,202,0,8.25,8.375,0.0,1,0,-55.0,-39.0,235,34.0771,350.8518,7,8,0.0,0.0719,0.0594
+albatroz_0183,albatroz,albatroz_raatd,Oceano Austral,2006,344,344,3,14.25,14.2917,0.0,1,0,-55.0,-39.0,235,302.1005,1677.8646,13,14,0.1429,0.7125,0.6786
+albatroz_0184,albatroz,albatroz_raatd,Oceano Austral,1997,555,555,0,46.0,46.1667,0.0,1,0,-47.0,38.0,93,117.2142,1360.9449,45,46,0.9783,0.7348,0.6799
+albatroz_0185,albatroz,albatroz_raatd,Oceano Austral,2012,334,334,0,13.75,13.875,0.0,1,0,-55.0,-39.0,235,169.1102,1306.7605,12,13,0.4615,0.5635,0.7077
+albatroz_0186,albatroz,albatroz_raatd,Oceano Austral,2012,308,308,0,12.75,12.7917,0.0,1,0,-55.0,-39.0,235,267.6307,1024.2197,11,12,1.0,0.6958,0.7688
+albatroz_0187,albatroz,albatroz_raatd,Oceano Austral,2012,354,354,0,14.5,14.7083,0.0,1,0,-54.0,-39.0,235,214.3446,1432.3556,13,14,0.2857,0.5821,0.6482
+albatroz_0188,albatroz,albatroz_raatd,Oceano Austral,2012,233,233,0,9.5,9.6667,0.0,1,0,-55.0,-39.0,235,154.9022,1016.8174,8,9,0.8889,0.4444,0.6889
+albatroz_0189,albatroz,albatroz_raatd,Oceano Austral,2012,336,336,0,13.75,13.9583,0.0,1,0,-54.0,-39.0,235,401.0674,2529.0001,12,13,0.6923,0.7846,0.7615
+albatroz_0190,albatroz,albatroz_raatd,Oceano Austral,2012,332,332,0,13.75,13.7917,0.0,1,0,-55.0,-39.0,235,79.8087,1249.6886,12,13,1.0,0.6885,0.7096
+albatroz_0191,albatroz,albatroz_raatd,Oceano Austral,2012,338,338,0,14.0,14.0417,0.0,1,0,-55.0,-39.0,235,98.6911,1254.2873,13,14,0.3571,0.5286,0.4482
+albatroz_0192,albatroz,albatroz_raatd,Oceano Austral,2012,418,418,0,17.25,17.375,0.0,1,0,-55.0,-39.0,235,71.8231,2019.3492,16,17,0.2941,0.5324,0.4794
+albatroz_0193,albatroz,albatroz_raatd,Oceano Austral,2012,211,211,0,8.75,8.75,0.0,1,0,-55.0,-39.0,235,423.6502,1640.3745,7,8,0.75,0.6625,0.6344
+albatroz_0194,albatroz,albatroz_raatd,Oceano Austral,2012,300,300,0,12.25,12.4583,0.0,1,0,-55.0,-39.0,235,489.1145,2802.2228,11,12,0.9167,0.7562,0.7958
+albatroz_0195,albatroz,albatroz_raatd,Oceano Austral,2012,411,411,0,17.0,17.0833,0.0,1,0,-55.0,-39.0,235,168.2112,1326.4507,16,17,0.7059,0.6618,0.6794
+albatroz_0196,albatroz,albatroz_raatd,Oceano Austral,2012,306,306,0,12.5,12.7083,0.0,1,0,-55.0,-39.0,235,302.892,1364.875,11,12,0.8333,0.5812,0.7458
+albatroz_0197,albatroz,albatroz_raatd,Oceano Austral,2012,516,516,0,21.25,21.4583,0.0,1,0,-55.0,-39.0,235,356.077,3074.0757,20,21,0.9524,0.7786,0.7881
+albatroz_0198,albatroz,albatroz_raatd,Oceano Austral,2012,414,414,0,17.0,17.2083,0.0,1,0,-55.0,-39.0,235,134.6457,2209.815,16,17,0.2353,0.6765,0.7044
+albatroz_0199,albatroz,albatroz_raatd,Oceano Austral,2012,321,321,0,13.25,13.3333,0.0,1,0,-55.0,-39.0,235,28.6639,245.8891,12,13,0.0,0.0,0.0
+albatroz_0200,albatroz,albatroz_raatd,Oceano Austral,2012,405,405,0,16.75,16.8333,0.0,1,0,-55.0,-39.0,235,237.6816,1938.0723,15,16,0.375,0.7141,0.7
+albatroz_0201,albatroz,albatroz_raatd,Oceano Austral,2012,218,218,0,9.0,9.0417,0.0,1,0,-55.0,-39.0,235,35.4797,1051.1487,8,9,0.8889,0.4944,0.4806
+albatroz_0202,albatroz,albatroz_raatd,Oceano Austral,2012,333,333,0,13.75,13.8333,0.0,1,0,-54.0,-39.0,235,343.7376,2229.7765,12,13,0.6154,0.7115,0.6635
+albatroz_0203,albatroz,albatroz_raatd,Oceano Austral,2012,362,362,0,15.0,15.0417,0.0,1,0,-55.0,-39.0,235,334.6671,1920.7041,14,15,0.8667,0.75,0.7883
+albatroz_0204,albatroz,albatroz_raatd,Oceano Austral,2012,312,312,0,12.75,12.9583,0.0,1,0,-55.0,-39.0,235,259.5154,1623.48,11,12,0.5833,0.6979,0.8104
+albatroz_0205,albatroz,albatroz_raatd,Oceano Austral,2012,320,320,0,13.25,13.2917,0.0,1,0,-55.0,-39.0,235,183.6337,1084.8423,12,13,0.8462,0.7788,0.7308
+albatroz_0206,albatroz,albatroz_raatd,Oceano Austral,2012,220,220,0,9.0,9.125,0.0,1,0,-55.0,-39.0,235,278.8224,1297.314,8,9,0.6667,0.6306,0.6583
+albatroz_0207,albatroz,albatroz_raatd,Oceano Austral,2012,356,356,0,14.75,14.7917,0.0,1,0,-55.0,-39.0,235,252.7626,2008.9449,13,14,0.9286,0.8071,0.7536
+albatroz_0208,albatroz,albatroz_raatd,Oceano Austral,2012,334,334,0,13.75,13.875,0.0,1,0,-55.0,-39.0,235,264.7267,2415.1413,12,13,0.7692,0.65,0.6846
+albatroz_0209,albatroz,albatroz_raatd,Oceano Austral,2012,564,564,0,23.25,23.4583,0.0,1,0,-55.0,-39.0,235,298.3519,2449.1611,22,23,0.6522,0.7348,0.7076
+albatroz_0210,albatroz,albatroz_raatd,Oceano Austral,2012,423,423,0,17.5,17.5833,0.0,1,0,-54.0,-39.0,235,387.7242,3035.4369,16,17,0.8824,0.7529,0.7897
+albatroz_0211,albatroz,albatroz_raatd,Oceano Austral,2012,401,401,0,16.5,16.6667,0.0,1,0,-55.0,-39.0,235,253.8025,2037.603,15,16,0.75,0.6438,0.7141
+albatroz_0212,albatroz,albatroz_raatd,Oceano Austral,2012,389,389,0,16.0,16.1667,0.0,1,0,-55.0,-39.0,235,201.9124,1673.262,15,16,0.375,0.625,0.7125
+albatroz_0213,albatroz,albatroz_raatd,Oceano Austral,2012,340,340,0,14.0,14.125,0.0,1,0,-55.0,-39.0,235,151.4955,1328.6369,13,14,0.3571,0.5768,0.5839
+albatroz_0214,albatroz,albatroz_raatd,Oceano Austral,2012,244,244,0,10.0,10.125,0.0,1,0,-54.0,-39.0,235,514.4004,2852.8285,9,10,0.8,0.745,0.795
+albatroz_0215,albatroz,albatroz_raatd,Oceano Austral,2012,269,269,0,11.0,11.1667,0.0,1,0,-55.0,-39.0,235,297.3692,1933.6068,10,11,0.7273,0.6841,0.5977
+albatroz_0216,albatroz,albatroz_raatd,Oceano Austral,2012,227,227,0,9.25,9.4167,0.0,1,0,-55.0,-39.0,235,398.6833,1651.917,8,9,0.8889,0.6167,0.6583
+albatroz_0217,albatroz,albatroz_raatd,Oceano Austral,2012,473,473,0,19.5,19.6667,0.0,1,0,-55.0,-39.0,235,286.5088,2021.4903,18,19,0.6842,0.6658,0.7579
+albatroz_0218,albatroz,albatroz_raatd,Oceano Austral,2012,188,188,0,7.75,7.7917,0.0,1,0,-55.0,-39.0,235,43.6458,398.1878,6,7,0.0,0.1821,0.1286
+albatroz_0219,albatroz,albatroz_raatd,Oceano Austral,2012,264,264,0,10.75,10.9583,0.0,1,0,-55.0,-39.0,235,297.8596,1443.8594,9,10,0.7,0.72,0.7675
+albatroz_0220,albatroz,albatroz_raatd,Oceano Austral,2012,292,292,0,12.0,12.125,0.0,1,0,-55.0,-39.0,235,152.9135,1274.8989,11,12,0.5833,0.6146,0.5146

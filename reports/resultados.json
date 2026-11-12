@@ -1,0 +1,3942 @@
+{
+ "coleta": {
+  "data_da_coleta": "2026-11-12",
+  "conjuntos": {
+   "couro_africa_sul_1": {
+    "especie": "couro",
+    "id_obis": "30bc7528-925f-4df4-b89b-d204ab024294",
+    "populacao": "África do Sul (Índico sudoeste)",
+    "registros": 3630,
+    "data_da_coleta": "2026-11-12",
+    "titulo": "Leatherback Tracking in South Africa",
+    "citacao": "Luschi, P. 2012. Leatherback Tracking in South Africa. Version 1.0.0. Dataset published in OBIS-SEAMAP. https://doi.org/10.82144/e379e535.",
+    "doi": "https://doi.org/10.82144/e379e535",
+    "licenca": "CC BY 4.0",
+    "publicado": "2025-10-07"
+   },
+   "couro_africa_sul_2": {
+    "especie": "couro",
+    "id_obis": "021165f1-0a42-4ae6-a651-c8dda089475a",
+    "populacao": "África do Sul (Índico sudoeste)",
+    "registros": 1841,
+    "data_da_coleta": "2026-11-12",
+    "titulo": "Revealing migratory behaviour of South African leatherback turtles",
+    "citacao": "Robinson, N. 2020. Revealing migratory behaviour of South African leatherback turtles. Version 1.0.0. Dataset published in OBIS-SEAMAP. https://doi.org/10.82144/cf4235bc.",
+    "doi": "https://doi.org/10.82144/cf4235bc",
+    "licenca": "CC BY-NC 4.0",
+    "publicado": "2025-10-08"
+   },
+   "cabecuda_pacifico_norte": {
+    "especie": "cabecuda",
+    "id_obis": "3b71a712-ca34-4368-a029-52b5db32b140",
+    "populacao": "Pacífico Norte",
+    "registros": 44085,
+    "data_da_coleta": "2026-11-12",
+    "titulo": "NMFS Turtle Tracking",
+    "citacao": "Parker, D., G. Balazs and J. Polovina. 2015. NMFS Turtle Tracking. Version 1.0.0. Dataset published in OBIS-SEAMAP. https://doi.org/10.82144/a625ffd3.",
+    "doi": "https://doi.org/10.82144/a625ffd3",
+    "licenca": "CC BY-NC 4.0",
+    "publicado": "2025-10-07"
+   },
+   "cabecuda_pacifico_juvenis": {
+    "especie": "cabecuda",
+    "id_obis": "f0134b03-3f28-4a87-b596-f08c896fe9d5",
+    "populacao": "Pacífico Norte",
+    "registros": 6862,
+    "data_da_coleta": "2026-11-12",
+    "titulo": "SWFSC juvenile loggerhead sea turtle tracking 2002-2005",
+    "citacao": "Dutton, P. and G. Balazs. 2025. SWFSC juvenile loggerhead sea turtle tracking 2002-2005. Version 1.0.0. Dataset published in OBIS-SEAMAP. https://doi.org/10.82144/4774e438.",
+    "doi": "https://doi.org/10.82144/4774e438",
+    "licenca": "CC0",
+    "publicado": "2025-10-07"
+   },
+   "cabecuda_taiwan": {
+    "especie": "cabecuda",
+    "id_obis": "269609a8-58e6-4b58-86af-7d3b5cd44e71",
+    "populacao": "Pacífico Norte",
+    "registros": 5093,
+    "data_da_coleta": "2026-11-12",
+    "titulo": "Loggerhead turtle movement off the coast of Taiwan",
+    "citacao": "Parker, D., G. Balazs and J. Polovina. 2015. Loggerhead turtle movement off the coast of Taiwan. Version 1.0.0. Dataset published in OBIS-SEAMAP. https://doi.org/10.82144/6b228135.",
+    "doi": "https://doi.org/10.82144/6b228135",
+    "licenca": "CC BY-NC 4.0",
+    "publicado": "2025-10-08"
+   },
+   "cabecuda_japao": {
+    "especie": "cabecuda",
+    "id_obis": "08e9a21c-7acf-4b63-96dc-34e7a3611fcd",
+    "populacao": "Pacífico Norte",
+    "registros": 251,
+    "data_da_coleta": "2026-11-12",
+    "titulo": "Adult female loggerhead turtles around Japan 1999",
+    "citacao": "Hatase, H. 2017. Adult female loggerhead turtles around Japan 1999. Version 1.0.0. Dataset published in OBIS-SEAMAP. https://doi.org/10.82144/f8e64bfd.",
+    "doi": "https://doi.org/10.82144/f8e64bfd",
+    "licenca": "CC BY-NC 4.0",
+    "publicado": "2025-10-08"
+   },
+   "cabecuda_mediterraneo_oeste": {
+    "especie": "cabecuda",
+    "id_obis": "e69a5cc7-2c7d-4ef7-8662-a68a326bddad",
+    "populacao": "Mediterrâneo",
+    "registros": 24125,
+    "data_da_coleta": "2026-11-12",
+    "titulo": "Satellite-tracking of loggerhead sea turtles tracked from western Mediterranean",
+    "citacao": null,
+    "doi": null,
+    "licenca": "CC BY 4.0",
+    "publicado": "2026-10-08"
+   },
+   "cabecuda_creta": {
+    "especie": "cabecuda",
+    "id_obis": "0801a5a2-66e3-441c-83a3-25f0ef0fc0f5",
+    "populacao": "Mediterrâneo",
+    "registros": 3479,
+    "data_da_coleta": "2026-11-12",
+    "titulo": "Loggerhead satellite tracking data from Rethymno, Crete, Greece",
+    "citacao": "Patel, S. 2018. Loggerhead satellite tracking data from Rethymno, Crete, Greece. Version 1.0.0. Dataset published in OBIS-SEAMAP. https://doi.org/10.82144/74defb4c.",
+    "doi": "https://doi.org/10.82144/74defb4c",
+    "licenca": "CC BY-NC 4.0",
+    "publicado": "2025-10-08"
+   },
+   "cabecuda_reuniao": {
+    "especie": "cabecuda",
+    "id_obis": "7687b242-05b7-48d7-a316-ba6dc34e72b5",
+    "populacao": "Índico sudoeste",
+    "registros": 20139,
+    "data_da_coleta": "2026-11-12",
+    "titulo": "IFREMER/Kélonia satellite tracked late juvenile loggerhead sea turtles from Réunion Island 2008-2012",
+    "citacao": "Bourjea, J. 2014. IFREMER/Kélonia satellite tracked late juvenile loggerhead sea turtles from Réunion Island 2008-2012. Version 1.0.0. Dataset published in OBIS-SEAMAP. https://doi.org/10.82144/a6d70b9a.",
+    "doi": "https://doi.org/10.82144/a6d70b9a",
+    "licenca": "CC BY-NC 4.0",
+    "publicado": "2025-10-08"
+   },
+   "cabecuda_mocambique": {
+    "especie": "cabecuda",
+    "id_obis": "b606c4a0-d693-4a03-9086-0be6e501c0fc",
+    "populacao": "Índico sudoeste",
+    "registros": 1258,
+    "data_da_coleta": "2026-11-12",
+    "titulo": "AICM satellite tracked loggerhead sea turtles from Mozambique 2012 under SWIOFP",
+    "citacao": "Videira, E., M. Dalleau, J. Bourjea and M. Pereira. 2015. AICM satellite tracked loggerhead sea turtles from Mozambique 2012 under SWIOFP. Version 1.0.0. Dataset published in OBIS-SEAMAP. https://doi.org/10.82144/3836a080.",
+    "doi": "https://doi.org/10.82144/3836a080",
+    "licenca": "CC BY 4.0",
+    "publicado": "2025-10-08"
+   },
+   "cabecuda_bonaire": {
+    "especie": "cabecuda",
+    "id_obis": "5ab87d96-5ef6-4886-b295-4e08d01ab65a",
+    "populacao": "Caribe",
+    "registros": 695,
+    "data_da_coleta": "2026-11-12",
+    "titulo": "Sea turtle tracking in Bonaire 2003-2011",
+    "citacao": "Nava, M. 2013. Sea turtle tracking in Bonaire 2003-2011. Version 1.0.0. Dataset published in OBIS-SEAMAP. https://doi.org/10.82144/1c6f0a7e.",
+    "doi": "https://doi.org/10.82144/1c6f0a7e",
+    "licenca": "CC BY-NC 4.0",
+    "publicado": "2025-10-07"
+   },
+   "baleia_galapagos": {
+    "especie": "baleia",
+    "id_obis": "7a9532d6-bfd2-49e9-b595-c4e7daebfc72",
+    "populacao": "Galápagos (Pacífico leste)",
+    "registros": 2813,
+    "data_da_coleta": "2026-11-12",
+    "titulo": "Datos de marcaje satelital de Rhincodon typus (Tiburon ballena) en Galápagos, Ecuador",
+    "citacao": "Hearn A R (2025). Datos de marcaje satelital de Rhincodon typus (Tiburon ballena) en Galápagos, Ecuador. Version 1.0. Universidad San Francisco de Quito USFQ. Occurrence dataset. https://doi.org/10.60545/wrv1ca",
+    "doi": "https://doi.org/10.60545/wrv1ca",
+    "licenca": "CC BY 4.0",
+    "publicado": "2025-03-13"
+   },
+   "baleia_mar_de_coral": {
+    "especie": "baleia",
+    "id_obis": "538763eb-b436-414b-b353-df94b40187a1",
+    "populacao": "Mar de Coral (Pacífico oeste)",
+    "registros": 2391,
+    "data_da_coleta": "2026-11-12",
+    "titulo": "Sightings and tracking of  Whale Sharks (Rhincodon typus) in the Coral Sea (2007-2024)",
+    "citacao": "Miller, I.B., Fitzpatrick, R., Abrantes, K.G., Norman, B., Pierce, S.J., Erdmann, M.V., Hoopes, L.A., Dudgeon, C., Dunbabin, M.D., Dove, A.D.M., Beaman, R.J., Reynolds, S.D., Rohner, C., Williams, S.M., Paton, D., Lewis, S. and Barnett, A. (2025), The Needle in the Haystack: Uncovering the First Whale Shark (Rhincodon typus) Aggregation in the Coral Sea. Ecol Evol, 15: e71552. https://doi.org/10.1002/ece3.71552",
+    "doi": " https://doi.org/10.1002/ece3.71552",
+    "licenca": "CC BY 4.0",
+    "publicado": "2026-07-13"
+   },
+   "elefante_raatd": {
+    "especie": "elefante",
+    "id_obis": "48cb8624-a221-47ed-9a6d-b99b0bb394e0",
+    "populacao": "Oceano Austral",
+    "registros": 914197,
+    "data_da_coleta": "2026-11-12",
+    "titulo": "The Retrospective Analysis of Antarctic Tracking (Standardised) Data from the Scientific Committee on Antarctic Research",
+    "citacao": "Ropert-Coudert Y, Van de Putte A P, Bornemann H, Charrassin J, Costa D P, Danis B, Hückstädt L A, Jonsen I D, Lea M, Reisinger R R, Thompson D, Torres L G, Trathan P N, Wotherspoon S, Ainley D G, Alderman R, Andrews-Goff V, Arthur B, Ballard G, Bengtson J, Bester M N, Boehme L, Bost C, Boveng P, Cleeland J, Constantine R, Crawford R J M, Dalla Rosa L, de Bruyn P N, Delord K, Descamps S, Double M, Emmerson L, Fedak M, Friedlander A, Gales N, Goebel M, Goetz K T, Guinet C, Goldsworthy S D, Harcourt R, Hinke J, Jerosch K, Kato A, Kerry K R, Kirkwood R, Kooyma G L, Kovacs K M, Lawton K, Lowther A D, Lydersen C, Lyver P O, Makhado A B, Márquez M E I, McDonald B, McMahon C, Muelbert M, Nachtsheim D, Nicholls K W, Nordøy E S, Olmastroni S, Phillips R A, Pistorius P, Plötz J, Pütz K, Ratcliffe N, Ryan P G, Santos M, Schytte Blix A, Southwell C, Staniland I, Takahashi A, Tarroux A, Trivelpiece W, Wakefield E, Weimerskirch H, Wienecke B, Xavier J C, Raymond B, Hindell M A, Van de Putte A (2024). The Retrospective Analysis of Antarctic Tracking (Standardised) Data from the Scientific Committee on Antarctic Research. Version 1.5. SCAR - AntOBIS. Samplingevent dataset. https://ipt.biodiversity.aq/resource?r=scar_raatd_trackingdata&amp;v=1.5",
+    "doi": null,
+    "licenca": "CC BY 4.0",
+    "publicado": "2024-10-23"
+   },
+   "albatroz_raatd": {
+    "especie": "albatroz",
+    "id_obis": "48cb8624-a221-47ed-9a6d-b99b0bb394e0",
+    "populacao": "Oceano Austral",
+    "registros": 120821,
+    "data_da_coleta": "2026-11-12",
+    "titulo": "The Retrospective Analysis of Antarctic Tracking (Standardised) Data from the Scientific Committee on Antarctic Research",
+    "citacao": "Ropert-Coudert Y, Van de Putte A P, Bornemann H, Charrassin J, Costa D P, Danis B, Hückstädt L A, Jonsen I D, Lea M, Reisinger R R, Thompson D, Torres L G, Trathan P N, Wotherspoon S, Ainley D G, Alderman R, Andrews-Goff V, Arthur B, Ballard G, Bengtson J, Bester M N, Boehme L, Bost C, Boveng P, Cleeland J, Constantine R, Crawford R J M, Dalla Rosa L, de Bruyn P N, Delord K, Descamps S, Double M, Emmerson L, Fedak M, Friedlander A, Gales N, Goebel M, Goetz K T, Guinet C, Goldsworthy S D, Harcourt R, Hinke J, Jerosch K, Kato A, Kerry K R, Kirkwood R, Kooyma G L, Kovacs K M, Lawton K, Lowther A D, Lydersen C, Lyver P O, Makhado A B, Márquez M E I, McDonald B, McMahon C, Muelbert M, Nachtsheim D, Nicholls K W, Nordøy E S, Olmastroni S, Phillips R A, Pistorius P, Plötz J, Pütz K, Ratcliffe N, Ryan P G, Santos M, Schytte Blix A, Southwell C, Staniland I, Takahashi A, Tarroux A, Trivelpiece W, Wakefield E, Weimerskirch H, Wienecke B, Xavier J C, Raymond B, Hindell M A, Van de Putte A (2024). The Retrospective Analysis of Antarctic Tracking (Standardised) Data from the Scientific Committee on Antarctic Research. Version 1.5. SCAR - AntOBIS. Samplingevent dataset. https://ipt.biodiversity.aq/resource?r=scar_raatd_trackingdata&amp;v=1.5",
+    "doi": null,
+    "licenca": "CC BY 4.0",
+    "publicado": "2024-10-23"
+   }
+  },
+  "funil": {
+   "couro": {
+    "registros_baixados": 5471,
+    "sem_ser_telemetria": 0,
+    "sem_data_coordenada_ou_individuo": 0,
+    "individuos_brutos": 29,
+    "individuos_repetidos_entre_conjuntos": 0,
+    "posicoes_usadas": 4938,
+    "posicoes_tiradas_pelo_filtro_de_velocidade": 533,
+    "registros_dos_individuos_usados": 5471,
+    "individuos_usados": 29
+   },
+   "cabecuda": {
+    "registros_baixados": 105987,
+    "sem_ser_telemetria": 0,
+    "sem_data_coordenada_ou_individuo": 70,
+    "individuos_brutos": 302,
+    "individuos_repetidos_entre_conjuntos": 0,
+    "posicoes_usadas": 91779,
+    "posicoes_tiradas_pelo_filtro_de_velocidade": 13179,
+    "registros_dos_individuos_usados": 105853,
+    "individuos_curtos_demais": 9,
+    "individuos_usados": 293
+   },
+   "baleia": {
+    "registros_baixados": 5204,
+    "sem_ser_telemetria": 136,
+    "sem_data_coordenada_ou_individuo": 0,
+    "individuos_brutos": 76,
+    "individuos_repetidos_entre_conjuntos": 0,
+    "individuos_curtos_demais": 40,
+    "posicoes_usadas": 3052,
+    "posicoes_tiradas_pelo_filtro_de_velocidade": 11,
+    "registros_dos_individuos_usados": 4850,
+    "individuos_usados": 36
+   },
+   "elefante": {
+    "registros_baixados": 914197,
+    "sem_ser_telemetria": 437,
+    "sem_data_coordenada_ou_individuo": 0,
+    "individuos_brutos": 437,
+    "individuos_repetidos_entre_conjuntos": 0,
+    "posicoes_usadas": 913144,
+    "posicoes_tiradas_pelo_filtro_de_velocidade": 616,
+    "registros_dos_individuos_usados": 913760,
+    "individuos_usados": 437
+   },
+   "albatroz": {
+    "registros_baixados": 120821,
+    "sem_ser_telemetria": 253,
+    "sem_data_coordenada_ou_individuo": 0,
+    "individuos_brutos": 253,
+    "individuos_repetidos_entre_conjuntos": 0,
+    "posicoes_usadas": 117311,
+    "posicoes_tiradas_pelo_filtro_de_velocidade": 4,
+    "registros_dos_individuos_usados": 117315,
+    "individuos_curtos_demais": 33,
+    "individuos_usados": 220
+   }
+  },
+  "parametros": {
+   "passo_h": 6.0,
+   "falha_maxima_dias": 10.0,
+   "cortes_dias": [
+    14,
+    28,
+    56
+   ],
+   "minimo_posicoes": 10,
+   "minimo_dias": 7.0,
+   "estadia_minima_h": 24.0,
+   "caminhadas_por_individuo": 40,
+   "semente": 20261112,
+   "resolucao_da_grade_graus": 0.1,
+   "velocidade_maxima_kmh": {
+    "couro": 6.0,
+    "cabecuda": 6.0,
+    "baleia": 10.0,
+    "elefante": 12.0,
+    "albatroz": 110.0
+   },
+   "intervalo_minimo_h": 1.0
+  }
+ },
+ "geral": {
+  "individuos": 1015,
+  "especies": 5,
+  "conjuntos": 15,
+  "anos_de_animal": 511.7,
+  "registros_usados": 1147249,
+  "registros_baixados": 1151680,
+  "rastreamentos_baixados": 1097,
+  "rastreamentos_curtos_demais": 82,
+  "posicoes_tiradas_pelo_filtro_de_velocidade": 14343,
+  "licencas_dos_conjuntos": {
+   "CC BY 4.0": 7,
+   "CC BY-NC 4.0": 7,
+   "CC0": 1
+  },
+  "ano_inicial": 1996,
+  "ano_final": 2024,
+  "alto_mar_na_area_do_oceano": 0.6119,
+  "jurisdicoes_nacionais_usadas": 69
+ },
+ "descricao": {
+  "albatroz": {
+   "nome": "albatroz-errante",
+   "cientifico": "Diomedea exulans",
+   "individuos": 220,
+   "dias_rastreados": 42560.0,
+   "anos_de_animal": 116.5,
+   "duracao_mediana_dias": 245.2,
+   "duracao_p10_dias": 11.2,
+   "duracao_p90_dias": 367.0,
+   "registros": 117315,
+   "fracao_do_tempo_em_falhas": 0.0,
+   "fracao_das_amostras_em_terra": 0.0049,
+   "passo_diario_mediano_km": 253.7,
+   "distancia_maxima_mediana_km": 2959.0,
+   "ano_inicial": 1997,
+   "ano_final": 2013,
+   "conjuntos": 1,
+   "populacoes": [
+    "Oceano Austral"
+   ],
+   "marcados_em_alto_mar": 0.3227
+  },
+  "elefante": {
+   "nome": "elefante-marinho-do-sul",
+   "cientifico": "Mirounga leonina",
+   "individuos": 437,
+   "dias_rastreados": 76074.0,
+   "anos_de_animal": 208.3,
+   "duracao_mediana_dias": 183.8,
+   "duracao_p10_dias": 67.0,
+   "duracao_p90_dias": 281.8,
+   "registros": 913760,
+   "fracao_do_tempo_em_falhas": 0.0,
+   "fracao_das_amostras_em_terra": 0.0093,
+   "passo_diario_mediano_km": 25.8,
+   "distancia_maxima_mediana_km": 1733.0,
+   "ano_inicial": 1996,
+   "ano_final": 2013,
+   "conjuntos": 1,
+   "populacoes": [
+    "Oceano Austral"
+   ],
+   "marcados_em_alto_mar": 0.3822
+  },
+  "couro": {
+   "nome": "tartaruga-de-couro",
+   "cientifico": "Dermochelys coriacea",
+   "individuos": 29,
+   "dias_rastreados": 2955.0,
+   "anos_de_animal": 8.1,
+   "duracao_mediana_dias": 109.5,
+   "duracao_p10_dias": 43.6,
+   "duracao_p90_dias": 155.9,
+   "registros": 5471,
+   "fracao_do_tempo_em_falhas": 0.0648,
+   "fracao_das_amostras_em_terra": 0.0119,
+   "passo_diario_mediano_km": 29.2,
+   "distancia_maxima_mediana_km": 1393.0,
+   "ano_inicial": 1996,
+   "ano_final": 2013,
+   "conjuntos": 2,
+   "populacoes": [
+    "África do Sul (Índico sudoeste)"
+   ],
+   "marcados_em_alto_mar": 0.0
+  },
+  "cabecuda": {
+   "nome": "tartaruga-cabeçuda",
+   "cientifico": "Caretta caretta",
+   "individuos": 293,
+   "dias_rastreados": 62748.0,
+   "anos_de_animal": 171.8,
+   "duracao_mediana_dias": 162.5,
+   "duracao_p10_dias": 48.2,
+   "duracao_p90_dias": 463.1,
+   "registros": 105853,
+   "fracao_do_tempo_em_falhas": 0.0989,
+   "fracao_das_amostras_em_terra": 0.0111,
+   "passo_diario_mediano_km": 19.4,
+   "distancia_maxima_mediana_km": 1837.0,
+   "ano_inicial": 1997,
+   "ano_final": 2018,
+   "conjuntos": 9,
+   "populacoes": [
+    "Caribe",
+    "Mediterrâneo",
+    "Pacífico Norte",
+    "Índico sudoeste"
+   ],
+   "marcados_em_alto_mar": 0.1877
+  },
+  "baleia": {
+   "nome": "tubarão-baleia",
+   "cientifico": "Rhincodon typus",
+   "individuos": 36,
+   "dias_rastreados": 2558.0,
+   "anos_de_animal": 7.0,
+   "duracao_mediana_dias": 53.5,
+   "duracao_p10_dias": 16.5,
+   "duracao_p90_dias": 145.5,
+   "registros": 4850,
+   "fracao_do_tempo_em_falhas": 0.8881,
+   "fracao_das_amostras_em_terra": 0.0002,
+   "passo_diario_mediano_km": 26.5,
+   "distancia_maxima_mediana_km": 1047.0,
+   "ano_inicial": 2011,
+   "ano_final": 2024,
+   "conjuntos": 2,
+   "populacoes": [
+    "Galápagos (Pacífico leste)",
+    "Mar de Coral (Pacífico oeste)"
+   ],
+   "marcados_em_alto_mar": 0.1944
+  }
+ },
+ "alto_mar_por_especie": [
+  {
+   "especie": "albatroz",
+   "nome": "albatroz-errante",
+   "individuos": 220,
+   "tempo": 0.7261,
+   "tempo_inf": 0.704,
+   "tempo_sup": 0.7481,
+   "pontos": 0.669,
+   "pontos_inf_por_individuo": 0.64,
+   "pontos_sup_por_individuo": 0.6958,
+   "pontos_inf_ingenuo": 0.6663,
+   "pontos_sup_ingenuo": 0.6716,
+   "razao_das_larguras": 10.3546,
+   "diferenca": 0.0571,
+   "diferenca_inf": 0.0374,
+   "diferenca_sup": 0.0799,
+   "erro_dentro_de_cada_animal": -0.0,
+   "erro_de_quem_transmite_mais": 0.0572,
+   "media_por_individuo": 0.6483,
+   "mediana_por_individuo": 0.7262,
+   "individuos_que_foram_ao_alto_mar": 0.9864,
+   "individuos_com_mais_da_metade_em_alto_mar": 0.7818
+  },
+  {
+   "especie": "elefante",
+   "nome": "elefante-marinho-do-sul",
+   "individuos": 437,
+   "tempo": 0.8226,
+   "tempo_inf": 0.7975,
+   "tempo_sup": 0.8464,
+   "pontos": 0.8223,
+   "pontos_inf_por_individuo": 0.7972,
+   "pontos_sup_por_individuo": 0.8461,
+   "pontos_inf_ingenuo": 0.8215,
+   "pontos_sup_ingenuo": 0.8231,
+   "razao_das_larguras": 31.2048,
+   "diferenca": 0.0003,
+   "diferenca_inf": 0.0002,
+   "diferenca_sup": 0.0004,
+   "erro_dentro_de_cada_animal": 0.0003,
+   "erro_de_quem_transmite_mais": 0.0,
+   "media_por_individuo": 0.828,
+   "mediana_por_individuo": 0.9175,
+   "individuos_que_foram_ao_alto_mar": 0.9725,
+   "individuos_com_mais_da_metade_em_alto_mar": 0.9108
+  },
+  {
+   "especie": "couro",
+   "nome": "tartaruga-de-couro",
+   "individuos": 29,
+   "tempo": 0.2825,
+   "tempo_inf": 0.164,
+   "tempo_sup": 0.4125,
+   "pontos": 0.2656,
+   "pontos_inf_por_individuo": 0.167,
+   "pontos_sup_por_individuo": 0.3774,
+   "pontos_inf_ingenuo": 0.254,
+   "pontos_sup_ingenuo": 0.2774,
+   "razao_das_larguras": 8.9898,
+   "diferenca": 0.0169,
+   "diferenca_inf": -0.0483,
+   "diferenca_sup": 0.0809,
+   "erro_dentro_de_cada_animal": 0.0029,
+   "erro_de_quem_transmite_mais": 0.0141,
+   "media_por_individuo": 0.2587,
+   "mediana_por_individuo": 0.0776,
+   "individuos_que_foram_ao_alto_mar": 0.5172,
+   "individuos_com_mais_da_metade_em_alto_mar": 0.2414
+  },
+  {
+   "especie": "cabecuda",
+   "nome": "tartaruga-cabeçuda",
+   "individuos": 293,
+   "tempo": 0.6488,
+   "tempo_inf": 0.5974,
+   "tempo_sup": 0.6949,
+   "pontos": 0.4807,
+   "pontos_inf_por_individuo": 0.4158,
+   "pontos_sup_por_individuo": 0.5499,
+   "pontos_inf_ingenuo": 0.4777,
+   "pontos_sup_ingenuo": 0.4837,
+   "razao_das_larguras": 22.2676,
+   "diferenca": 0.1681,
+   "diferenca_inf": 0.1264,
+   "diferenca_sup": 0.2067,
+   "erro_dentro_de_cada_animal": -0.004,
+   "erro_de_quem_transmite_mais": 0.1722,
+   "media_por_individuo": 0.4471,
+   "mediana_por_individuo": 0.3882,
+   "individuos_que_foram_ao_alto_mar": 0.5631,
+   "individuos_com_mais_da_metade_em_alto_mar": 0.4812
+  },
+  {
+   "especie": "baleia",
+   "nome": "tubarão-baleia",
+   "individuos": 36,
+   "tempo": 0.225,
+   "tempo_inf": 0.119,
+   "tempo_sup": 0.3655,
+   "pontos": 0.2495,
+   "pontos_inf_por_individuo": 0.1341,
+   "pontos_sup_por_individuo": 0.4057,
+   "pontos_inf_ingenuo": 0.2375,
+   "pontos_sup_ingenuo": 0.2619,
+   "razao_das_larguras": 11.1505,
+   "diferenca": -0.0245,
+   "diferenca_inf": -0.0932,
+   "diferenca_sup": 0.0349,
+   "erro_dentro_de_cada_animal": -0.0067,
+   "erro_de_quem_transmite_mais": -0.0178,
+   "media_por_individuo": 0.3071,
+   "mediana_por_individuo": 0.0114,
+   "individuos_que_foram_ao_alto_mar": 0.4722,
+   "individuos_com_mais_da_metade_em_alto_mar": 0.3333
+  }
+ ],
+ "tempo_por_jurisdicao_principais": [
+  {
+   "especie": "Diomedea exulans",
+   "nome_comum": "albatroz-errante",
+   "jurisdicao": "Alto-mar",
+   "tipo": "alto-mar",
+   "fracao_do_tempo": 0.72608,
+   "ic95_inferior": 0.70431,
+   "ic95_superior": 0.74794,
+   "fracao_dos_registros": 0.66895,
+   "dias_de_animal": 30901.5,
+   "individuos_que_usaram": 217,
+   "individuos_da_especie": 220,
+   "chave_especie": "albatroz"
+  },
+  {
+   "especie": "Diomedea exulans",
+   "nome_comum": "albatroz-errante",
+   "jurisdicao": "França",
+   "tipo": "ZEE",
+   "fracao_do_tempo": 0.08133,
+   "ic95_inferior": 0.06934,
+   "ic95_superior": 0.09397,
+   "fracao_dos_registros": 0.06097,
+   "dias_de_animal": 3461.5,
+   "individuos_que_usaram": 119,
+   "individuos_da_especie": 220,
+   "chave_especie": "albatroz"
+  },
+  {
+   "especie": "Diomedea exulans",
+   "nome_comum": "albatroz-errante",
+   "jurisdicao": "Nova Zelândia",
+   "tipo": "ZEE",
+   "fracao_do_tempo": 0.06505,
+   "ic95_inferior": 0.04211,
+   "ic95_superior": 0.08844,
+   "fracao_dos_registros": 0.06275,
+   "dias_de_animal": 2768.5,
+   "individuos_que_usaram": 50,
+   "individuos_da_especie": 220,
+   "chave_especie": "albatroz"
+  },
+  {
+   "especie": "Diomedea exulans",
+   "nome_comum": "albatroz-errante",
+   "jurisdicao": "África do Sul",
+   "tipo": "ZEE",
+   "fracao_do_tempo": 0.04649,
+   "ic95_inferior": 0.03615,
+   "ic95_superior": 0.05809,
+   "fracao_dos_registros": 0.06874,
+   "dias_de_animal": 1978.8,
+   "individuos_que_usaram": 112,
+   "individuos_da_especie": 220,
+   "chave_especie": "albatroz"
+  },
+  {
+   "especie": "Diomedea exulans",
+   "nome_comum": "albatroz-errante",
+   "jurisdicao": "Austrália",
+   "tipo": "ZEE",
+   "fracao_do_tempo": 0.04632,
+   "ic95_inferior": 0.03385,
+   "ic95_superior": 0.06037,
+   "fracao_dos_registros": 0.04797,
+   "dias_de_animal": 1971.2,
+   "individuos_que_usaram": 99,
+   "individuos_da_especie": 220,
+   "chave_especie": "albatroz"
+  },
+  {
+   "especie": "Diomedea exulans",
+   "nome_comum": "albatroz-errante",
+   "jurisdicao": "Chile",
+   "tipo": "ZEE",
+   "fracao_do_tempo": 0.01986,
+   "ic95_inferior": 0.01038,
+   "ic95_superior": 0.03188,
+   "fracao_dos_registros": 0.01614,
+   "dias_de_animal": 845.2,
+   "individuos_que_usaram": 26,
+   "individuos_da_especie": 220,
+   "chave_especie": "albatroz"
+  },
+  {
+   "especie": "Rhincodon typus",
+   "nome_comum": "tubarão-baleia",
+   "jurisdicao": "Austrália",
+   "tipo": "ZEE",
+   "fracao_do_tempo": 0.3638,
+   "ic95_inferior": 0.21423,
+   "ic95_superior": 0.50519,
+   "fracao_dos_registros": 0.34392,
+   "dias_de_animal": 930.5,
+   "individuos_que_usaram": 15,
+   "individuos_da_especie": 36,
+   "chave_especie": "baleia"
+  },
+  {
+   "especie": "Rhincodon typus",
+   "nome_comum": "tubarão-baleia",
+   "jurisdicao": "Alto-mar",
+   "tipo": "alto-mar",
+   "fracao_do_tempo": 0.225,
+   "ic95_inferior": 0.11938,
+   "ic95_superior": 0.36323,
+   "fracao_dos_registros": 0.24948,
+   "dias_de_animal": 575.5,
+   "individuos_que_usaram": 17,
+   "individuos_da_especie": 36,
+   "chave_especie": "baleia"
+  },
+  {
+   "especie": "Rhincodon typus",
+   "nome_comum": "tubarão-baleia",
+   "jurisdicao": "Equador",
+   "tipo": "ZEE",
+   "fracao_do_tempo": 0.16499,
+   "ic95_inferior": 0.08771,
+   "ic95_superior": 0.26212,
+   "fracao_dos_registros": 0.16392,
+   "dias_de_animal": 422.0,
+   "individuos_que_usaram": 19,
+   "individuos_da_especie": 36,
+   "chave_especie": "baleia"
+  },
+  {
+   "especie": "Rhincodon typus",
+   "nome_comum": "tubarão-baleia",
+   "jurisdicao": "Papua-Nova Guiné",
+   "tipo": "ZEE",
+   "fracao_do_tempo": 0.15844,
+   "ic95_inferior": 0.05551,
+   "ic95_superior": 0.25753,
+   "fracao_dos_registros": 0.1134,
+   "dias_de_animal": 405.2,
+   "individuos_que_usaram": 7,
+   "individuos_da_especie": 36,
+   "chave_especie": "baleia"
+  },
+  {
+   "especie": "Rhincodon typus",
+   "nome_comum": "tubarão-baleia",
+   "jurisdicao": "Peru",
+   "tipo": "ZEE",
+   "fracao_do_tempo": 0.05004,
+   "ic95_inferior": 0.00123,
+   "ic95_superior": 0.13227,
+   "fracao_dos_registros": 0.07505,
+   "dias_de_animal": 128.0,
+   "individuos_que_usaram": 5,
+   "individuos_da_especie": 36,
+   "chave_especie": "baleia"
+  },
+  {
+   "especie": "Rhincodon typus",
+   "nome_comum": "tubarão-baleia",
+   "jurisdicao": "Costa Rica",
+   "tipo": "ZEE",
+   "fracao_do_tempo": 0.01789,
+   "ic95_inferior": 0.0,
+   "ic95_superior": 0.05589,
+   "fracao_dos_registros": 0.0299,
+   "dias_de_animal": 45.8,
+   "individuos_que_usaram": 3,
+   "individuos_da_especie": 36,
+   "chave_especie": "baleia"
+  },
+  {
+   "especie": "Caretta caretta",
+   "nome_comum": "tartaruga-cabeçuda",
+   "jurisdicao": "Alto-mar",
+   "tipo": "alto-mar",
+   "fracao_do_tempo": 0.64883,
+   "ic95_inferior": 0.59561,
+   "ic95_superior": 0.69521,
+   "fracao_dos_registros": 0.48069,
+   "dias_de_animal": 40712.8,
+   "individuos_que_usaram": 165,
+   "individuos_da_especie": 293,
+   "chave_especie": "cabecuda"
+  },
+  {
+   "especie": "Caretta caretta",
+   "nome_comum": "tartaruga-cabeçuda",
+   "jurisdicao": "Japão",
+   "tipo": "ZEE",
+   "fracao_do_tempo": 0.11047,
+   "ic95_inferior": 0.09296,
+   "ic95_superior": 0.12914,
+   "fracao_dos_registros": 0.06262,
+   "dias_de_animal": 6931.5,
+   "individuos_que_usaram": 143,
+   "individuos_da_especie": 293,
+   "chave_especie": "cabecuda"
+  },
+  {
+   "especie": "Caretta caretta",
+   "nome_comum": "tartaruga-cabeçuda",
+   "jurisdicao": "Espanha",
+   "tipo": "ZEE",
+   "fracao_do_tempo": 0.03345,
+   "ic95_inferior": 0.02192,
+   "ic95_superior": 0.04791,
+   "fracao_dos_registros": 0.10136,
+   "dias_de_animal": 2098.8,
+   "individuos_que_usaram": 40,
+   "individuos_da_especie": 293,
+   "chave_especie": "cabecuda"
+  },
+  {
+   "especie": "Caretta caretta",
+   "nome_comum": "tartaruga-cabeçuda",
+   "jurisdicao": "China",
+   "tipo": "ZEE",
+   "fracao_do_tempo": 0.02946,
+   "ic95_inferior": 0.01462,
+   "ic95_superior": 0.04788,
+   "fracao_dos_registros": 0.0161,
+   "dias_de_animal": 1848.8,
+   "individuos_que_usaram": 28,
+   "individuos_da_especie": 293,
+   "chave_especie": "cabecuda"
+  },
+  {
+   "especie": "Caretta caretta",
+   "nome_comum": "tartaruga-cabeçuda",
+   "jurisdicao": "Grécia",
+   "tipo": "ZEE",
+   "fracao_do_tempo": 0.02308,
+   "ic95_inferior": 0.01128,
+   "ic95_superior": 0.03784,
+   "fracao_dos_registros": 0.0257,
+   "dias_de_animal": 1448.5,
+   "individuos_que_usaram": 20,
+   "individuos_da_especie": 293,
+   "chave_especie": "cabecuda"
+  },
+  {
+   "especie": "Caretta caretta",
+   "nome_comum": "tartaruga-cabeçuda",
+   "jurisdicao": "Tunísia",
+   "tipo": "ZEE",
+   "fracao_do_tempo": 0.015,
+   "ic95_inferior": 0.00734,
+   "ic95_superior": 0.02441,
+   "fracao_dos_registros": 0.03006,
+   "dias_de_animal": 941.0,
+   "individuos_que_usaram": 21,
+   "individuos_da_especie": 293,
+   "chave_especie": "cabecuda"
+  },
+  {
+   "especie": "Dermochelys coriacea",
+   "nome_comum": "tartaruga-de-couro",
+   "jurisdicao": "África do Sul",
+   "tipo": "ZEE",
+   "fracao_do_tempo": 0.35305,
+   "ic95_inferior": 0.25867,
+   "ic95_superior": 0.45533,
+   "fracao_dos_registros": 0.44581,
+   "dias_de_animal": 1043.2,
+   "individuos_que_usaram": 29,
+   "individuos_da_especie": 29,
+   "chave_especie": "couro"
+  },
+  {
+   "especie": "Dermochelys coriacea",
+   "nome_comum": "tartaruga-de-couro",
+   "jurisdicao": "Moçambique",
+   "tipo": "ZEE",
+   "fracao_do_tempo": 0.32132,
+   "ic95_inferior": 0.17192,
+   "ic95_superior": 0.48904,
+   "fracao_dos_registros": 0.22318,
+   "dias_de_animal": 949.5,
+   "individuos_que_usaram": 18,
+   "individuos_da_especie": 29,
+   "chave_especie": "couro"
+  },
+  {
+   "especie": "Dermochelys coriacea",
+   "nome_comum": "tartaruga-de-couro",
+   "jurisdicao": "Alto-mar",
+   "tipo": "alto-mar",
+   "fracao_do_tempo": 0.28249,
+   "ic95_inferior": 0.16246,
+   "ic95_superior": 0.40718,
+   "fracao_dos_registros": 0.26558,
+   "dias_de_animal": 834.8,
+   "individuos_que_usaram": 15,
+   "individuos_da_especie": 29,
+   "chave_especie": "couro"
+  },
+  {
+   "especie": "Dermochelys coriacea",
+   "nome_comum": "tartaruga-de-couro",
+   "jurisdicao": "Namíbia",
+   "tipo": "ZEE",
+   "fracao_do_tempo": 0.0286,
+   "ic95_inferior": 0.0,
+   "ic95_superior": 0.0731,
+   "fracao_dos_registros": 0.05758,
+   "dias_de_animal": 84.5,
+   "individuos_que_usaram": 3,
+   "individuos_da_especie": 29,
+   "chave_especie": "couro"
+  },
+  {
+   "especie": "Dermochelys coriacea",
+   "nome_comum": "tartaruga-de-couro",
+   "jurisdicao": "Madagascar",
+   "tipo": "ZEE",
+   "fracao_do_tempo": 0.01049,
+   "ic95_inferior": 0.0,
+   "ic95_superior": 0.03561,
+   "fracao_dos_registros": 0.00585,
+   "dias_de_animal": 31.0,
+   "individuos_que_usaram": 1,
+   "individuos_da_especie": 29,
+   "chave_especie": "couro"
+  },
+  {
+   "especie": "Dermochelys coriacea",
+   "nome_comum": "tartaruga-de-couro",
+   "jurisdicao": "França",
+   "tipo": "ZEE",
+   "fracao_do_tempo": 0.00406,
+   "ic95_inferior": 0.0,
+   "ic95_superior": 0.01196,
+   "fracao_dos_registros": 0.00201,
+   "dias_de_animal": 12.0,
+   "individuos_que_usaram": 2,
+   "individuos_da_especie": 29,
+   "chave_especie": "couro"
+  },
+  {
+   "especie": "Mirounga leonina",
+   "nome_comum": "elefante-marinho-do-sul",
+   "jurisdicao": "Alto-mar",
+   "tipo": "alto-mar",
+   "fracao_do_tempo": 0.8226,
+   "ic95_inferior": 0.79778,
+   "ic95_superior": 0.84554,
+   "fracao_dos_registros": 0.82229,
+   "dias_de_animal": 62578.5,
+   "individuos_que_usaram": 425,
+   "individuos_da_especie": 437,
+   "chave_especie": "elefante"
+  },
+  {
+   "especie": "Mirounga leonina",
+   "nome_comum": "elefante-marinho-do-sul",
+   "jurisdicao": "Área em disputa: Argentina / Reino Unido",
+   "tipo": "disputa ou regime conjunto",
+   "fracao_do_tempo": 0.05209,
+   "ic95_inferior": 0.03712,
+   "ic95_superior": 0.06924,
+   "fracao_dos_registros": 0.05214,
+   "dias_de_animal": 3963.0,
+   "individuos_que_usaram": 109,
+   "individuos_da_especie": 437,
+   "chave_especie": "elefante"
+  },
+  {
+   "especie": "Mirounga leonina",
+   "nome_comum": "elefante-marinho-do-sul",
+   "jurisdicao": "África do Sul",
+   "tipo": "ZEE",
+   "fracao_do_tempo": 0.04488,
+   "ic95_inferior": 0.03272,
+   "ic95_superior": 0.05857,
+   "fracao_dos_registros": 0.045,
+   "dias_de_animal": 3414.0,
+   "individuos_que_usaram": 101,
+   "individuos_da_especie": 437,
+   "chave_especie": "elefante"
+  },
+  {
+   "especie": "Mirounga leonina",
+   "nome_comum": "elefante-marinho-do-sul",
+   "jurisdicao": "França",
+   "tipo": "ZEE",
+   "fracao_do_tempo": 0.03238,
+   "ic95_inferior": 0.02203,
+   "ic95_superior": 0.04396,
+   "fracao_dos_registros": 0.03243,
+   "dias_de_animal": 2463.0,
+   "individuos_que_usaram": 89,
+   "individuos_da_especie": 437,
+   "chave_especie": "elefante"
+  },
+  {
+   "especie": "Mirounga leonina",
+   "nome_comum": "elefante-marinho-do-sul",
+   "jurisdicao": "Austrália",
+   "tipo": "ZEE",
+   "fracao_do_tempo": 0.03016,
+   "ic95_inferior": 0.02197,
+   "ic95_superior": 0.03947,
+   "fracao_dos_registros": 0.03023,
+   "dias_de_animal": 2294.5,
+   "individuos_que_usaram": 111,
+   "individuos_da_especie": 437,
+   "chave_especie": "elefante"
+  },
+  {
+   "especie": "Mirounga leonina",
+   "nome_comum": "elefante-marinho-do-sul",
+   "jurisdicao": "Reino Unido",
+   "tipo": "ZEE",
+   "fracao_do_tempo": 0.00756,
+   "ic95_inferior": 0.0025,
+   "ic95_superior": 0.01529,
+   "fracao_dos_registros": 0.00757,
+   "dias_de_animal": 575.0,
+   "individuos_que_usaram": 21,
+   "individuos_da_especie": 437,
+   "chave_especie": "elefante"
+  }
+ ],
+ "vies_de_marcacao": [
+  {
+   "especie": "albatroz",
+   "dias_descartados": 0,
+   "individuos": 220,
+   "dias_de_animal": 42559.5,
+   "estimativa": 0.7261,
+   "inferior": 0.7022,
+   "superior": 0.7489
+  },
+  {
+   "especie": "albatroz",
+   "dias_descartados": 14,
+   "individuos": 170,
+   "dias_de_animal": 39615.5,
+   "estimativa": 0.7329,
+   "inferior": 0.7072,
+   "superior": 0.7565
+  },
+  {
+   "especie": "albatroz",
+   "dias_descartados": 28,
+   "individuos": 130,
+   "dias_de_animal": 37645.0,
+   "estimativa": 0.7335,
+   "inferior": 0.7085,
+   "superior": 0.7583
+  },
+  {
+   "especie": "albatroz",
+   "dias_descartados": 56,
+   "individuos": 125,
+   "dias_de_animal": 34073.0,
+   "estimativa": 0.7326,
+   "inferior": 0.7042,
+   "superior": 0.7599
+  },
+  {
+   "especie": "elefante",
+   "dias_descartados": 0,
+   "individuos": 437,
+   "dias_de_animal": 76073.75,
+   "estimativa": 0.8226,
+   "inferior": 0.7988,
+   "superior": 0.8457
+  },
+  {
+   "especie": "elefante",
+   "dias_descartados": 14,
+   "individuos": 434,
+   "dias_de_animal": 69966.25,
+   "estimativa": 0.8364,
+   "inferior": 0.8108,
+   "superior": 0.8612
+  },
+  {
+   "especie": "elefante",
+   "dias_descartados": 28,
+   "individuos": 430,
+   "dias_de_animal": 63914.0,
+   "estimativa": 0.8306,
+   "inferior": 0.8048,
+   "superior": 0.8547
+  },
+  {
+   "especie": "elefante",
+   "dias_descartados": 56,
+   "individuos": 412,
+   "dias_de_animal": 52083.0,
+   "estimativa": 0.8144,
+   "inferior": 0.7863,
+   "superior": 0.8414
+  },
+  {
+   "especie": "couro",
+   "dias_descartados": 0,
+   "individuos": 29,
+   "dias_de_animal": 2955.0,
+   "estimativa": 0.2825,
+   "inferior": 0.1599,
+   "superior": 0.4095
+  },
+  {
+   "especie": "couro",
+   "dias_descartados": 14,
+   "individuos": 29,
+   "dias_de_animal": 2563.0,
+   "estimativa": 0.3221,
+   "inferior": 0.1864,
+   "superior": 0.462
+  },
+  {
+   "especie": "couro",
+   "dias_descartados": 28,
+   "individuos": 27,
+   "dias_de_animal": 2188.0,
+   "estimativa": 0.3469,
+   "inferior": 0.2015,
+   "superior": 0.5087
+  },
+  {
+   "especie": "couro",
+   "dias_descartados": 56,
+   "individuos": 24,
+   "dias_de_animal": 1480.5,
+   "estimativa": 0.3436,
+   "inferior": 0.168,
+   "superior": 0.5255
+  },
+  {
+   "especie": "cabecuda",
+   "dias_descartados": 0,
+   "individuos": 293,
+   "dias_de_animal": 62747.75,
+   "estimativa": 0.6488,
+   "inferior": 0.598,
+   "superior": 0.6954
+  },
+  {
+   "especie": "cabecuda",
+   "dias_descartados": 14,
+   "individuos": 290,
+   "dias_de_animal": 58907.5,
+   "estimativa": 0.6778,
+   "inferior": 0.6252,
+   "superior": 0.7234
+  },
+  {
+   "especie": "cabecuda",
+   "dias_descartados": 28,
+   "individuos": 280,
+   "dias_de_animal": 55206.0,
+   "estimativa": 0.7069,
+   "inferior": 0.6568,
+   "superior": 0.7516
+  },
+  {
+   "especie": "cabecuda",
+   "dias_descartados": 56,
+   "individuos": 263,
+   "dias_de_animal": 48182.0,
+   "estimativa": 0.7622,
+   "inferior": 0.7108,
+   "superior": 0.8059
+  },
+  {
+   "especie": "baleia",
+   "dias_descartados": 0,
+   "individuos": 36,
+   "dias_de_animal": 2557.75,
+   "estimativa": 0.225,
+   "inferior": 0.1195,
+   "superior": 0.3654
+  },
+  {
+   "especie": "baleia",
+   "dias_descartados": 14,
+   "individuos": 33,
+   "dias_de_animal": 2229.75,
+   "estimativa": 0.2371,
+   "inferior": 0.1265,
+   "superior": 0.3892
+  },
+  {
+   "especie": "baleia",
+   "dias_descartados": 28,
+   "individuos": 32,
+   "dias_de_animal": 1975.5,
+   "estimativa": 0.2398,
+   "inferior": 0.1274,
+   "superior": 0.3966
+  },
+  {
+   "especie": "baleia",
+   "dias_descartados": 56,
+   "individuos": 27,
+   "dias_de_animal": 1636.75,
+   "estimativa": 0.2529,
+   "inferior": 0.1277,
+   "superior": 0.4213
+  }
+ ],
+ "curva_semanal": [
+  {
+   "especie": "albatroz",
+   "semana": 0,
+   "amostras": 6160,
+   "amostras_em_alto_mar": 3810,
+   "individuos": 220,
+   "fracao_em_alto_mar": 0.6185
+  },
+  {
+   "especie": "albatroz",
+   "semana": 1,
+   "amostras": 5616,
+   "amostras_em_alto_mar": 3661,
+   "individuos": 218,
+   "fracao_em_alto_mar": 0.6519
+  },
+  {
+   "especie": "albatroz",
+   "semana": 2,
+   "amostras": 4181,
+   "amostras_em_alto_mar": 2964,
+   "individuos": 170,
+   "fracao_em_alto_mar": 0.7089
+  },
+  {
+   "especie": "albatroz",
+   "semana": 3,
+   "amostras": 3701,
+   "amostras_em_alto_mar": 2718,
+   "individuos": 136,
+   "fracao_em_alto_mar": 0.7344
+  },
+  {
+   "especie": "albatroz",
+   "semana": 4,
+   "amostras": 3632,
+   "amostras_em_alto_mar": 2813,
+   "individuos": 130,
+   "fracao_em_alto_mar": 0.7745
+  },
+  {
+   "especie": "albatroz",
+   "semana": 5,
+   "amostras": 3594,
+   "amostras_em_alto_mar": 2660,
+   "individuos": 129,
+   "fracao_em_alto_mar": 0.7401
+  },
+  {
+   "especie": "albatroz",
+   "semana": 6,
+   "amostras": 3544,
+   "amostras_em_alto_mar": 2598,
+   "individuos": 127,
+   "fracao_em_alto_mar": 0.7331
+  },
+  {
+   "especie": "albatroz",
+   "semana": 7,
+   "amostras": 3518,
+   "amostras_em_alto_mar": 2537,
+   "individuos": 126,
+   "fracao_em_alto_mar": 0.7211
+  },
+  {
+   "especie": "albatroz",
+   "semana": 8,
+   "amostras": 3477,
+   "amostras_em_alto_mar": 2514,
+   "individuos": 125,
+   "fracao_em_alto_mar": 0.723
+  },
+  {
+   "especie": "albatroz",
+   "semana": 9,
+   "amostras": 3444,
+   "amostras_em_alto_mar": 2472,
+   "individuos": 123,
+   "fracao_em_alto_mar": 0.7178
+  },
+  {
+   "especie": "albatroz",
+   "semana": 10,
+   "amostras": 3444,
+   "amostras_em_alto_mar": 2308,
+   "individuos": 123,
+   "fracao_em_alto_mar": 0.6702
+  },
+  {
+   "especie": "albatroz",
+   "semana": 11,
+   "amostras": 3444,
+   "amostras_em_alto_mar": 2382,
+   "individuos": 123,
+   "fracao_em_alto_mar": 0.6916
+  },
+  {
+   "especie": "albatroz",
+   "semana": 12,
+   "amostras": 3444,
+   "amostras_em_alto_mar": 2439,
+   "individuos": 123,
+   "fracao_em_alto_mar": 0.7082
+  },
+  {
+   "especie": "albatroz",
+   "semana": 13,
+   "amostras": 3440,
+   "amostras_em_alto_mar": 2612,
+   "individuos": 123,
+   "fracao_em_alto_mar": 0.7593
+  },
+  {
+   "especie": "albatroz",
+   "semana": 14,
+   "amostras": 3416,
+   "amostras_em_alto_mar": 2661,
+   "individuos": 122,
+   "fracao_em_alto_mar": 0.779
+  },
+  {
+   "especie": "albatroz",
+   "semana": 15,
+   "amostras": 3396,
+   "amostras_em_alto_mar": 2614,
+   "individuos": 122,
+   "fracao_em_alto_mar": 0.7697
+  },
+  {
+   "especie": "albatroz",
+   "semana": 16,
+   "amostras": 3386,
+   "amostras_em_alto_mar": 2573,
+   "individuos": 121,
+   "fracao_em_alto_mar": 0.7599
+  },
+  {
+   "especie": "albatroz",
+   "semana": 17,
+   "amostras": 3360,
+   "amostras_em_alto_mar": 2296,
+   "individuos": 120,
+   "fracao_em_alto_mar": 0.6833
+  },
+  {
+   "especie": "albatroz",
+   "semana": 18,
+   "amostras": 3360,
+   "amostras_em_alto_mar": 2314,
+   "individuos": 120,
+   "fracao_em_alto_mar": 0.6887
+  },
+  {
+   "especie": "albatroz",
+   "semana": 19,
+   "amostras": 3343,
+   "amostras_em_alto_mar": 2344,
+   "individuos": 120,
+   "fracao_em_alto_mar": 0.7012
+  },
+  {
+   "especie": "albatroz",
+   "semana": 20,
+   "amostras": 3332,
+   "amostras_em_alto_mar": 2228,
+   "individuos": 119,
+   "fracao_em_alto_mar": 0.6687
+  },
+  {
+   "especie": "albatroz",
+   "semana": 21,
+   "amostras": 3332,
+   "amostras_em_alto_mar": 2326,
+   "individuos": 119,
+   "fracao_em_alto_mar": 0.6981
+  },
+  {
+   "especie": "albatroz",
+   "semana": 22,
+   "amostras": 3332,
+   "amostras_em_alto_mar": 2463,
+   "individuos": 119,
+   "fracao_em_alto_mar": 0.7392
+  },
+  {
+   "especie": "albatroz",
+   "semana": 23,
+   "amostras": 3332,
+   "amostras_em_alto_mar": 2258,
+   "individuos": 119,
+   "fracao_em_alto_mar": 0.6777
+  },
+  {
+   "especie": "albatroz",
+   "semana": 24,
+   "amostras": 3332,
+   "amostras_em_alto_mar": 2325,
+   "individuos": 119,
+   "fracao_em_alto_mar": 0.6978
+  },
+  {
+   "especie": "albatroz",
+   "semana": 25,
+   "amostras": 3332,
+   "amostras_em_alto_mar": 2195,
+   "individuos": 119,
+   "fracao_em_alto_mar": 0.6588
+  },
+  {
+   "especie": "albatroz",
+   "semana": 26,
+   "amostras": 3332,
+   "amostras_em_alto_mar": 2471,
+   "individuos": 119,
+   "fracao_em_alto_mar": 0.7416
+  },
+  {
+   "especie": "albatroz",
+   "semana": 27,
+   "amostras": 3332,
+   "amostras_em_alto_mar": 2407,
+   "individuos": 119,
+   "fracao_em_alto_mar": 0.7224
+  },
+  {
+   "especie": "albatroz",
+   "semana": 28,
+   "amostras": 3332,
+   "amostras_em_alto_mar": 2431,
+   "individuos": 119,
+   "fracao_em_alto_mar": 0.7296
+  },
+  {
+   "especie": "albatroz",
+   "semana": 29,
+   "amostras": 3332,
+   "amostras_em_alto_mar": 2436,
+   "individuos": 119,
+   "fracao_em_alto_mar": 0.7311
+  },
+  {
+   "especie": "albatroz",
+   "semana": 30,
+   "amostras": 3332,
+   "amostras_em_alto_mar": 2647,
+   "individuos": 119,
+   "fracao_em_alto_mar": 0.7944
+  },
+  {
+   "especie": "albatroz",
+   "semana": 31,
+   "amostras": 3332,
+   "amostras_em_alto_mar": 2608,
+   "individuos": 119,
+   "fracao_em_alto_mar": 0.7827
+  },
+  {
+   "especie": "albatroz",
+   "semana": 32,
+   "amostras": 3322,
+   "amostras_em_alto_mar": 2646,
+   "individuos": 119,
+   "fracao_em_alto_mar": 0.7965
+  },
+  {
+   "especie": "albatroz",
+   "semana": 33,
+   "amostras": 3294,
+   "amostras_em_alto_mar": 2667,
+   "individuos": 118,
+   "fracao_em_alto_mar": 0.8097
+  },
+  {
+   "especie": "albatroz",
+   "semana": 34,
+   "amostras": 3172,
+   "amostras_em_alto_mar": 2455,
+   "individuos": 116,
+   "fracao_em_alto_mar": 0.774
+  },
+  {
+   "especie": "albatroz",
+   "semana": 35,
+   "amostras": 2980,
+   "amostras_em_alto_mar": 2041,
+   "individuos": 110,
+   "fracao_em_alto_mar": 0.6849
+  },
+  {
+   "especie": "albatroz",
+   "semana": 36,
+   "amostras": 2766,
+   "amostras_em_alto_mar": 1987,
+   "individuos": 104,
+   "fracao_em_alto_mar": 0.7184
+  },
+  {
+   "especie": "albatroz",
+   "semana": 37,
+   "amostras": 2622,
+   "amostras_em_alto_mar": 1915,
+   "individuos": 95,
+   "fracao_em_alto_mar": 0.7304
+  },
+  {
+   "especie": "albatroz",
+   "semana": 38,
+   "amostras": 2514,
+   "amostras_em_alto_mar": 1866,
+   "individuos": 91,
+   "fracao_em_alto_mar": 0.7422
+  },
+  {
+   "especie": "albatroz",
+   "semana": 39,
+   "amostras": 2464,
+   "amostras_em_alto_mar": 2076,
+   "individuos": 89,
+   "fracao_em_alto_mar": 0.8425
+  },
+  {
+   "especie": "baleia",
+   "semana": 0,
+   "amostras": 714,
+   "amostras_em_alto_mar": 51,
+   "individuos": 26,
+   "fracao_em_alto_mar": 0.0714
+  },
+  {
+   "especie": "baleia",
+   "semana": 1,
+   "amostras": 598,
+   "amostras_em_alto_mar": 136,
+   "individuos": 23,
+   "fracao_em_alto_mar": 0.2274
+  },
+  {
+   "especie": "baleia",
+   "semana": 2,
+   "amostras": 534,
+   "amostras_em_alto_mar": 136,
+   "individuos": 21,
+   "fracao_em_alto_mar": 0.2547
+  },
+  {
+   "especie": "baleia",
+   "semana": 3,
+   "amostras": 483,
+   "amostras_em_alto_mar": 84,
+   "individuos": 18,
+   "fracao_em_alto_mar": 0.1739
+  },
+  {
+   "especie": "baleia",
+   "semana": 4,
+   "amostras": 430,
+   "amostras_em_alto_mar": 83,
+   "individuos": 18,
+   "fracao_em_alto_mar": 0.193
+  },
+  {
+   "especie": "baleia",
+   "semana": 5,
+   "amostras": 351,
+   "amostras_em_alto_mar": 76,
+   "individuos": 15,
+   "fracao_em_alto_mar": 0.2165
+  },
+  {
+   "especie": "baleia",
+   "semana": 6,
+   "amostras": 274,
+   "amostras_em_alto_mar": 40,
+   "individuos": 12,
+   "fracao_em_alto_mar": 0.146
+  },
+  {
+   "especie": "baleia",
+   "semana": 7,
+   "amostras": 300,
+   "amostras_em_alto_mar": 40,
+   "individuos": 12,
+   "fracao_em_alto_mar": 0.1333
+  },
+  {
+   "especie": "baleia",
+   "semana": 8,
+   "amostras": 284,
+   "amostras_em_alto_mar": 56,
+   "individuos": 11,
+   "fracao_em_alto_mar": 0.1972
+  },
+  {
+   "especie": "baleia",
+   "semana": 9,
+   "amostras": 233,
+   "amostras_em_alto_mar": 56,
+   "individuos": 10,
+   "fracao_em_alto_mar": 0.2403
+  },
+  {
+   "especie": "baleia",
+   "semana": 10,
+   "amostras": 191,
+   "amostras_em_alto_mar": 56,
+   "individuos": 10,
+   "fracao_em_alto_mar": 0.2932
+  },
+  {
+   "especie": "baleia",
+   "semana": 11,
+   "amostras": 216,
+   "amostras_em_alto_mar": 36,
+   "individuos": 9,
+   "fracao_em_alto_mar": 0.1667
+  },
+  {
+   "especie": "baleia",
+   "semana": 12,
+   "amostras": 161,
+   "amostras_em_alto_mar": 4,
+   "individuos": 8,
+   "fracao_em_alto_mar": 0.0248
+  },
+  {
+   "especie": "baleia",
+   "semana": 13,
+   "amostras": 142,
+   "amostras_em_alto_mar": 0,
+   "individuos": 6,
+   "fracao_em_alto_mar": 0.0
+  },
+  {
+   "especie": "baleia",
+   "semana": 14,
+   "amostras": 109,
+   "amostras_em_alto_mar": 0,
+   "individuos": 5,
+   "fracao_em_alto_mar": 0.0
+  },
+  {
+   "especie": "cabecuda",
+   "semana": 0,
+   "amostras": 7758,
+   "amostras_em_alto_mar": 1505,
+   "individuos": 279,
+   "fracao_em_alto_mar": 0.194
+  },
+  {
+   "especie": "cabecuda",
+   "semana": 1,
+   "amostras": 7603,
+   "amostras_em_alto_mar": 1642,
+   "individuos": 276,
+   "fracao_em_alto_mar": 0.216
+  },
+  {
+   "especie": "cabecuda",
+   "semana": 2,
+   "amostras": 7442,
+   "amostras_em_alto_mar": 1745,
+   "individuos": 277,
+   "fracao_em_alto_mar": 0.2345
+  },
+  {
+   "especie": "cabecuda",
+   "semana": 3,
+   "amostras": 7364,
+   "amostras_em_alto_mar": 1869,
+   "individuos": 272,
+   "fracao_em_alto_mar": 0.2538
+  },
+  {
+   "especie": "cabecuda",
+   "semana": 4,
+   "amostras": 7258,
+   "amostras_em_alto_mar": 2200,
+   "individuos": 263,
+   "fracao_em_alto_mar": 0.3031
+  },
+  {
+   "especie": "cabecuda",
+   "semana": 5,
+   "amostras": 7042,
+   "amostras_em_alto_mar": 2221,
+   "individuos": 262,
+   "fracao_em_alto_mar": 0.3154
+  },
+  {
+   "especie": "cabecuda",
+   "semana": 6,
+   "amostras": 6908,
+   "amostras_em_alto_mar": 2316,
+   "individuos": 253,
+   "fracao_em_alto_mar": 0.3353
+  },
+  {
+   "especie": "cabecuda",
+   "semana": 7,
+   "amostras": 6888,
+   "amostras_em_alto_mar": 2453,
+   "individuos": 258,
+   "fracao_em_alto_mar": 0.3561
+  },
+  {
+   "especie": "cabecuda",
+   "semana": 8,
+   "amostras": 6845,
+   "amostras_em_alto_mar": 2730,
+   "individuos": 249,
+   "fracao_em_alto_mar": 0.3988
+  },
+  {
+   "especie": "cabecuda",
+   "semana": 9,
+   "amostras": 6664,
+   "amostras_em_alto_mar": 2870,
+   "individuos": 246,
+   "fracao_em_alto_mar": 0.4307
+  },
+  {
+   "especie": "cabecuda",
+   "semana": 10,
+   "amostras": 6299,
+   "amostras_em_alto_mar": 2926,
+   "individuos": 231,
+   "fracao_em_alto_mar": 0.4645
+  },
+  {
+   "especie": "cabecuda",
+   "semana": 11,
+   "amostras": 6004,
+   "amostras_em_alto_mar": 3082,
+   "individuos": 225,
+   "fracao_em_alto_mar": 0.5133
+  },
+  {
+   "especie": "cabecuda",
+   "semana": 12,
+   "amostras": 5834,
+   "amostras_em_alto_mar": 3128,
+   "individuos": 215,
+   "fracao_em_alto_mar": 0.5362
+  },
+  {
+   "especie": "cabecuda",
+   "semana": 13,
+   "amostras": 5608,
+   "amostras_em_alto_mar": 3237,
+   "individuos": 210,
+   "fracao_em_alto_mar": 0.5772
+  },
+  {
+   "especie": "cabecuda",
+   "semana": 14,
+   "amostras": 5447,
+   "amostras_em_alto_mar": 3315,
+   "individuos": 203,
+   "fracao_em_alto_mar": 0.6086
+  },
+  {
+   "especie": "cabecuda",
+   "semana": 15,
+   "amostras": 5100,
+   "amostras_em_alto_mar": 3207,
+   "individuos": 190,
+   "fracao_em_alto_mar": 0.6288
+  },
+  {
+   "especie": "cabecuda",
+   "semana": 16,
+   "amostras": 4880,
+   "amostras_em_alto_mar": 3143,
+   "individuos": 184,
+   "fracao_em_alto_mar": 0.6441
+  },
+  {
+   "especie": "cabecuda",
+   "semana": 17,
+   "amostras": 4661,
+   "amostras_em_alto_mar": 2996,
+   "individuos": 177,
+   "fracao_em_alto_mar": 0.6428
+  },
+  {
+   "especie": "cabecuda",
+   "semana": 18,
+   "amostras": 4483,
+   "amostras_em_alto_mar": 2901,
+   "individuos": 169,
+   "fracao_em_alto_mar": 0.6471
+  },
+  {
+   "especie": "cabecuda",
+   "semana": 19,
+   "amostras": 4303,
+   "amostras_em_alto_mar": 2991,
+   "individuos": 164,
+   "fracao_em_alto_mar": 0.6951
+  },
+  {
+   "especie": "cabecuda",
+   "semana": 20,
+   "amostras": 4315,
+   "amostras_em_alto_mar": 3053,
+   "individuos": 158,
+   "fracao_em_alto_mar": 0.7075
+  },
+  {
+   "especie": "cabecuda",
+   "semana": 21,
+   "amostras": 4310,
+   "amostras_em_alto_mar": 3049,
+   "individuos": 163,
+   "fracao_em_alto_mar": 0.7074
+  },
+  {
+   "especie": "cabecuda",
+   "semana": 22,
+   "amostras": 4149,
+   "amostras_em_alto_mar": 3065,
+   "individuos": 157,
+   "fracao_em_alto_mar": 0.7387
+  },
+  {
+   "especie": "cabecuda",
+   "semana": 23,
+   "amostras": 4017,
+   "amostras_em_alto_mar": 2977,
+   "individuos": 150,
+   "fracao_em_alto_mar": 0.7411
+  },
+  {
+   "especie": "cabecuda",
+   "semana": 24,
+   "amostras": 3753,
+   "amostras_em_alto_mar": 2909,
+   "individuos": 145,
+   "fracao_em_alto_mar": 0.7751
+  },
+  {
+   "especie": "cabecuda",
+   "semana": 25,
+   "amostras": 3595,
+   "amostras_em_alto_mar": 2845,
+   "individuos": 134,
+   "fracao_em_alto_mar": 0.7914
+  },
+  {
+   "especie": "cabecuda",
+   "semana": 26,
+   "amostras": 3542,
+   "amostras_em_alto_mar": 2832,
+   "individuos": 133,
+   "fracao_em_alto_mar": 0.7995
+  },
+  {
+   "especie": "cabecuda",
+   "semana": 27,
+   "amostras": 3514,
+   "amostras_em_alto_mar": 2861,
+   "individuos": 132,
+   "fracao_em_alto_mar": 0.8142
+  },
+  {
+   "especie": "cabecuda",
+   "semana": 28,
+   "amostras": 3456,
+   "amostras_em_alto_mar": 2784,
+   "individuos": 126,
+   "fracao_em_alto_mar": 0.8056
+  },
+  {
+   "especie": "cabecuda",
+   "semana": 29,
+   "amostras": 3424,
+   "amostras_em_alto_mar": 2763,
+   "individuos": 127,
+   "fracao_em_alto_mar": 0.807
+  },
+  {
+   "especie": "cabecuda",
+   "semana": 30,
+   "amostras": 3334,
+   "amostras_em_alto_mar": 2685,
+   "individuos": 123,
+   "fracao_em_alto_mar": 0.8053
+  },
+  {
+   "especie": "cabecuda",
+   "semana": 31,
+   "amostras": 3211,
+   "amostras_em_alto_mar": 2570,
+   "individuos": 118,
+   "fracao_em_alto_mar": 0.8004
+  },
+  {
+   "especie": "cabecuda",
+   "semana": 32,
+   "amostras": 3043,
+   "amostras_em_alto_mar": 2523,
+   "individuos": 115,
+   "fracao_em_alto_mar": 0.8291
+  },
+  {
+   "especie": "cabecuda",
+   "semana": 33,
+   "amostras": 3083,
+   "amostras_em_alto_mar": 2571,
+   "individuos": 113,
+   "fracao_em_alto_mar": 0.8339
+  },
+  {
+   "especie": "cabecuda",
+   "semana": 34,
+   "amostras": 2976,
+   "amostras_em_alto_mar": 2536,
+   "individuos": 110,
+   "fracao_em_alto_mar": 0.8522
+  },
+  {
+   "especie": "cabecuda",
+   "semana": 35,
+   "amostras": 2791,
+   "amostras_em_alto_mar": 2431,
+   "individuos": 105,
+   "fracao_em_alto_mar": 0.871
+  },
+  {
+   "especie": "cabecuda",
+   "semana": 36,
+   "amostras": 2704,
+   "amostras_em_alto_mar": 2358,
+   "individuos": 104,
+   "fracao_em_alto_mar": 0.872
+  },
+  {
+   "especie": "cabecuda",
+   "semana": 37,
+   "amostras": 2678,
+   "amostras_em_alto_mar": 2311,
+   "individuos": 97,
+   "fracao_em_alto_mar": 0.863
+  },
+  {
+   "especie": "cabecuda",
+   "semana": 38,
+   "amostras": 2615,
+   "amostras_em_alto_mar": 2270,
+   "individuos": 98,
+   "fracao_em_alto_mar": 0.8681
+  },
+  {
+   "especie": "cabecuda",
+   "semana": 39,
+   "amostras": 2532,
+   "amostras_em_alto_mar": 2268,
+   "individuos": 93,
+   "fracao_em_alto_mar": 0.8957
+  },
+  {
+   "especie": "couro",
+   "semana": 0,
+   "amostras": 784,
+   "amostras_em_alto_mar": 2,
+   "individuos": 28,
+   "fracao_em_alto_mar": 0.0026
+  },
+  {
+   "especie": "couro",
+   "semana": 1,
+   "amostras": 784,
+   "amostras_em_alto_mar": 35,
+   "individuos": 28,
+   "fracao_em_alto_mar": 0.0446
+  },
+  {
+   "especie": "couro",
+   "semana": 2,
+   "amostras": 772,
+   "amostras_em_alto_mar": 98,
+   "individuos": 28,
+   "fracao_em_alto_mar": 0.1269
+  },
+  {
+   "especie": "couro",
+   "semana": 3,
+   "amostras": 728,
+   "amostras_em_alto_mar": 168,
+   "individuos": 26,
+   "fracao_em_alto_mar": 0.2308
+  },
+  {
+   "especie": "couro",
+   "semana": 4,
+   "amostras": 739,
+   "amostras_em_alto_mar": 203,
+   "individuos": 27,
+   "fracao_em_alto_mar": 0.2747
+  },
+  {
+   "especie": "couro",
+   "semana": 5,
+   "amostras": 728,
+   "amostras_em_alto_mar": 245,
+   "individuos": 26,
+   "fracao_em_alto_mar": 0.3365
+  },
+  {
+   "especie": "couro",
+   "semana": 6,
+   "amostras": 715,
+   "amostras_em_alto_mar": 283,
+   "individuos": 26,
+   "fracao_em_alto_mar": 0.3958
+  },
+  {
+   "especie": "couro",
+   "semana": 7,
+   "amostras": 648,
+   "amostras_em_alto_mar": 270,
+   "individuos": 24,
+   "fracao_em_alto_mar": 0.4167
+  },
+  {
+   "especie": "couro",
+   "semana": 8,
+   "amostras": 624,
+   "amostras_em_alto_mar": 202,
+   "individuos": 23,
+   "fracao_em_alto_mar": 0.3237
+  },
+  {
+   "especie": "couro",
+   "semana": 9,
+   "amostras": 564,
+   "amostras_em_alto_mar": 178,
+   "individuos": 21,
+   "fracao_em_alto_mar": 0.3156
+  },
+  {
+   "especie": "couro",
+   "semana": 10,
+   "amostras": 560,
+   "amostras_em_alto_mar": 195,
+   "individuos": 20,
+   "fracao_em_alto_mar": 0.3482
+  },
+  {
+   "especie": "couro",
+   "semana": 11,
+   "amostras": 552,
+   "amostras_em_alto_mar": 159,
+   "individuos": 20,
+   "fracao_em_alto_mar": 0.288
+  },
+  {
+   "especie": "couro",
+   "semana": 12,
+   "amostras": 516,
+   "amostras_em_alto_mar": 120,
+   "individuos": 19,
+   "fracao_em_alto_mar": 0.2326
+  },
+  {
+   "especie": "couro",
+   "semana": 13,
+   "amostras": 472,
+   "amostras_em_alto_mar": 112,
+   "individuos": 18,
+   "fracao_em_alto_mar": 0.2373
+  },
+  {
+   "especie": "couro",
+   "semana": 14,
+   "amostras": 446,
+   "amostras_em_alto_mar": 131,
+   "individuos": 16,
+   "fracao_em_alto_mar": 0.2937
+  },
+  {
+   "especie": "couro",
+   "semana": 15,
+   "amostras": 386,
+   "amostras_em_alto_mar": 120,
+   "individuos": 15,
+   "fracao_em_alto_mar": 0.3109
+  },
+  {
+   "especie": "couro",
+   "semana": 16,
+   "amostras": 296,
+   "amostras_em_alto_mar": 97,
+   "individuos": 12,
+   "fracao_em_alto_mar": 0.3277
+  },
+  {
+   "especie": "couro",
+   "semana": 17,
+   "amostras": 262,
+   "amostras_em_alto_mar": 114,
+   "individuos": 10,
+   "fracao_em_alto_mar": 0.4351
+  },
+  {
+   "especie": "couro",
+   "semana": 18,
+   "amostras": 196,
+   "amostras_em_alto_mar": 94,
+   "individuos": 7,
+   "fracao_em_alto_mar": 0.4796
+  },
+  {
+   "especie": "couro",
+   "semana": 19,
+   "amostras": 176,
+   "amostras_em_alto_mar": 88,
+   "individuos": 7,
+   "fracao_em_alto_mar": 0.5
+  },
+  {
+   "especie": "couro",
+   "semana": 20,
+   "amostras": 140,
+   "amostras_em_alto_mar": 75,
+   "individuos": 5,
+   "fracao_em_alto_mar": 0.5357
+  },
+  {
+   "especie": "couro",
+   "semana": 21,
+   "amostras": 112,
+   "amostras_em_alto_mar": 32,
+   "individuos": 5,
+   "fracao_em_alto_mar": 0.2857
+  },
+  {
+   "especie": "elefante",
+   "semana": 0,
+   "amostras": 12236,
+   "amostras_em_alto_mar": 5936,
+   "individuos": 437,
+   "fracao_em_alto_mar": 0.4851
+  },
+  {
+   "especie": "elefante",
+   "semana": 1,
+   "amostras": 12194,
+   "amostras_em_alto_mar": 10295,
+   "individuos": 437,
+   "fracao_em_alto_mar": 0.8443
+  },
+  {
+   "especie": "elefante",
+   "semana": 2,
+   "amostras": 12134,
+   "amostras_em_alto_mar": 10831,
+   "individuos": 434,
+   "fracao_em_alto_mar": 0.8926
+  },
+  {
+   "especie": "elefante",
+   "semana": 3,
+   "amostras": 12075,
+   "amostras_em_alto_mar": 10892,
+   "individuos": 432,
+   "fracao_em_alto_mar": 0.902
+  },
+  {
+   "especie": "elefante",
+   "semana": 4,
+   "amostras": 11987,
+   "amostras_em_alto_mar": 10847,
+   "individuos": 430,
+   "fracao_em_alto_mar": 0.9049
+  },
+  {
+   "especie": "elefante",
+   "semana": 5,
+   "amostras": 11901,
+   "amostras_em_alto_mar": 10817,
+   "individuos": 427,
+   "fracao_em_alto_mar": 0.9089
+  },
+  {
+   "especie": "elefante",
+   "semana": 6,
+   "amostras": 11780,
+   "amostras_em_alto_mar": 10664,
+   "individuos": 423,
+   "fracao_em_alto_mar": 0.9053
+  },
+  {
+   "especie": "elefante",
+   "semana": 7,
+   "amostras": 11656,
+   "amostras_em_alto_mar": 10372,
+   "individuos": 419,
+   "fracao_em_alto_mar": 0.8898
+  },
+  {
+   "especie": "elefante",
+   "semana": 8,
+   "amostras": 11428,
+   "amostras_em_alto_mar": 10103,
+   "individuos": 412,
+   "fracao_em_alto_mar": 0.8841
+  },
+  {
+   "especie": "elefante",
+   "semana": 9,
+   "amostras": 11069,
+   "amostras_em_alto_mar": 9760,
+   "individuos": 405,
+   "fracao_em_alto_mar": 0.8817
+  },
+  {
+   "especie": "elefante",
+   "semana": 10,
+   "amostras": 10628,
+   "amostras_em_alto_mar": 9169,
+   "individuos": 388,
+   "fracao_em_alto_mar": 0.8627
+  },
+  {
+   "especie": "elefante",
+   "semana": 11,
+   "amostras": 10051,
+   "amostras_em_alto_mar": 8794,
+   "individuos": 368,
+   "fracao_em_alto_mar": 0.8749
+  },
+  {
+   "especie": "elefante",
+   "semana": 12,
+   "amostras": 9561,
+   "amostras_em_alto_mar": 8416,
+   "individuos": 349,
+   "fracao_em_alto_mar": 0.8802
+  },
+  {
+   "especie": "elefante",
+   "semana": 13,
+   "amostras": 9186,
+   "amostras_em_alto_mar": 8016,
+   "individuos": 336,
+   "fracao_em_alto_mar": 0.8726
+  },
+  {
+   "especie": "elefante",
+   "semana": 14,
+   "amostras": 8844,
+   "amostras_em_alto_mar": 7669,
+   "individuos": 321,
+   "fracao_em_alto_mar": 0.8671
+  },
+  {
+   "especie": "elefante",
+   "semana": 15,
+   "amostras": 8523,
+   "amostras_em_alto_mar": 7282,
+   "individuos": 310,
+   "fracao_em_alto_mar": 0.8544
+  },
+  {
+   "especie": "elefante",
+   "semana": 16,
+   "amostras": 8385,
+   "amostras_em_alto_mar": 7078,
+   "individuos": 302,
+   "fracao_em_alto_mar": 0.8441
+  },
+  {
+   "especie": "elefante",
+   "semana": 17,
+   "amostras": 8079,
+   "amostras_em_alto_mar": 6684,
+   "individuos": 295,
+   "fracao_em_alto_mar": 0.8273
+  },
+  {
+   "especie": "elefante",
+   "semana": 18,
+   "amostras": 7863,
+   "amostras_em_alto_mar": 6474,
+   "individuos": 286,
+   "fracao_em_alto_mar": 0.8233
+  },
+  {
+   "especie": "elefante",
+   "semana": 19,
+   "amostras": 7579,
+   "amostras_em_alto_mar": 6394,
+   "individuos": 275,
+   "fracao_em_alto_mar": 0.8436
+  },
+  {
+   "especie": "elefante",
+   "semana": 20,
+   "amostras": 7449,
+   "amostras_em_alto_mar": 6208,
+   "individuos": 269,
+   "fracao_em_alto_mar": 0.8334
+  },
+  {
+   "especie": "elefante",
+   "semana": 21,
+   "amostras": 7188,
+   "amostras_em_alto_mar": 5952,
+   "individuos": 261,
+   "fracao_em_alto_mar": 0.828
+  },
+  {
+   "especie": "elefante",
+   "semana": 22,
+   "amostras": 6896,
+   "amostras_em_alto_mar": 5714,
+   "individuos": 252,
+   "fracao_em_alto_mar": 0.8286
+  },
+  {
+   "especie": "elefante",
+   "semana": 23,
+   "amostras": 6613,
+   "amostras_em_alto_mar": 5459,
+   "individuos": 240,
+   "fracao_em_alto_mar": 0.8255
+  },
+  {
+   "especie": "elefante",
+   "semana": 24,
+   "amostras": 6393,
+   "amostras_em_alto_mar": 5348,
+   "individuos": 234,
+   "fracao_em_alto_mar": 0.8365
+  },
+  {
+   "especie": "elefante",
+   "semana": 25,
+   "amostras": 6278,
+   "amostras_em_alto_mar": 5080,
+   "individuos": 225,
+   "fracao_em_alto_mar": 0.8092
+  },
+  {
+   "especie": "elefante",
+   "semana": 26,
+   "amostras": 6050,
+   "amostras_em_alto_mar": 4919,
+   "individuos": 221,
+   "fracao_em_alto_mar": 0.8131
+  },
+  {
+   "especie": "elefante",
+   "semana": 27,
+   "amostras": 5687,
+   "amostras_em_alto_mar": 4722,
+   "individuos": 211,
+   "fracao_em_alto_mar": 0.8303
+  },
+  {
+   "especie": "elefante",
+   "semana": 28,
+   "amostras": 5435,
+   "amostras_em_alto_mar": 4360,
+   "individuos": 197,
+   "fracao_em_alto_mar": 0.8022
+  },
+  {
+   "especie": "elefante",
+   "semana": 29,
+   "amostras": 5188,
+   "amostras_em_alto_mar": 4109,
+   "individuos": 191,
+   "fracao_em_alto_mar": 0.792
+  },
+  {
+   "especie": "elefante",
+   "semana": 30,
+   "amostras": 4844,
+   "amostras_em_alto_mar": 3752,
+   "individuos": 181,
+   "fracao_em_alto_mar": 0.7746
+  },
+  {
+   "especie": "elefante",
+   "semana": 31,
+   "amostras": 4451,
+   "amostras_em_alto_mar": 3308,
+   "individuos": 166,
+   "fracao_em_alto_mar": 0.7432
+  },
+  {
+   "especie": "elefante",
+   "semana": 32,
+   "amostras": 4002,
+   "amostras_em_alto_mar": 2695,
+   "individuos": 152,
+   "fracao_em_alto_mar": 0.6734
+  },
+  {
+   "especie": "elefante",
+   "semana": 33,
+   "amostras": 3318,
+   "amostras_em_alto_mar": 1996,
+   "individuos": 130,
+   "fracao_em_alto_mar": 0.6016
+  },
+  {
+   "especie": "elefante",
+   "semana": 34,
+   "amostras": 2785,
+   "amostras_em_alto_mar": 1302,
+   "individuos": 107,
+   "fracao_em_alto_mar": 0.4675
+  },
+  {
+   "especie": "elefante",
+   "semana": 35,
+   "amostras": 2298,
+   "amostras_em_alto_mar": 915,
+   "individuos": 88,
+   "fracao_em_alto_mar": 0.3982
+  },
+  {
+   "especie": "elefante",
+   "semana": 36,
+   "amostras": 2077,
+   "amostras_em_alto_mar": 844,
+   "individuos": 78,
+   "fracao_em_alto_mar": 0.4064
+  },
+  {
+   "especie": "elefante",
+   "semana": 37,
+   "amostras": 1910,
+   "amostras_em_alto_mar": 842,
+   "individuos": 70,
+   "fracao_em_alto_mar": 0.4408
+  },
+  {
+   "especie": "elefante",
+   "semana": 38,
+   "amostras": 1722,
+   "amostras_em_alto_mar": 896,
+   "individuos": 66,
+   "fracao_em_alto_mar": 0.5203
+  },
+  {
+   "especie": "elefante",
+   "semana": 39,
+   "amostras": 1525,
+   "amostras_em_alto_mar": 1096,
+   "individuos": 56,
+   "fracao_em_alto_mar": 0.7187
+  }
+ ],
+ "sensibilidade": [
+  {
+   "especie": "albatroz",
+   "variante": "principal: falha máxima de 10 dias, tempo somado",
+   "individuos": 220,
+   "estimativa": 0.7261,
+   "inferior": 0.7022,
+   "superior": 0.748
+  },
+  {
+   "especie": "albatroz",
+   "variante": "falha máxima de 3 dias",
+   "individuos": 220,
+   "estimativa": 0.7261,
+   "inferior": 0.7029,
+   "superior": 0.7471
+  },
+  {
+   "especie": "albatroz",
+   "variante": "interpolando por cima de qualquer falha",
+   "individuos": 220,
+   "estimativa": 0.7261,
+   "inferior": 0.7018,
+   "superior": 0.7475
+  },
+  {
+   "especie": "albatroz",
+   "variante": "só animais com 30 dias ou mais",
+   "individuos": 130,
+   "estimativa": 0.7325,
+   "inferior": 0.709,
+   "superior": 0.7557
+  },
+  {
+   "especie": "albatroz",
+   "variante": "só animais com 90 dias ou mais",
+   "individuos": 123,
+   "estimativa": 0.7338,
+   "inferior": 0.7099,
+   "superior": 0.7567
+  },
+  {
+   "especie": "albatroz",
+   "variante": "só animais com 180 dias ou mais",
+   "individuos": 119,
+   "estimativa": 0.7361,
+   "inferior": 0.7126,
+   "superior": 0.7592
+  },
+  {
+   "especie": "albatroz",
+   "variante": "média por indivíduo (cada animal pesa igual)",
+   "individuos": 220,
+   "estimativa": 0.6483,
+   "inferior": 0.6173,
+   "superior": 0.679
+  },
+  {
+   "especie": "elefante",
+   "variante": "principal: falha máxima de 10 dias, tempo somado",
+   "individuos": 437,
+   "estimativa": 0.8226,
+   "inferior": 0.7981,
+   "superior": 0.8451
+  },
+  {
+   "especie": "elefante",
+   "variante": "falha máxima de 3 dias",
+   "individuos": 437,
+   "estimativa": 0.8226,
+   "inferior": 0.7973,
+   "superior": 0.8464
+  },
+  {
+   "especie": "elefante",
+   "variante": "interpolando por cima de qualquer falha",
+   "individuos": 437,
+   "estimativa": 0.8226,
+   "inferior": 0.7979,
+   "superior": 0.8464
+  },
+  {
+   "especie": "elefante",
+   "variante": "só animais com 30 dias ou mais",
+   "individuos": 429,
+   "estimativa": 0.8225,
+   "inferior": 0.7973,
+   "superior": 0.8456
+  },
+  {
+   "especie": "elefante",
+   "variante": "só animais com 90 dias ou mais",
+   "individuos": 339,
+   "estimativa": 0.8216,
+   "inferior": 0.7971,
+   "superior": 0.8467
+  },
+  {
+   "especie": "elefante",
+   "variante": "só animais com 180 dias ou mais",
+   "individuos": 224,
+   "estimativa": 0.8167,
+   "inferior": 0.7857,
+   "superior": 0.8453
+  },
+  {
+   "especie": "elefante",
+   "variante": "média por indivíduo (cada animal pesa igual)",
+   "individuos": 437,
+   "estimativa": 0.828,
+   "inferior": 0.8047,
+   "superior": 0.8503
+  },
+  {
+   "especie": "couro",
+   "variante": "principal: falha máxima de 10 dias, tempo somado",
+   "individuos": 29,
+   "estimativa": 0.2825,
+   "inferior": 0.163,
+   "superior": 0.4019
+  },
+  {
+   "especie": "couro",
+   "variante": "falha máxima de 3 dias",
+   "individuos": 29,
+   "estimativa": 0.2989,
+   "inferior": 0.1678,
+   "superior": 0.4336
+  },
+  {
+   "especie": "couro",
+   "variante": "interpolando por cima de qualquer falha",
+   "individuos": 29,
+   "estimativa": 0.2702,
+   "inferior": 0.1519,
+   "superior": 0.3944
+  },
+  {
+   "especie": "couro",
+   "variante": "só animais com 30 dias ou mais",
+   "individuos": 27,
+   "estimativa": 0.2863,
+   "inferior": 0.1684,
+   "superior": 0.4116
+  },
+  {
+   "especie": "couro",
+   "variante": "só animais com 90 dias ou mais",
+   "individuos": 16,
+   "estimativa": 0.2505,
+   "inferior": 0.1136,
+   "superior": 0.3957
+  },
+  {
+   "especie": "couro",
+   "variante": "média por indivíduo (cada animal pesa igual)",
+   "individuos": 29,
+   "estimativa": 0.2587,
+   "inferior": 0.1459,
+   "superior": 0.3759
+  },
+  {
+   "especie": "cabecuda",
+   "variante": "principal: falha máxima de 10 dias, tempo somado",
+   "individuos": 293,
+   "estimativa": 0.6488,
+   "inferior": 0.5979,
+   "superior": 0.6946
+  },
+  {
+   "especie": "cabecuda",
+   "variante": "falha máxima de 3 dias",
+   "individuos": 291,
+   "estimativa": 0.571,
+   "inferior": 0.5098,
+   "superior": 0.6304
+  },
+  {
+   "especie": "cabecuda",
+   "variante": "interpolando por cima de qualquer falha",
+   "individuos": 293,
+   "estimativa": 0.6404,
+   "inferior": 0.5886,
+   "superior": 0.6886
+  },
+  {
+   "especie": "cabecuda",
+   "variante": "só animais com 30 dias ou mais",
+   "individuos": 277,
+   "estimativa": 0.652,
+   "inferior": 0.6001,
+   "superior": 0.6982
+  },
+  {
+   "especie": "cabecuda",
+   "variante": "só animais com 90 dias ou mais",
+   "individuos": 211,
+   "estimativa": 0.6854,
+   "inferior": 0.6336,
+   "superior": 0.7309
+  },
+  {
+   "especie": "cabecuda",
+   "variante": "só animais com 180 dias ou mais",
+   "individuos": 133,
+   "estimativa": 0.7638,
+   "inferior": 0.7109,
+   "superior": 0.8102
+  },
+  {
+   "especie": "cabecuda",
+   "variante": "média por indivíduo (cada animal pesa igual)",
+   "individuos": 293,
+   "estimativa": 0.4471,
+   "inferior": 0.3971,
+   "superior": 0.4966
+  },
+  {
+   "especie": "baleia",
+   "variante": "principal: falha máxima de 10 dias, tempo somado",
+   "individuos": 36,
+   "estimativa": 0.225,
+   "inferior": 0.12,
+   "superior": 0.3631
+  },
+  {
+   "especie": "baleia",
+   "variante": "falha máxima de 3 dias",
+   "individuos": 36,
+   "estimativa": 0.2488,
+   "inferior": 0.1306,
+   "superior": 0.3983
+  },
+  {
+   "especie": "baleia",
+   "variante": "interpolando por cima de qualquer falha",
+   "individuos": 36,
+   "estimativa": 0.3286,
+   "inferior": 0.1868,
+   "superior": 0.476
+  },
+  {
+   "especie": "baleia",
+   "variante": "só animais com 30 dias ou mais",
+   "individuos": 29,
+   "estimativa": 0.2122,
+   "inferior": 0.1075,
+   "superior": 0.3522
+  },
+  {
+   "especie": "baleia",
+   "variante": "só animais com 90 dias ou mais",
+   "individuos": 8,
+   "estimativa": 0.0881,
+   "inferior": 0.0,
+   "superior": 0.2439
+  },
+  {
+   "especie": "baleia",
+   "variante": "média por indivíduo (cada animal pesa igual)",
+   "individuos": 36,
+   "estimativa": 0.3071,
+   "inferior": 0.1834,
+   "superior": 0.4373
+  }
+ ],
+ "duracao_e_alto_mar": [
+  {
+   "especie": "albatroz",
+   "spearman": 0.2461,
+   "p_valor": 0.0002,
+   "alto_mar_dos_mais_curtos": 0.6693,
+   "alto_mar_dos_mais_longos": 0.7323,
+   "duracao_mediana_dias": 245.25
+  },
+  {
+   "especie": "elefante",
+   "spearman": -0.084,
+   "p_valor": 0.0794,
+   "alto_mar_dos_mais_curtos": 0.8431,
+   "alto_mar_dos_mais_longos": 0.8142,
+   "duracao_mediana_dias": 183.75
+  },
+  {
+   "especie": "couro",
+   "spearman": 0.2063,
+   "p_valor": 0.2831,
+   "alto_mar_dos_mais_curtos": 0.3315,
+   "alto_mar_dos_mais_longos": 0.2632,
+   "duracao_mediana_dias": 109.5
+  },
+  {
+   "especie": "cabecuda",
+   "spearman": 0.5398,
+   "p_valor": 0.0,
+   "alto_mar_dos_mais_curtos": 0.2545,
+   "alto_mar_dos_mais_longos": 0.7454,
+   "duracao_mediana_dias": 162.5
+  },
+  {
+   "especie": "baleia",
+   "spearman": -0.2169,
+   "p_valor": 0.2038,
+   "alto_mar_dos_mais_curtos": 0.3755,
+   "alto_mar_dos_mais_longos": 0.1819,
+   "duracao_mediana_dias": 53.5
+  }
+ ],
+ "por_populacao": [
+  {
+   "especie": "albatroz",
+   "populacao": "Oceano Austral",
+   "individuos": 220,
+   "dias_de_animal": 42559.5,
+   "estimativa": 0.7261,
+   "inferior": 0.703,
+   "superior": 0.7479
+  },
+  {
+   "especie": "elefante",
+   "populacao": "Oceano Austral",
+   "individuos": 437,
+   "dias_de_animal": 76073.75,
+   "estimativa": 0.8226,
+   "inferior": 0.7976,
+   "superior": 0.8464
+  },
+  {
+   "especie": "couro",
+   "populacao": "África do Sul (Índico sudoeste)",
+   "individuos": 29,
+   "dias_de_animal": 2955.0,
+   "estimativa": 0.2825,
+   "inferior": 0.1549,
+   "superior": 0.4108
+  },
+  {
+   "especie": "cabecuda",
+   "populacao": "Caribe",
+   "individuos": 4,
+   "dias_de_animal": 365.5,
+   "estimativa": 0.0,
+   "inferior": 0.0,
+   "superior": 0.0
+  },
+  {
+   "especie": "cabecuda",
+   "populacao": "Mediterrâneo",
+   "individuos": 59,
+   "dias_de_animal": 6842.25,
+   "estimativa": 0.0,
+   "inferior": 0.0,
+   "superior": 0.0
+  },
+  {
+   "especie": "cabecuda",
+   "populacao": "Pacífico Norte",
+   "individuos": 210,
+   "dias_de_animal": 52642.5,
+   "estimativa": 0.7578,
+   "inferior": 0.7122,
+   "superior": 0.7968
+  },
+  {
+   "especie": "cabecuda",
+   "populacao": "Índico sudoeste",
+   "individuos": 20,
+   "dias_de_animal": 2897.5,
+   "estimativa": 0.2838,
+   "inferior": 0.1557,
+   "superior": 0.4185
+  },
+  {
+   "especie": "baleia",
+   "populacao": "Galápagos (Pacífico leste)",
+   "individuos": 21,
+   "dias_de_animal": 1222.0,
+   "estimativa": 0.4709,
+   "inferior": 0.3146,
+   "superior": 0.6533
+  },
+  {
+   "especie": "baleia",
+   "populacao": "Mar de Coral (Pacífico oeste)",
+   "individuos": 15,
+   "dias_de_animal": 1335.75,
+   "estimativa": 0.0,
+   "inferior": 0.0,
+   "superior": 0.0
+  }
+ ],
+ "jurisdicoes_por_individuo": [
+  {
+   "especie": "albatroz",
+   "individuos": 220,
+   "media": 2.5182,
+   "mediana": 2.0,
+   "maximo": 8,
+   "nenhuma": 0.0273,
+   "uma": 0.3273,
+   "duas_ou_mais": 0.6455,
+   "tres_ou_mais": 0.4273,
+   "mais_de_um_regime": 0.9591,
+   "distribuicao": {
+    "0": 6,
+    "1": 72,
+    "2": 48,
+    "3": 47,
+    "4": 20,
+    "5": 10,
+    "6": 5,
+    "7": 11,
+    "8": 1
+   }
+  },
+  {
+   "especie": "elefante",
+   "individuos": 437,
+   "media": 1.0343,
+   "mediana": 1.0,
+   "maximo": 3,
+   "nenhuma": 0.1922,
+   "uma": 0.5858,
+   "duas_ou_mais": 0.222,
+   "tres_ou_mais": 0.0046,
+   "mais_de_um_regime": 0.7986,
+   "distribuicao": {
+    "0": 84,
+    "1": 256,
+    "2": 95,
+    "3": 2
+   }
+  },
+  {
+   "especie": "couro",
+   "individuos": 29,
+   "media": 1.8276,
+   "mediana": 2.0,
+   "maximo": 4,
+   "nenhuma": 0.0,
+   "uma": 0.3103,
+   "duas_ou_mais": 0.6897,
+   "tres_ou_mais": 0.1034,
+   "mais_de_um_regime": 0.9655,
+   "distribuicao": {
+    "1": 9,
+    "2": 17,
+    "3": 2,
+    "4": 1
+   }
+  },
+  {
+   "especie": "cabecuda",
+   "individuos": 293,
+   "media": 2.0239,
+   "mediana": 2.0,
+   "maximo": 8,
+   "nenhuma": 0.1604,
+   "uma": 0.3311,
+   "duas_ou_mais": 0.5085,
+   "tres_ou_mais": 0.3242,
+   "mais_de_um_regime": 0.7235,
+   "distribuicao": {
+    "0": 47,
+    "1": 97,
+    "2": 54,
+    "3": 44,
+    "4": 25,
+    "5": 8,
+    "6": 12,
+    "7": 4,
+    "8": 2
+   }
+  },
+  {
+   "especie": "baleia",
+   "individuos": 36,
+   "media": 1.6111,
+   "mediana": 1.0,
+   "maximo": 6,
+   "nenhuma": 0.0556,
+   "uma": 0.5278,
+   "duas_ou_mais": 0.4167,
+   "tres_ou_mais": 0.1389,
+   "mais_de_um_regime": 0.6667,
+   "distribuicao": {
+    "0": 2,
+    "1": 19,
+    "2": 10,
+    "3": 3,
+    "4": 1,
+    "6": 1
+   }
+  }
+ ],
+ "conexoes_principais": [
+  {
+   "especie": "albatroz",
+   "jurisdicao_a": "França",
+   "jurisdicao_b": "Austrália",
+   "individuos_em_comum": 89,
+   "individuos_em_a": 119,
+   "individuos_em_b": 99
+  },
+  {
+   "especie": "albatroz",
+   "jurisdicao_a": "França",
+   "jurisdicao_b": "África do Sul",
+   "individuos_em_comum": 87,
+   "individuos_em_a": 119,
+   "individuos_em_b": 112
+  },
+  {
+   "especie": "elefante",
+   "jurisdicao_a": "França",
+   "jurisdicao_b": "Austrália",
+   "individuos_em_comum": 66,
+   "individuos_em_a": 89,
+   "individuos_em_b": 111
+  },
+  {
+   "especie": "albatroz",
+   "jurisdicao_a": "Austrália",
+   "jurisdicao_b": "África do Sul",
+   "individuos_em_comum": 57,
+   "individuos_em_a": 99,
+   "individuos_em_b": 112
+  },
+  {
+   "especie": "albatroz",
+   "jurisdicao_a": "Austrália",
+   "jurisdicao_b": "Nova Zelândia",
+   "individuos_em_comum": 48,
+   "individuos_em_a": 99,
+   "individuos_em_b": 50
+  },
+  {
+   "especie": "albatroz",
+   "jurisdicao_a": "França",
+   "jurisdicao_b": "Nova Zelândia",
+   "individuos_em_comum": 43,
+   "individuos_em_a": 119,
+   "individuos_em_b": 50
+  },
+  {
+   "especie": "cabecuda",
+   "jurisdicao_a": "Japão",
+   "jurisdicao_b": "Área em disputa: Japão / Rússia",
+   "individuos_em_comum": 36,
+   "individuos_em_a": 143,
+   "individuos_em_b": 36
+  },
+  {
+   "especie": "cabecuda",
+   "jurisdicao_a": "Rússia",
+   "jurisdicao_b": "Japão",
+   "individuos_em_comum": 28,
+   "individuos_em_a": 28,
+   "individuos_em_b": 143
+  },
+  {
+   "especie": "cabecuda",
+   "jurisdicao_a": "Japão",
+   "jurisdicao_b": "Área em disputa: China / Taiwan",
+   "individuos_em_comum": 25,
+   "individuos_em_a": 143,
+   "individuos_em_b": 31
+  },
+  {
+   "especie": "cabecuda",
+   "jurisdicao_a": "Japão",
+   "jurisdicao_b": "Área em disputa: Japão / Taiwan",
+   "individuos_em_comum": 25,
+   "individuos_em_a": 143,
+   "individuos_em_b": 28
+  },
+  {
+   "especie": "cabecuda",
+   "jurisdicao_a": "Área em disputa: China / Taiwan",
+   "jurisdicao_b": "Área em disputa: Japão / Taiwan",
+   "individuos_em_comum": 25,
+   "individuos_em_a": 31,
+   "individuos_em_b": 28
+  },
+  {
+   "especie": "albatroz",
+   "jurisdicao_a": "Nova Zelândia",
+   "jurisdicao_b": "Chile",
+   "individuos_em_comum": 24,
+   "individuos_em_a": 50,
+   "individuos_em_b": 26
+  },
+  {
+   "especie": "albatroz",
+   "jurisdicao_a": "Argentina",
+   "jurisdicao_b": "Área em disputa: Argentina / Reino Unido",
+   "individuos_em_comum": 24,
+   "individuos_em_a": 28,
+   "individuos_em_b": 79
+  },
+  {
+   "especie": "cabecuda",
+   "jurisdicao_a": "Espanha",
+   "jurisdicao_b": "Argélia",
+   "individuos_em_comum": 24,
+   "individuos_em_a": 40,
+   "individuos_em_b": 24
+  },
+  {
+   "especie": "albatroz",
+   "jurisdicao_a": "França",
+   "jurisdicao_b": "Chile",
+   "individuos_em_comum": 23,
+   "individuos_em_a": 119,
+   "individuos_em_b": 26
+  },
+  {
+   "especie": "albatroz",
+   "jurisdicao_a": "Austrália",
+   "jurisdicao_b": "Chile",
+   "individuos_em_comum": 23,
+   "individuos_em_a": 99,
+   "individuos_em_b": 26
+  },
+  {
+   "especie": "cabecuda",
+   "jurisdicao_a": "China",
+   "jurisdicao_b": "Área em disputa: China / Taiwan",
+   "individuos_em_comum": 23,
+   "individuos_em_a": 28,
+   "individuos_em_b": 31
+  },
+  {
+   "especie": "albatroz",
+   "jurisdicao_a": "África do Sul",
+   "jurisdicao_b": "Nova Zelândia",
+   "individuos_em_comum": 22,
+   "individuos_em_a": 112,
+   "individuos_em_b": 50
+  },
+  {
+   "especie": "albatroz",
+   "jurisdicao_a": "França",
+   "jurisdicao_b": "Área em disputa: Argentina / Reino Unido",
+   "individuos_em_comum": 21,
+   "individuos_em_a": 119,
+   "individuos_em_b": 79
+  },
+  {
+   "especie": "albatroz",
+   "jurisdicao_a": "Nova Zelândia",
+   "jurisdicao_b": "Área em disputa: Argentina / Reino Unido",
+   "individuos_em_comum": 21,
+   "individuos_em_a": 50,
+   "individuos_em_b": 79
+  },
+  {
+   "especie": "albatroz",
+   "jurisdicao_a": "Chile",
+   "jurisdicao_b": "Área em disputa: Argentina / Reino Unido",
+   "individuos_em_comum": 21,
+   "individuos_em_a": 26,
+   "individuos_em_b": 79
+  },
+  {
+   "especie": "cabecuda",
+   "jurisdicao_a": "Itália",
+   "jurisdicao_b": "Espanha",
+   "individuos_em_comum": 21,
+   "individuos_em_a": 23,
+   "individuos_em_b": 40
+  },
+  {
+   "especie": "cabecuda",
+   "jurisdicao_a": "China",
+   "jurisdicao_b": "Japão",
+   "individuos_em_comum": 20,
+   "individuos_em_a": 28,
+   "individuos_em_b": 143
+  },
+  {
+   "especie": "albatroz",
+   "jurisdicao_a": "Austrália",
+   "jurisdicao_b": "Área em disputa: Argentina / Reino Unido",
+   "individuos_em_comum": 19,
+   "individuos_em_a": 99,
+   "individuos_em_b": 79
+  },
+  {
+   "especie": "cabecuda",
+   "jurisdicao_a": "China",
+   "jurisdicao_b": "Área em disputa: Japão / Taiwan",
+   "individuos_em_comum": 19,
+   "individuos_em_a": 28,
+   "individuos_em_b": 28
+  }
+ ],
+ "travessias_principais": [
+  {
+   "especie": "albatroz",
+   "entre": "Alto-mar",
+   "e": "França",
+   "travessias": 1832
+  },
+  {
+   "especie": "albatroz",
+   "entre": "Alto-mar",
+   "e": "África do Sul",
+   "travessias": 1142
+  },
+  {
+   "especie": "albatroz",
+   "entre": "Alto-mar",
+   "e": "Austrália",
+   "travessias": 905
+  },
+  {
+   "especie": "albatroz",
+   "entre": "Alto-mar",
+   "e": "Nova Zelândia",
+   "travessias": 663
+  },
+  {
+   "especie": "elefante",
+   "entre": "Alto-mar",
+   "e": "África do Sul",
+   "travessias": 266
+  },
+  {
+   "especie": "elefante",
+   "entre": "Alto-mar",
+   "e": "Área em disputa: Argentina / Reino Unido",
+   "travessias": 199
+  },
+  {
+   "especie": "elefante",
+   "entre": "Alto-mar",
+   "e": "Austrália",
+   "travessias": 166
+  },
+  {
+   "especie": "albatroz",
+   "entre": "França",
+   "e": "Austrália",
+   "travessias": 163
+  },
+  {
+   "especie": "elefante",
+   "entre": "França",
+   "e": "Austrália",
+   "travessias": 141
+  },
+  {
+   "especie": "albatroz",
+   "entre": "Alto-mar",
+   "e": "Área em disputa: Argentina / Reino Unido",
+   "travessias": 136
+  },
+  {
+   "especie": "albatroz",
+   "entre": "Alto-mar",
+   "e": "Chile",
+   "travessias": 127
+  },
+  {
+   "especie": "cabecuda",
+   "entre": "Alto-mar",
+   "e": "Japão",
+   "travessias": 98
+  },
+  {
+   "especie": "elefante",
+   "entre": "Alto-mar",
+   "e": "França",
+   "travessias": 81
+  },
+  {
+   "especie": "albatroz",
+   "entre": "França",
+   "e": "África do Sul",
+   "travessias": 70
+  },
+  {
+   "especie": "cabecuda",
+   "entre": "Espanha",
+   "e": "Argélia",
+   "travessias": 65
+  },
+  {
+   "especie": "elefante",
+   "entre": "Alto-mar",
+   "e": "Reino Unido",
+   "travessias": 62
+  },
+  {
+   "especie": "cabecuda",
+   "entre": "Rússia",
+   "e": "Japão",
+   "travessias": 59
+  },
+  {
+   "especie": "cabecuda",
+   "entre": "Japão",
+   "e": "Área em disputa: Japão / Rússia",
+   "travessias": 52
+  },
+  {
+   "especie": "albatroz",
+   "entre": "Chile",
+   "e": "Argentina",
+   "travessias": 44
+  },
+  {
+   "especie": "cabecuda",
+   "entre": "Itália",
+   "e": "Tunísia",
+   "travessias": 41
+  },
+  {
+   "especie": "cabecuda",
+   "entre": "China",
+   "e": "Japão",
+   "travessias": 41
+  },
+  {
+   "especie": "albatroz",
+   "entre": "Austrália",
+   "e": "Nova Zelândia",
+   "travessias": 38
+  },
+  {
+   "especie": "couro",
+   "entre": "Alto-mar",
+   "e": "África do Sul",
+   "travessias": 38
+  },
+  {
+   "especie": "cabecuda",
+   "entre": "Japão",
+   "e": "Área em disputa: Japão / Taiwan",
+   "travessias": 37
+  },
+  {
+   "especie": "cabecuda",
+   "entre": "China",
+   "e": "Área em disputa: China / Taiwan",
+   "travessias": 35
+  }
+ ],
+ "contra_o_acaso": [
+  {
+   "especie": "albatroz",
+   "caminhada": "sem memória",
+   "individuos": 220,
+   "observado": 0.7266,
+   "acaso": 0.7691,
+   "diferenca": -0.0424,
+   "diferenca_inf": -0.0603,
+   "diferenca_sup": -0.0246,
+   "individuos_acima_do_acaso": 0.3636
+  },
+  {
+   "especie": "albatroz",
+   "caminhada": "com persistência",
+   "individuos": 220,
+   "observado": 0.7266,
+   "acaso": 0.758,
+   "diferenca": -0.0314,
+   "diferenca_inf": -0.0518,
+   "diferenca_sup": -0.0115,
+   "individuos_acima_do_acaso": 0.4091
+  },
+  {
+   "especie": "elefante",
+   "caminhada": "sem memória",
+   "individuos": 437,
+   "observado": 0.8232,
+   "acaso": 0.5975,
+   "diferenca": 0.2257,
+   "diferenca_inf": 0.1916,
+   "diferenca_sup": 0.2607,
+   "individuos_acima_do_acaso": 0.7231
+  },
+  {
+   "especie": "elefante",
+   "caminhada": "com persistência",
+   "individuos": 437,
+   "observado": 0.8232,
+   "acaso": 0.7218,
+   "diferenca": 0.1015,
+   "diferenca_inf": 0.077,
+   "diferenca_sup": 0.1249,
+   "individuos_acima_do_acaso": 0.7002
+  },
+  {
+   "especie": "couro",
+   "caminhada": "sem memória",
+   "individuos": 29,
+   "observado": 0.2835,
+   "acaso": 0.1131,
+   "diferenca": 0.1704,
+   "diferenca_inf": 0.0746,
+   "diferenca_sup": 0.2743,
+   "individuos_acima_do_acaso": 0.4828
+  },
+  {
+   "especie": "couro",
+   "caminhada": "com persistência",
+   "individuos": 29,
+   "observado": 0.2835,
+   "acaso": 0.2491,
+   "diferenca": 0.0344,
+   "diferenca_inf": -0.0569,
+   "diferenca_sup": 0.1324,
+   "individuos_acima_do_acaso": 0.3448
+  },
+  {
+   "especie": "cabecuda",
+   "caminhada": "sem memória",
+   "individuos": 293,
+   "observado": 0.6494,
+   "acaso": 0.2828,
+   "diferenca": 0.3665,
+   "diferenca_inf": 0.3157,
+   "diferenca_sup": 0.4147,
+   "individuos_acima_do_acaso": 0.43
+  },
+  {
+   "especie": "cabecuda",
+   "caminhada": "com persistência",
+   "individuos": 293,
+   "observado": 0.6494,
+   "acaso": 0.3351,
+   "diferenca": 0.3143,
+   "diferenca_inf": 0.2717,
+   "diferenca_sup": 0.3522,
+   "individuos_acima_do_acaso": 0.4676
+  },
+  {
+   "especie": "baleia",
+   "caminhada": "sem memória",
+   "individuos": 36,
+   "observado": 0.2276,
+   "acaso": 0.0948,
+   "diferenca": 0.1328,
+   "diferenca_inf": 0.0281,
+   "diferenca_sup": 0.264,
+   "individuos_acima_do_acaso": 0.4167
+  },
+  {
+   "especie": "baleia",
+   "caminhada": "com persistência",
+   "individuos": 36,
+   "observado": 0.2276,
+   "acaso": 0.1809,
+   "diferenca": 0.0467,
+   "diferenca_inf": -0.0319,
+   "diferenca_sup": 0.1357,
+   "individuos_acima_do_acaso": 0.3889
+  }
+ ],
+ "trechos_de_alto_mar": [
+  {
+   "especie": "albatroz",
+   "bloco": "40° a 50°S, 40° a 50°L",
+   "oceano": "Índico Sul",
+   "dias_em_alto_mar": 2183.25,
+   "parte_do_alto_mar_da_especie": 0.0707,
+   "parte_do_tempo_da_especie": 0.0513,
+   "individuos_na_celula_mais_usada": 64
+  },
+  {
+   "especie": "albatroz",
+   "bloco": "30° a 40°S, 40° a 50°L",
+   "oceano": "Índico",
+   "dias_em_alto_mar": 2013.25,
+   "parte_do_alto_mar_da_especie": 0.0652,
+   "parte_do_tempo_da_especie": 0.0473,
+   "individuos_na_celula_mais_usada": 52
+  },
+  {
+   "especie": "albatroz",
+   "bloco": "50° a 60°S, 40° a 50°L",
+   "oceano": "Oceano Austral",
+   "dias_em_alto_mar": 1564.25,
+   "parte_do_alto_mar_da_especie": 0.0506,
+   "parte_do_tempo_da_especie": 0.0368,
+   "individuos_na_celula_mais_usada": 38
+  },
+  {
+   "especie": "elefante",
+   "bloco": "60° a 70°S, 70° a 80°O",
+   "oceano": "Oceano Austral",
+   "dias_em_alto_mar": 5907.75,
+   "parte_do_alto_mar_da_especie": 0.0944,
+   "parte_do_tempo_da_especie": 0.0777,
+   "individuos_na_celula_mais_usada": 57
+  },
+  {
+   "especie": "elefante",
+   "bloco": "60° a 70°S, 50° a 60°O",
+   "oceano": "Oceano Austral",
+   "dias_em_alto_mar": 5138.0,
+   "parte_do_alto_mar_da_especie": 0.0821,
+   "parte_do_tempo_da_especie": 0.0675,
+   "individuos_na_celula_mais_usada": 56
+  },
+  {
+   "especie": "elefante",
+   "bloco": "60° a 70°S, 60° a 70°O",
+   "oceano": "Oceano Austral",
+   "dias_em_alto_mar": 3834.25,
+   "parte_do_alto_mar_da_especie": 0.0613,
+   "parte_do_tempo_da_especie": 0.0504,
+   "individuos_na_celula_mais_usada": 73
+  },
+  {
+   "especie": "couro",
+   "bloco": "30° a 40°S, 30° a 40°L",
+   "oceano": "Índico",
+   "dias_em_alto_mar": 236.5,
+   "parte_do_alto_mar_da_especie": 0.2833,
+   "parte_do_tempo_da_especie": 0.08,
+   "individuos_na_celula_mais_usada": 8
+  },
+  {
+   "especie": "couro",
+   "bloco": "30° a 40°S, 10° a 20°L",
+   "oceano": "Atlântico Sul",
+   "dias_em_alto_mar": 172.75,
+   "parte_do_alto_mar_da_especie": 0.2069,
+   "parte_do_tempo_da_especie": 0.0585,
+   "individuos_na_celula_mais_usada": 5
+  },
+  {
+   "especie": "couro",
+   "bloco": "30° a 40°S, 20° a 30°L",
+   "oceano": "Índico",
+   "dias_em_alto_mar": 92.75,
+   "parte_do_alto_mar_da_especie": 0.1111,
+   "parte_do_tempo_da_especie": 0.0314,
+   "individuos_na_celula_mais_usada": 7
+  },
+  {
+   "especie": "cabecuda",
+   "bloco": "30° a 40°N, 170° a 180°L",
+   "oceano": "Pacífico Norte",
+   "dias_em_alto_mar": 7669.5,
+   "parte_do_alto_mar_da_especie": 0.1884,
+   "parte_do_tempo_da_especie": 0.1222,
+   "individuos_na_celula_mais_usada": 32
+  },
+  {
+   "especie": "cabecuda",
+   "bloco": "30° a 40°N, 170° a 180°O",
+   "oceano": "Pacífico Norte",
+   "dias_em_alto_mar": 5046.0,
+   "parte_do_alto_mar_da_especie": 0.1239,
+   "parte_do_tempo_da_especie": 0.0804,
+   "individuos_na_celula_mais_usada": 32
+  },
+  {
+   "especie": "cabecuda",
+   "bloco": "30° a 40°N, 160° a 170°L",
+   "oceano": "Pacífico Norte",
+   "dias_em_alto_mar": 5027.5,
+   "parte_do_alto_mar_da_especie": 0.1235,
+   "parte_do_tempo_da_especie": 0.0801,
+   "individuos_na_celula_mais_usada": 29
+  },
+  {
+   "especie": "baleia",
+   "bloco": "0° a 10°N, 100° a 110°O",
+   "oceano": "Pacífico Norte",
+   "dias_em_alto_mar": 165.25,
+   "parte_do_alto_mar_da_especie": 0.2871,
+   "parte_do_tempo_da_especie": 0.0646,
+   "individuos_na_celula_mais_usada": 6
+  },
+  {
+   "especie": "baleia",
+   "bloco": "0° a 10°N, 90° a 100°O",
+   "oceano": "Pacífico Norte",
+   "dias_em_alto_mar": 127.25,
+   "parte_do_alto_mar_da_especie": 0.2211,
+   "parte_do_tempo_da_especie": 0.0498,
+   "individuos_na_celula_mais_usada": 15
+  },
+  {
+   "especie": "baleia",
+   "bloco": "0° a 10°N, 80° a 90°O",
+   "oceano": "Pacífico Norte",
+   "dias_em_alto_mar": 87.0,
+   "parte_do_alto_mar_da_especie": 0.1512,
+   "parte_do_tempo_da_especie": 0.034,
+   "individuos_na_celula_mais_usada": 5
+  }
+ ],
+ "concentracao_do_alto_mar": [
+  {
+   "especie": "albatroz",
+   "celulas_com_alto_mar": 7845,
+   "celulas_para_metade_do_tempo": 916
+  },
+  {
+   "especie": "elefante",
+   "celulas_com_alto_mar": 6008,
+   "celulas_para_metade_do_tempo": 421
+  },
+  {
+   "especie": "couro",
+   "celulas_com_alto_mar": 291,
+   "celulas_para_metade_do_tempo": 52
+  },
+  {
+   "especie": "cabecuda",
+   "celulas_com_alto_mar": 1498,
+   "celulas_para_metade_do_tempo": 236
+  },
+  {
+   "especie": "baleia",
+   "celulas_com_alto_mar": 142,
+   "celulas_para_metade_do_tempo": 23
+  }
+ ],
+ "alto_mar_ao_sul_de_60": [
+  {
+   "especie": "albatroz",
+   "parte_do_tempo_total": 0.0292,
+   "alto_mar_ao_norte_de_60_no_tempo_total": 0.6969,
+   "parte_do_tempo_em_alto_mar": 0.0402
+  },
+  {
+   "especie": "elefante",
+   "parte_do_tempo_total": 0.4503,
+   "alto_mar_ao_norte_de_60_no_tempo_total": 0.3723,
+   "parte_do_tempo_em_alto_mar": 0.5474
+  },
+  {
+   "especie": "couro",
+   "parte_do_tempo_total": 0.0,
+   "alto_mar_ao_norte_de_60_no_tempo_total": 0.2825,
+   "parte_do_tempo_em_alto_mar": 0.0
+  },
+  {
+   "especie": "cabecuda",
+   "parte_do_tempo_total": 0.0,
+   "alto_mar_ao_norte_de_60_no_tempo_total": 0.6488,
+   "parte_do_tempo_em_alto_mar": 0.0
+  },
+  {
+   "especie": "baleia",
+   "parte_do_tempo_total": 0.0,
+   "alto_mar_ao_norte_de_60_no_tempo_total": 0.225,
+   "parte_do_tempo_em_alto_mar": 0.0
+  }
+ ],
+ "zonas_principais": [
+  {
+   "especie": "albatroz",
+   "zona": "New Zealand Exclusive Economic Zone",
+   "fracao_do_tempo": 0.0651,
+   "individuos_que_usaram": 50
+  },
+  {
+   "especie": "albatroz",
+   "zona": "French Exclusive Economic Zone (Crozet Islands)",
+   "fracao_do_tempo": 0.0432,
+   "individuos_que_usaram": 102
+  },
+  {
+   "especie": "albatroz",
+   "zona": "South African Exclusive Economic Zone (Prince Edward Islands)",
+   "fracao_do_tempo": 0.0395,
+   "individuos_que_usaram": 111
+  },
+  {
+   "especie": "albatroz",
+   "zona": "French Exclusive Economic Zone (Kerguélen)",
+   "fracao_do_tempo": 0.0326,
+   "individuos_que_usaram": 90
+  },
+  {
+   "especie": "albatroz",
+   "zona": "Australian Exclusive Economic Zone",
+   "fracao_do_tempo": 0.0206,
+   "individuos_que_usaram": 47
+  },
+  {
+   "especie": "albatroz",
+   "zona": "Chilean Exclusive Economic Zone",
+   "fracao_do_tempo": 0.0199,
+   "individuos_que_usaram": 26
+  },
+  {
+   "especie": "elefante",
+   "zona": "Overlapping claim South Georgia and the South Sandwich Islands: United Kingdom / Argentina",
+   "fracao_do_tempo": 0.0481,
+   "individuos_que_usaram": 101
+  },
+  {
+   "especie": "elefante",
+   "zona": "South African Exclusive Economic Zone (Prince Edward Islands)",
+   "fracao_do_tempo": 0.0449,
+   "individuos_que_usaram": 101
+  },
+  {
+   "especie": "elefante",
+   "zona": "French Exclusive Economic Zone (Kerguélen)",
+   "fracao_do_tempo": 0.027,
+   "individuos_que_usaram": 83
+  },
+  {
+   "especie": "elefante",
+   "zona": "Australian Exclusive Economic Zone (Heard and McDonald Islands)",
+   "fracao_do_tempo": 0.0241,
+   "individuos_que_usaram": 81
+  },
+  {
+   "especie": "elefante",
+   "zona": "British Exclusive Economic Zone (Tristan da Cunha)",
+   "fracao_do_tempo": 0.0076,
+   "individuos_que_usaram": 21
+  },
+  {
+   "especie": "elefante",
+   "zona": "Australian Exclusive Economic Zone (Macquarie Island)",
+   "fracao_do_tempo": 0.0058,
+   "individuos_que_usaram": 30
+  },
+  {
+   "especie": "couro",
+   "zona": "South African Exclusive Economic Zone",
+   "fracao_do_tempo": 0.353,
+   "individuos_que_usaram": 29
+  },
+  {
+   "especie": "couro",
+   "zona": "Mozambican Exclusive Economic Zone",
+   "fracao_do_tempo": 0.3213,
+   "individuos_que_usaram": 18
+  },
+  {
+   "especie": "couro",
+   "zona": "Namibian Exclusive Economic Zone",
+   "fracao_do_tempo": 0.0286,
+   "individuos_que_usaram": 3
+  },
+  {
+   "especie": "couro",
+   "zona": "Madagascan Exclusive Economic Zone",
+   "fracao_do_tempo": 0.0105,
+   "individuos_que_usaram": 1
+  },
+  {
+   "especie": "couro",
+   "zona": "French Exclusive Economic Zone (Europa Island)",
+   "fracao_do_tempo": 0.0033,
+   "individuos_que_usaram": 1
+  },
+  {
+   "especie": "couro",
+   "zona": "French Exclusive Economic Zone (Bassas da India)",
+   "fracao_do_tempo": 0.0008,
+   "individuos_que_usaram": 1
+  },
+  {
+   "especie": "cabecuda",
+   "zona": "Japanese Exclusive Economic Zone",
+   "fracao_do_tempo": 0.1105,
+   "individuos_que_usaram": 143
+  },
+  {
+   "especie": "cabecuda",
+   "zona": "Spanish Exclusive Economic Zone",
+   "fracao_do_tempo": 0.0334,
+   "individuos_que_usaram": 40
+  },
+  {
+   "especie": "cabecuda",
+   "zona": "Chinese Exclusive Economic Zone",
+   "fracao_do_tempo": 0.0295,
+   "individuos_que_usaram": 28
+  },
+  {
+   "especie": "cabecuda",
+   "zona": "Greek Exclusive Economic Zone",
+   "fracao_do_tempo": 0.0231,
+   "individuos_que_usaram": 20
+  },
+  {
+   "especie": "cabecuda",
+   "zona": "Tunisian Exclusive Economic Zone",
+   "fracao_do_tempo": 0.015,
+   "individuos_que_usaram": 21
+  },
+  {
+   "especie": "cabecuda",
+   "zona": "Overlapping claim Kuril Islands: Japan / Russia",
+   "fracao_do_tempo": 0.0138,
+   "individuos_que_usaram": 36
+  },
+  {
+   "especie": "baleia",
+   "zona": "Australian Exclusive Economic Zone",
+   "fracao_do_tempo": 0.3638,
+   "individuos_que_usaram": 15
+  },
+  {
+   "especie": "baleia",
+   "zona": "Papua New Guinean Exclusive Economic Zone",
+   "fracao_do_tempo": 0.1584,
+   "individuos_que_usaram": 7
+  },
+  {
+   "especie": "baleia",
+   "zona": "Ecuadorian Exclusive Economic Zone (Galapagos)",
+   "fracao_do_tempo": 0.1504,
+   "individuos_que_usaram": 19
+  },
+  {
+   "especie": "baleia",
+   "zona": "Peruvian Exclusive Economic Zone",
+   "fracao_do_tempo": 0.05,
+   "individuos_que_usaram": 5
+  },
+  {
+   "especie": "baleia",
+   "zona": "Costa Rican Exclusive Economic Zone",
+   "fracao_do_tempo": 0.0179,
+   "individuos_que_usaram": 3
+  },
+  {
+   "especie": "baleia",
+   "zona": "Ecuadorian Exclusive Economic Zone",
+   "fracao_do_tempo": 0.0146,
+   "individuos_que_usaram": 3
+  }
+ ],
+ "para_o_site": {
+  "numero_chave": {
+   "pt": "23% a 82%",
+   "en": "23% to 82%",
+   "es": "23% a 82%"
+  },
+  "pergunta": {
+   "pt": "Quanto do caminho de um animal marinho migratório passa por águas de algum país, e quanto por alto-mar?",
+   "en": "How much of a migratory marine animal's path lies in some country's waters, and how much on the high seas?",
+   "es": "¿Cuánto del camino de un animal marino migratorio pasa por aguas de algún país y cuánto por alta mar?"
+  },
+  "resultado": {
+   "pt": "Depende muito da espécie e de onde ela foi marcada: os elefantes-marinhos-do-sul rastreados passaram 82% do tempo em alto-mar (IC 95%: 80% a 85%) e os tubarões-baleia, 23% (12% a 37%). Contar registros em vez de tempo empata em 3 das 5 espécies; onde erra, erra mais nas tartarugas-cabeçudas: 48% em vez de 65%.",
+   "en": "It depends heavily on the species and on where it was tagged: tracked southern elephant seals spent 82% of their time on the high seas (95% CI 80% to 85%), whale sharks 23% (12% to 37%). Counting records instead of time ties in 3 of the 5 species; where it is off, it is furthest off for loggerhead turtles: 48% instead of 65%.",
+   "es": "Depende mucho de la especie y de dónde se marcó: los elefantes marinos del sur rastreados pasaron el 82% del tiempo en alta mar (IC 95 %: 80% a 85%) y los tiburones ballena, el 23% (12% a 37%). Contar registros en lugar de tiempo empata en 3 de las 5 especies; donde falla, falla más en las tortugas bobas: 48% en vez de 65%."
+  },
+  "detalhe": {
+   "pt": "No gráfico, a barra azul é a fração do tempo em alto-mar e a laranja, a fração dos registros; a faixa é o intervalo de 95% reamostrando animais inteiros. Contra caminhadas aleatórias que partem do mesmo ponto com os mesmos passos, o alto-mar fica acima do acaso para elefantes-marinhos-do-sul e tartarugas-cabeçudas e abaixo para albatrozes-errantes.",
+   "en": "In the chart, the blue bar is the share of time on the high seas and the orange bar the share of records; the band is the 95% interval from resampling whole animals. Against random walks that start at the same tagging site with the same step lengths, high-seas use is above chance for southern elephant seals and loggerhead turtles and below it for wandering albatrosses.",
+   "es": "En el gráfico, la barra azul es la fracción del tiempo en alta mar y la naranja, la de los registros; la banda es el intervalo del 95 % remuestreando animales enteros. Frente a caminatas aleatorias que parten del mismo punto con los mismos pasos, el uso de alta mar queda por encima del azar en elefantes marinos del sur y tortugas bobas y por debajo en albatros errantes."
+  },
+  "dados": {
+   "pt": "1.015 animais de 5 espécies rastreados por satélite (1996 a 2024), de 15 conjuntos públicos do OBIS coletados em 12/11/2026, sobre as ZEE do Marine Regions (v12).",
+   "en": "1,015 satellite-tracked animals of 5 species (1996–2024) from 15 public OBIS datasets collected on 12 Nov 2026, overlaid on Marine Regions EEZs (v12).",
+   "es": "1.015 animales de 5 especies rastreados por satélite (1996 a 2024), de 15 conjuntos públicos de OBIS recogidos el 12/11/2026, sobre las ZEE de Marine Regions (v12)."
+  },
+  "etiquetas": [
+   "telemetria",
+   "análise espacial",
+   "bootstrap por indivíduo",
+   "modelo nulo",
+   "OBIS"
+  ],
+  "grafico": {
+   "tipo": "barras",
+   "titulo": {
+    "pt": "Tempo em alto-mar por espécie: pelo tempo rastreado e pela contagem de registros",
+    "en": "Time on the high seas by species: by tracked time and by record count",
+    "es": "Tiempo en alta mar por especie: por tiempo rastreado y por recuento de registros"
+   },
+   "eixo_x": {
+    "pt": "Espécie",
+    "en": "Species",
+    "es": "Especie"
+   },
+   "eixo_y": {
+    "pt": "Fração em alto-mar",
+    "en": "Share on the high seas",
+    "es": "Fracción en alta mar"
+   },
+   "formato_x": "numero",
+   "formato_y": "percentual",
+   "series": [
+    {
+     "nome": {
+      "pt": "Pelo tempo rastreado",
+      "en": "By tracked time",
+      "es": "Por tiempo rastreado"
+     },
+     "papel": "principal",
+     "pontos": [
+      [
+       "Albatroz-errante",
+       0.7261
+      ],
+      [
+       "Elefante-marinho-do-sul",
+       0.8226
+      ],
+      [
+       "Tartaruga-de-couro",
+       0.2825
+      ],
+      [
+       "Tartaruga-cabeçuda",
+       0.6488
+      ],
+      [
+       "Tubarão-baleia",
+       0.225
+      ]
+     ],
+     "rotulos": {
+      "pt": [
+       "Albatroz-errante",
+       "Elefante-marinho-do-sul",
+       "Tartaruga-de-couro",
+       "Tartaruga-cabeçuda",
+       "Tubarão-baleia"
+      ],
+      "en": [
+       "Wandering albatross",
+       "Southern elephant seal",
+       "Leatherback turtle",
+       "Loggerhead turtle",
+       "Whale shark"
+      ],
+      "es": [
+       "Albatros errante",
+       "Elefante marino del sur",
+       "Tortuga laúd",
+       "Tortuga boba",
+       "Tiburón ballena"
+      ]
+     }
+    },
+    {
+     "nome": {
+      "pt": "Pela contagem de registros",
+      "en": "By record count",
+      "es": "Por recuento de registros"
+     },
+     "papel": "base",
+     "pontos": [
+      [
+       "Albatroz-errante",
+       0.669
+      ],
+      [
+       "Elefante-marinho-do-sul",
+       0.8223
+      ],
+      [
+       "Tartaruga-de-couro",
+       0.2656
+      ],
+      [
+       "Tartaruga-cabeçuda",
+       0.4807
+      ],
+      [
+       "Tubarão-baleia",
+       0.2495
+      ]
+     ],
+     "rotulos": {
+      "pt": [
+       "Albatroz-errante",
+       "Elefante-marinho-do-sul",
+       "Tartaruga-de-couro",
+       "Tartaruga-cabeçuda",
+       "Tubarão-baleia"
+      ],
+      "en": [
+       "Wandering albatross",
+       "Southern elephant seal",
+       "Leatherback turtle",
+       "Loggerhead turtle",
+       "Whale shark"
+      ],
+      "es": [
+       "Albatros errante",
+       "Elefante marino del sur",
+       "Tortuga laúd",
+       "Tortuga boba",
+       "Tiburón ballena"
+      ]
+     }
+    }
+   ],
+   "faixa": {
+    "serie": 0,
+    "inferior": [
+     [
+      "Albatroz-errante",
+      0.704
+     ],
+     [
+      "Elefante-marinho-do-sul",
+      0.7975
+     ],
+     [
+      "Tartaruga-de-couro",
+      0.164
+     ],
+     [
+      "Tartaruga-cabeçuda",
+      0.5974
+     ],
+     [
+      "Tubarão-baleia",
+      0.119
+     ]
+    ],
+    "superior": [
+     [
+      "Albatroz-errante",
+      0.7481
+     ],
+     [
+      "Elefante-marinho-do-sul",
+      0.8464
+     ],
+     [
+      "Tartaruga-de-couro",
+      0.4125
+     ],
+     [
+      "Tartaruga-cabeçuda",
+      0.6949
+     ],
+     [
+      "Tubarão-baleia",
+      0.3655
+     ]
+    ]
+   }
+  }
+ },
+ "resumo_contra_o_acaso": {
+  "acima_nas_duas_caminhadas": [
+   "elefante",
+   "cabecuda"
+  ],
+  "abaixo_nas_duas_caminhadas": [
+   "albatroz"
+  ]
+ }
+}
