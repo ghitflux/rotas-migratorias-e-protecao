@@ -190,6 +190,51 @@ def test_nome_do_grupo_traduz_paises_e_tipos():
     assert dados.nome_do_grupo("Atlantis") == "Atlantis"
 
 
+def _conferir_graficos_extras(extras: list[dict]) -> None:
+    """Forma que o site exige de `para_o_site.graficos_extras`."""
+    idiomas = {"pt", "en", "es"}
+    assert 3 <= len(extras) <= 5
+    for g in extras:
+        assert g["tipo"] in ("linhas", "barras", "pontos")
+        for campo in ("titulo", "eixo_x", "eixo_y", "leitura"):
+            assert set(g[campo]) == idiomas and all(isinstance(t, str) and t.strip() for t in g[campo].values())
+        assert all(len(t) <= 90 for t in g["titulo"].values())
+        assert g["formato_x"] in ("numero", "percentual", "data") and g["formato_y"] in ("numero", "percentual", "moeda", "data")
+        assert 1 <= len(g["series"]) <= 4
+        if "faixa" in g:
+            assert g["tipo"] == "linhas"
+        for serie in g["series"]:
+            assert set(serie["nome"]) == idiomas
+            assert serie["papel"] in ("principal", "base", "alternativa", "neutro")
+            assert len(serie["pontos"]) <= (300 if g["tipo"] == "pontos" else 80)
+            for x, y in serie["pontos"]:
+                assert isinstance(y, (int, float)) and y == y  # número, e não NaN
+                assert isinstance(x, str) if g["tipo"] == "barras" else isinstance(x, (int, float))
+                if g["formato_y"] == "percentual":
+                    assert 0.0 <= y <= 1.0
+            if g["tipo"] == "barras":
+                assert set(serie["rotulos"]) == idiomas
+                assert all(len(serie["rotulos"][i]) == len(serie["pontos"]) for i in idiomas)
+                assert serie["rotulos"]["pt"] == [x for x, _ in serie["pontos"]]
+
+
+def test_graficos_extras_do_resultado_versionado():
+    """O arquivo que o site lê, quando existe, tem de estar na forma pedida."""
+    import json
+    from pathlib import Path
+
+    caminho = Path(__file__).resolve().parents[1] / "reports" / "resultados.json"
+    if not caminho.exists():
+        pytest.skip("reports/resultados.json ainda não foi gerado")
+    extras = json.loads(caminho.read_text(encoding="utf-8"))["para_o_site"]["graficos_extras"]
+    _conferir_graficos_extras(extras)
+    assert [g["tipo"] for g in extras].count("linhas") == 1
+    assert all(len(serie["pontos"]) >= 5 for g in extras for serie in g["series"])
+    regimes = extras[3]  # os três regimes de cada espécie somam o tempo rastreado inteiro
+    for k in range(5):
+        assert sum(serie["pontos"][k][1] for serie in regimes["series"]) == pytest.approx(1.0, abs=1e-3)
+
+
 def test_bloco_do_site_respeita_o_formato():
     base = _base()
     rng = np.random.default_rng(0)
@@ -197,10 +242,21 @@ def test_bloco_do_site_respeita_o_formato():
     r = {
         "alto_mar_por_especie": registros(analise.alto_mar_por_especie(base, rng)),
         "contra_o_acaso": registros(analise.contra_o_acaso(base, rng)),
+        "por_populacao": registros(analise.por_populacao(base, rng)),
+        "curva_semanal": registros(analise.curva_semanal(base, minimo_de_individuos=1)),
+        "alto_mar_ao_sul_de_60": registros(analise.alto_mar_ao_sul_de_60(base)),
+        "jurisdicoes_por_individuo": registros(analise.jurisdicoes_por_individuo(base)),
         "geral": {"individuos": 15, "especies": 5, "conjuntos": 10, "ano_inicial": 2001, "ano_final": 2003},
         "coleta": {"data_da_coleta": "2026-11-12"},
     }
     b = bloco(r)
+    _conferir_graficos_extras(b["graficos_extras"])
+    # valores vêm do cálculo: população A da cabeçuda (300 / 500) e um em três animais com 2 ou mais jurisdições
+    populacoes, _, _, regimes, paises = b["graficos_extras"]
+    assert populacoes["series"][0]["pontos"][0] == ["Cabeçuda · A", 0.6]
+    assert populacoes["series"][0]["rotulos"]["en"][0] == "Loggerhead · A"
+    assert regimes["series"][2]["pontos"][2][1] == pytest.approx(0.5)  # águas nacionais da tartaruga-de-couro: 1 - 0,5
+    assert paises["series"][0]["pontos"][0][1] == pytest.approx(1 / 3, abs=1e-4)
     for chave in ("numero_chave", "pergunta", "resultado", "detalhe", "dados"):
         assert set(b[chave]) == {"pt", "en", "es"}
     assert all(len(texto) <= 12 for texto in b["numero_chave"].values())

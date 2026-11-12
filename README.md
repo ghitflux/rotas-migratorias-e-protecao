@@ -383,7 +383,7 @@ Pré-requisito: [`uv`](https://docs.astral.sh/uv/getting-started/installation/).
 ```bash
 uv sync
 uv run python scripts/rodar_analise.py   # regera reports/ a partir do extrato em data/ (cerca de 5 segundos)
-uv run pytest -q -p no:cacheprovider     # 69 testes, não dependem dos dados
+uv run pytest -q -p no:cacheprovider     # 70 testes; só um lê reports/resultados.json, para conferir o bloco do site
 uv run python scripts/baixar_dados.py    # opcional: baixa tudo de novo (cerca de 30 minutos) e remonta data/
 ```
 
@@ -405,7 +405,7 @@ história com as tabelas; ele é montado por `scripts/montar_notebook.py`.
 │   ├── dados.py, analise.py   # leitura do extrato e uma função por tabela
 │   └── graficos.py, estilo.py, site.py
 ├── scripts/                   # baixar_dados.py, rodar_analise.py, montar_notebook.py
-├── tests/                     # 69 testes (pytest)
+├── tests/                     # 70 testes (pytest)
 └── reports/                   # resultados.json, tempo_por_jurisdicao.csv, grade_tempo_por_celula.csv e figuras
 ```
 
